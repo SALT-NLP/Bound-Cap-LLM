@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAdEqIBT1NI20cbw0BELUie9Atmq",
+    "object": "text_completion",
+    "created": 1664545576,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a brief passage about running:\n\nRunning is a great way to get some exercise and fresh air. It's also a great way to clear your head and relieve stress. If you're looking for a new way to stay healthy and happy, give running a try!",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nI love the feeling of the wind in my hair and the sun on my face as I run. It's like I can forget all my troubles and just enjoy the moment. I always feel so much better after a good run.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nThere's nothing quite like the feeling of hitting the open road and feeling the wind rushing through your hair. Whether you're running for exercise, to clear your head, or just to get from point A to point B, there's nothing quite like it. And the best part is, anyone can do it! All you need is a good pair of shoes and you're good to go.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nThere's something about running that just makes you feel alive. Every time your feet hit the ground, you feel like you can conquer the world. It's a feeling like no other, and once you get a taste of it, you can't help but crave more. Whether you're running for fun or running for competition, there's no denying that running is one of the most exhilarating experiences out there.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nI love the feeling of running. It's like flying. The wind rushing past me, the ground passing beneath my feet. I can forget everything when I'm running. Everything except the joy of just being alive and moving.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nThere's something about running that just feels right. Every time I lace up my shoes and head out the door, I know I'm doing something good for my body and my mind.\n\nRunning is one of the most efficient forms of exercise: it's a great way to get your heart rate up and to burn calories. And it's also a great way to clear your head and relieve stress.\n\nFor me, running is the perfect way to start my day. It gets me moving and sets the tone for a productive day.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nRunning is a type of aerobic exercise that helps to improve your cardiovascular health. When you run, your heart rate increases and you breathe faster, which helps to deliver more oxygen to your muscles. Running also helps to build strong bones and muscles, and can help to improve your mood and mental health.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nI love the feeling of running. The wind in my hair, the sun on my face, the ground flying beneath my feet. It's like I can forget everything else in the world and just focus on the moment. Every time I go for a run, I feel like I can conquer anything.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nThere's nothing quite like the feeling of running. The wind rushing through your hair, the sun on your face, the feeling of your feet hitting the ground. It's invigorating, freeing, and just plain fun. Whether you're running for exercise, competition, or just for the pure joy of it, there's nothing quite like it. So lace up your shoes and hit the open road!",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a brief passage about running:\n\nI love the feeling of running. The wind in my hair, the sun on my face, and the ground beneath my feet. It's like flying. When I run, I feel free.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7,
+        "completion_tokens": 665,
+        "total_tokens": 672
+    }
+}

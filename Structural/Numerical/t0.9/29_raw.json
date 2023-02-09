@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wA69Z50EbDMrDtPShXeiqfeRKqIJ",
+    "object": "text_completion",
+    "created": 1664543525,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nI love exploring the many different areas of Shanghai.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city in China with a population of over 24 million.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nThe Bund is one of the most famous landmarks in Shanghai.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nI have always wanted to visit Shanghai because of its rich culture and history.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a fascinating city with a rich history and culture.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a beautiful city with many things to see and do.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nI love Shanghai because it is a city that is always busy and there is always something to do.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is one of the most populous cities in the world.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is the most populous city in the world, with over 24 million people.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nA place where old and new collide, Shanghai is a city where you can find both traditional Chinese culture and a modern, international lifestyle.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 181,
+        "total_tokens": 190
+    }
+}

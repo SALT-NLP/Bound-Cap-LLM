@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wAMdIijKMILKKXukX0qYI42Jec1W",
+    "object": "text_completion",
+    "created": 1664544547,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI love the feeling of the wind in my hair as I run.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 16,
+        "total_tokens": 25
+    }
+}

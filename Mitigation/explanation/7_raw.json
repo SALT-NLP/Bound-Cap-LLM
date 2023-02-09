@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5orm5KSJJdwKedsd9kXDKVauvswLD",
+    "object": "text_completion",
+    "created": 1662804793,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nLove is a strong and passionate emotion that can change your life forever.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a wonderful feeling that makes you happier and more fulfilled.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a feeling of strong attachment or admiration and caring for someone or something.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is the most beautiful thing in the world and it should be cherished.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a feeling of strong attachment or admiration and caring for someone or something.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is something that should be cherished and treasured.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a beautiful thing that should be cherished and nurtured.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is the emotion that we feel when we are attracted to someone and care about them deeply.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a beautiful thing that should be cherished and nurtured.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 132,
+        "completion_tokens": 175,
+        "total_tokens": 307
+    }
+}

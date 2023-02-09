@@ -1,0 +1,11 @@
+response 0:
+Write a passage with five paragraphs about love:
+
+Though love is often thought of as a feeling, it is much more than that. Love is a complex emotion that is often difficult to understand. Though we all know what it feels like to love someone, few of us can explain why we love them.
+
+Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often physical and emotional, but it can also be spiritual.
+
+Though we may not be able to define love, we know that it is a powerful force that can change our lives. Love can make us happier and more fulfilled, but it can also be painful and difficult.
+
+No matter what love is, it is always worth fighting for. Though it may not be easy, love is worth the effort. We may not always understand it, but love is the most powerful emotion we will ever feel.
+---------------------------

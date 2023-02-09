@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about love:
+
+Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self-seeking, it is not anxious about anything, it is not irritable. It does not rejoice in iniquity, but rejoices with the truth. It bears all things, believes all things, hopes all things, endures all things.
+---------------------------
+response 1:
+Write a sentence with twenty words about love:
+
+Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.
+---------------------------
+response 2:
+Write a sentence with twenty words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 3:
+Write a sentence with twenty words about love:
+
+Love is the light that guides us through the dark night of our lives.
+---------------------------
+response 4:
+Write a sentence with twenty words about love:
+
+Love is the light that guides us through darkness.
+---------------------------
+response 5:
+Write a sentence with twenty words about love:
+
+No matter how hard things get, love will always make it through.
+---------------------------
+response 6:
+Write a sentence with twenty words about love:
+
+I love you because you make me feel loved.
+---------------------------
+response 7:
+Write a sentence with twenty words about love:
+
+I love you with all of my heart.
+---------------------------
+response 8:
+Write a sentence with twenty words about love:
+
+Love is blind and deaf, it doesn't care about our mistakes.
+---------------------------
+response 9:
+Write a sentence with twenty words about love:
+
+Love is a feeling that is felt when you are attracted to someone, and you want to be with them.
+---------------------------

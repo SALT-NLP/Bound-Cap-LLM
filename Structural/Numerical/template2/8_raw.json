@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5w9llngZxSQ9jdvpjrCIhj1mf0awC",
+    "object": "text_completion",
+    "created": 1664542261,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence about running with 20 words:\n\nRunning is a great way to get exercise.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love the feeling of wind rushing past me as I run.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI enjoy running because it clears my head and makes me feel good.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love the feeling of the wind in my hair as I run.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love running because it gives me time to think.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love to run because it makes me feel free.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love to run because it makes me feel free and alive.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love to run.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love to run. It makes me feel free and alive.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 20 words:\n\nI love running because it makes me feel free and alive.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 135,
+        "total_tokens": 144
+    }
+}

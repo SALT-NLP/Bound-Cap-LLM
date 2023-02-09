@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with five words about cats:
+
+Cats are soft and cuddly.
+---------------------------

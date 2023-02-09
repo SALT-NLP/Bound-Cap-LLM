@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5w9ljzLTyNUzOyRkEpAnGFpm65Bqg",
+    "object": "text_completion",
+    "created": 1664542259,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI love the feeling of running.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI love to run.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI enjoy running because it makes me feel good.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI enjoy running because it is a great way to stay in shape.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI love running because it makes me feel free.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI love to run.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI love to run in the morning.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nRunning is a great way to get exercise.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nRunning is good for you.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about running with 10 words:\n\nI love to run in the morning.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 102,
+        "total_tokens": 111
+    }
+}

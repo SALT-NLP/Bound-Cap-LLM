@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph with twenty sentences about Shanghai:
+
+The city of Shanghai, located in eastern China, is one of the world's most important economic and cultural cities. It is the most populous city in China with over 14 million people and the second most populous city in the world after New York City. Shanghai is a major financial center and the world's leading center for trade and commerce. It is also the city of Shanghai Expo, which was held in Shanghai in 2015.
+---------------------------
+response 1:
+Write a paragraph with twenty sentences about Shanghai:
+
+Shanghai is an economic, political, and social center in southern China. The city has a population of over 10 million and is the most populous in China. Shanghai is the capital of the People's Republic of China and the largest city in the world. The city is home to a variety of cultural and architectural attractions, including the Shanghai Museum of Art, the Shanghai International Financial Center, and the Shanghai Expo Center.
+---------------------------
+response 2:
+Write a paragraph with twenty sentences about Shanghai:
+
+The city of Shanghai is one of the most populous and diverse cities in the world. It is located on the southern coast of China and is the largest city in the People's Republic of China. Shanghai is the economic, political, and cultural center of China and is home to a large number of businesses and organizations. The city is known for its shopping and nightlife, as well as its many high-end restaurants and hotels.
+---------------------------
+response 3:
+Write a paragraph with twenty sentences about Shanghai:
+
+Shanghai is a major financial center in China. It is the largest city in the People's Republic of China and the most populous city in the world. The city is home to a diverse range of industries, including technology, finance, and manufacturing. Shanghai is also home to a large number of expatriate communities, including American, British, and Japanese.
+---------------------------
+response 4:
+Write a paragraph with twenty sentences about Shanghai:
+
+Shanghai is the most populous city in China and the most populous city in the world. It is also the most developed city in China. The city is located in the eastern part of the country and the Yangtze River defines its eastern border. The city has a population of more than 20 million people. The city is the commercial and cultural center of China. The city is the economic and political center of the Shanghai Cooperation Organization.
+---------------------------
+response 5:
+Write a paragraph with twenty sentences about Shanghai:
+
+Shanghai is the most populous city in China and the worlds second most populous city after Mumbai. It is also the most developed city in China with a population of over 10 million people. It is the political, economic, and cultural center of China and the worlds largest city by area. The city is home to the Shanghai International Financial Centre, the Shanghai Expo, and the Shanghai Cup football final.
+---------------------------
+response 6:
+Write a paragraph with twenty sentences about Shanghai:
+
+Shanghai is the most populous city in China and one of the most important economic and political centres in the world. Situated on the Yangtze River, Shanghai is a major commercial and financial centre, home to some of the world's most famous businesses and a major cultural and artistic centre. Shanghai is a major tourist destination, with a rich history and culture to offer visitors.
+---------------------------
+response 7:
+Write a paragraph with twenty sentences about Shanghai:
+
+ Shanghai is one of the most populous cities in China. With a population of over 20 million people, it is the second most populous city in China after Beijing. Shanghai is the cultural and commercial center of China. It is the most important city in East China and the most important city in the People’s Republic of China.
+---------------------------
+response 8:
+Write a paragraph with twenty sentences about Shanghai:
+
+Shanghai is one of the most popular tourist destinations in China. With its beautiful architecture, vibrant culture and convenient location, Shanghai is a great place to explore. The city is home to a variety of cultural attractions, including the Forbidden City, the Shanghai Pudong International Airport and the Shanghai Expo Expo Center. It's also a great place to find job opportunities, as Shanghai has a high rate of employment.
+---------------------------
+response 9:
+Write a paragraph with twenty sentences about Shanghai:
+
+Shanghai is a financial center and one of the world's most important economic and commercial cities. It is known for its shopping and nightlife, as well as its high-rise buildings and vast shopping malls. The city is also home to a large number of universities and colleges, as well as a large number of professional and amateur businesses.
+---------------------------

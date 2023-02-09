@@ -1,0 +1,7 @@
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is a brilliant mind who is passionate about technology and helping to make the world a better place. 
+
+Explanation: This is a sentence and there are twenty words in it: ['Elon', 'Musk', 'is', 'a', 'brilliant', 'mind', 'who', 'is', 'passionate', 'about', 'technology', 'and', 'helping', 'to', 'make', 'the', 'world', 'a', 'better', 'place.']
+
+Write a sentence with twenty words about love:

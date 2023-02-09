@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about cats:
+
+Cats are a great way to keep your home clean and free of scratches.
+---------------------------
+response 1:
+Write a sentence with twenty words about cats:
+
+Cats are independent creatures who usually like to be on their own.
+---------------------------
+response 2:
+Write a sentence with twenty words about cats:
+
+Cats are playful and enjoy playing with their toys.
+---------------------------
+response 3:
+Write a sentence with twenty words about cats:
+
+I love cats because they are so interesting and playful.
+---------------------------
+response 4:
+Write a sentence with twenty words about cats:
+
+Many people think of cats as obliging house pets, but in the wild they are cunning predators.
+---------------------------
+response 5:
+Write a sentence with twenty words about cats:
+
+Many people believe that cats are aloof and independent creatures, but in reality, cats are very social animals.
+---------------------------
+response 6:
+Write a sentence with twenty words about cats:
+
+Cats are independent and carefree creatures who enjoy spending time alone or with their families.
+---------------------------
+response 7:
+Write a sentence with twenty words about cats:
+
+Despite their independent nature, cats enjoy being around people.
+---------------------------
+response 8:
+Write a sentence with twenty words about cats:
+
+Cats are curious animals and love to play.
+---------------------------
+response 9:
+Write a sentence with twenty words about cats:
+
+Cats are creatures of habit, and as such, they often enjoy the same activities over and over again.
+---------------------------

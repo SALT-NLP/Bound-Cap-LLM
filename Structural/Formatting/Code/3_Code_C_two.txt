@@ -1,0 +1,74 @@
+response 0:
+Code C code that sums two integers up:
+
+int sum(int a, int b)
+
+{
+
+return a + b;
+
+}
+---------------------------
+response 1:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 2:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+  return a + b;
+}
+---------------------------
+response 3:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 4:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 5:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 6:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+ return a + b;
+}
+---------------------------
+response 7:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+ return a + b;
+}
+---------------------------
+response 8:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 9:
+Code C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------

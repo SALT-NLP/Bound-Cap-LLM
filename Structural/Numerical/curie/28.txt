@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling city with a rich history. It is home to the world's largest shopping mall and numerous other attractions.
+---------------------------
+response 1:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling city with a rich history. It is known for its luxury brands and its high-quality infrastructure.
+---------------------------
+response 2:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling metropolis that is known for its luxury shopping and booming economy.
+---------------------------
+response 3:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling city with a diverse culture. It's known for its luxurious shopping and dining experiences, as well as its impressive architecture.
+---------------------------
+response 4:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is one of the most populous and economically advanced cities in China. The city is known for its stunning architecture, including the Shanghai World Financial Center, the Oriental Pearl Tower, and the Bund.
+---------------------------
+response 5:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a beautiful city with a rich history. It is a popular tourist destination and is known for its beautiful architecture and delicious food.
+---------------------------
+response 6:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a beautiful city with a rich history.
+---------------------------
+response 7:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is one of the most populous cities in the world and is known for its prestigious architecture.
+---------------------------
+response 8:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling metropolis with a rich culture. It's a great place to visit for tourists and locals alike.
+---------------------------
+response 9:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is one of the most densely populated cities in the world.
+---------------------------

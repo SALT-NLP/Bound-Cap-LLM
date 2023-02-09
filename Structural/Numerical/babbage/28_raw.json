@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFsBdRcDhA8ydoneHTuBb9b619N",
+    "object": "text_completion",
+    "created": 1664544128,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a renowned city for its Technology and Commerce sectors. The city is known for its high-end shops, exclusive restaurants, and beautiful architecture.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a huge city with a very rich history. It's also a very dangerous city, so be careful when walking around!",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is an important city in China and the world. It is the business and finance capital of China and home to some of the world's most innovative companies. The city is also a major cultural and entertainment center.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\n Shanghai is a major Chinese city with a rich history. The city is known for its skyscrapers, the Bund, and the Shanghai Expo.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a vibrant city with a rich history. The city is home to a number of famous landmarks, such as the Shanghai International Exhibition Center and the Shanghai Wall. The city is also home to a large number of Chinese nationals, who make up the majority of the population.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\n Shanghai is a major financial center in East Asia and the world's largest city by population. It is also the most populous city in East Asia and the world's most populous city by combined population. The city is home to a diverse range of cultures and languages, including Mandarin, Cantonese, and Wu. Shanghai is one of the most important economic and cultural centers in East Asia. The city is home to a large number of high-technology companies, and is the center of the Shanghai Stock Exchange.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShea and I walked around the city for hours, taking in the sights and smells. The sun was shining and the temperatures were perfect, but I couldn't help but feel a little bit anxious about the future.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a busy, vibrant city with a rich history. It's home to some of the world's most famous brands, such as Apple, Nike and Huawei. Shanghai is also a great place to visit for its vibrant nightlife, stylish shopping and impressive architecture.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is the most touristed city in China. It's also the most polluted city in the world.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\n Shanghai is a major commercial and financial center in China. It is home to the world's largest concentration of high-rise buildings and has a highly developed transportation system.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 466,
+        "total_tokens": 475
+    }
+}

@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about cats:
+
+I love cats because they are soft.
+---------------------------
+response 1:
+Write a sentence with five words about cats:
+
+Cats are feline creatures that live in homes.
+---------------------------
+response 2:
+Write a sentence with five words about cats:
+
+Cats are adorable, cuddly creatures.
+---------------------------
+response 3:
+Write a sentence with five words about cats:
+
+Cats are soft and cuddly.
+---------------------------
+response 4:
+Write a sentence with five words about cats:
+
+Cats are feline creatures that live in homes.
+---------------------------
+response 5:
+Write a sentence with five words about cats:
+
+Cats are amazing creatures.
+---------------------------
+response 6:
+Write a sentence with five words about cats:
+
+I like cats because they're cute.
+---------------------------
+response 7:
+Write a sentence with five words about cats:
+
+Cats are small, furry animals.
+---------------------------
+response 8:
+Write a sentence with five words about cats:
+
+Cats are soft and furry creatures.
+---------------------------
+response 9:
+Write a sentence with five words about cats:
+
+Cats are small carnivorous mammals.
+---------------------------

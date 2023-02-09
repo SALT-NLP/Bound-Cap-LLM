@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wANBsERYPrJORoVpGCnpJLjY0VrK",
+    "object": "text_completion",
+    "created": 1664544581,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city located in China. It is the country's largest city.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 20,
+        "total_tokens": 29
+    }
+}

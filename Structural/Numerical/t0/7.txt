@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with twenty words about cats:
+
+Cats are small, furry animals that many people keep as pets.
+---------------------------

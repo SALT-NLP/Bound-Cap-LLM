@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wAN9bp0ew2zQuuY9jXDwVX0Nm9uD",
+    "object": "text_completion",
+    "created": 1664544579,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a bustling metropolis.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 11,
+        "total_tokens": 20
+    }
+}

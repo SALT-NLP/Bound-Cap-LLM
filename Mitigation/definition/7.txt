@@ -1,0 +1,50 @@
+response 0:
+
+
+Love is something that makes you feel happy and content.
+---------------------------
+response 1:
+
+
+Love is something that is often hard to define.
+---------------------------
+response 2:
+
+
+Love is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.
+---------------------------
+response 3:
+
+
+I never knew what love was until I met you.
+---------------------------
+response 4:
+
+
+Love is something that everyone experiences at some point in their life.
+---------------------------
+response 5:
+
+
+Love is something that everyone needs in their life.
+---------------------------
+response 6:
+
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 7:
+
+
+Love is an emotion or feeling that is typically associated with a strong affection towards someone.
+---------------------------
+response 8:
+
+
+Love is something that you feel deep in your heart.
+---------------------------
+response 9:
+
+
+Love is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.
+---------------------------

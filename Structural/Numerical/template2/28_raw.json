@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5w9mzzzuv12tbwDORT0MC5yNXGuk0",
+    "object": "text_completion",
+    "created": 1664542337,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is a city in China.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nThe skyline of Shanghai is breathtaking.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is one of the most populous cities in the world.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is a city in China.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is a city in China.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is a city in China.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is the most populous city in the world.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is a city in China.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is a metropolis in China.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence about Shanghai with 10 words:\n\nShanghai is the most populous city in the world.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 120,
+        "total_tokens": 129
+    }
+}

@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a renowned city for its Technology and Commerce sectors. The city is known for its high-end shops, exclusive restaurants, and beautiful architecture.
+---------------------------
+response 1:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a huge city with a very rich history. It's also a very dangerous city, so be careful when walking around!
+---------------------------
+response 2:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is an important city in China and the world. It is the business and finance capital of China and home to some of the world's most innovative companies. The city is also a major cultural and entertainment center.
+---------------------------
+response 3:
+Write a sentence with ten words about Shanghai:
+
+ Shanghai is a major Chinese city with a rich history. The city is known for its skyscrapers, the Bund, and the Shanghai Expo.
+---------------------------
+response 4:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a vibrant city with a rich history. The city is home to a number of famous landmarks, such as the Shanghai International Exhibition Center and the Shanghai Wall. The city is also home to a large number of Chinese nationals, who make up the majority of the population.
+---------------------------
+response 5:
+Write a sentence with ten words about Shanghai:
+
+ Shanghai is a major financial center in East Asia and the world's largest city by population. It is also the most populous city in East Asia and the world's most populous city by combined population. The city is home to a diverse range of cultures and languages, including Mandarin, Cantonese, and Wu. Shanghai is one of the most important economic and cultural centers in East Asia. The city is home to a large number of high-technology companies, and is the center of the Shanghai Stock Exchange.
+---------------------------
+response 6:
+Write a sentence with ten words about Shanghai:
+
+Shea and I walked around the city for hours, taking in the sights and smells. The sun was shining and the temperatures were perfect, but I couldn't help but feel a little bit anxious about the future.
+---------------------------
+response 7:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a busy, vibrant city with a rich history. It's home to some of the world's most famous brands, such as Apple, Nike and Huawei. Shanghai is also a great place to visit for its vibrant nightlife, stylish shopping and impressive architecture.
+---------------------------
+response 8:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is the most touristed city in China. It's also the most polluted city in the world.
+---------------------------
+response 9:
+Write a sentence with ten words about Shanghai:
+
+ Shanghai is a major commercial and financial center in China. It is home to the world's largest concentration of high-rise buildings and has a highly developed transportation system.
+---------------------------

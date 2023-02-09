@@ -1,0 +1,74 @@
+response 0:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+  return a + b;
+}
+---------------------------
+response 1:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+ return a + b; 
+}
+---------------------------
+response 2:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+ return a + b;
+}
+---------------------------
+response 3:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+ return a + b;
+}
+---------------------------
+response 4:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+
+return a + b;
+
+}
+---------------------------
+response 5:
+Write C code that sums two integers up:
+
+int sum(int a, int b){
+
+return a + b;
+
+}
+---------------------------
+response 6:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 7:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 8:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------
+response 9:
+Write C code that sums two integers up:
+
+int sum(int a, int b) {
+    return a + b;
+}
+---------------------------

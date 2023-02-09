@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFmFLAYBPee75G6hlAOgNfPey9n",
+    "object": "text_completion",
+    "created": 1664544122,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is an excellent way to get a good workout and to improve your mood. When you run, your heart rate goes up and your breathing becomes easier. It also helps you to lose weight, get fit, and improve your circulation.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is one of the most important exercises you can do to stay healthy and fit. It can help you improve your speed, endurance, and balance. You can also improve your mood by running with friends or family.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is a great way to get your exercise and improve your health. It can be done in a variety of ways, so find something that suits you and works best for you. There are many different types of running, so find one that is right for you. Running can help you improve your mood and increase your physical health.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is one of the best things you can do for your health and well-being. It can help you lose weight, improve your circulation, reduce your risk of injury, and improve your mood. Running can also improve your mood by releasing endorphins, which are hormone-like substances that work in the brain to reduce stress and improve mood.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is a great exercise for overall health and well-being. Running can help improve your balance, coordination, and speed. Running can also improve your mood and may help you lose weight or maintain a healthy weight. Running can also improve your cardiovascular health, which can lead to better health overall.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is one of the most popular activities in the world. It can be done for fun or to improve your fitness. There are many different types of running, and there are many different running groups. There are also many different running shoes that can be used.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is an amazing way to get your exercise and promote a healthy lifestyle. It is also a great way to get some fresh air and feel happy. Running can help you lose weight, improve your heart health, and even help you maintain a healthy mind and body.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is one of the most popular sports in the world. It is fun, rewarding, and can help you stay fit and healthy. If you are interested in trying running, there are a few things you can do to get started. First, think about what kind of running you would like to do. There are many types of running available, so it is important to find one that is right for you. Next, find a running group. Running groups are a great way to get started and meet new people. Finally, be sure to check out the blog and other resources to help you learn more about running.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning is one of the most fun activities you can do. It can be enjoyed by everyone, from the young to the elderly, and everyone can enjoy different goals they can set. There are many different types of running, from the traditional long distance running to running in the park. You can also find running groups, leagues, and races to fit your interests and goals. Running can be a great way to improve your fitness and health, as well as promote wellness and overall health.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nRunning can be a great way to get your body moving and improve your fitness. It can also be an enjoyable way to spend time with friends or family. The best way to start running is by doing a few sets of 10 minutes of running. After that, you can choose to run in a runDisney park or on your way to work.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 698,
+        "total_tokens": 707
+    }
+}

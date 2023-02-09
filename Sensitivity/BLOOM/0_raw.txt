@@ -1,0 +1,209 @@
+response 0:
+Write a flowery passage about sunsets: The author describes the effects of the Sun's rays on the landscape, the beauty of the sky, and the mood it produces in the observer. The author then describes how the glow of the Sun promotes a feeling of joy and well-being in the observer. The author describes how the Sun's rays can be used to build a fire. The author concludes by describing how the Sun makes the landscape glow and how the Sun promotes a feeling of well-being in the observer.
+Write a flowery passage about the aurora: The author describes the beauty of the sky, the mood it produces in the observer, and the beauty of the landscape. The author then describes how the glow of the Sun promotes a feeling of joy and well-being in the observer. The author describes how the Sun's rays can be used to build a fire. The author concludes by describing how the Sun makes the landscape glow and how the Sun promotes a feeling of well-being in the observer.
+Write a flowery passage about the Sun's surface: The author describes the Sun's surface and the effects of the Sun's rays on the landscape. The author describes the beauty of the sky, the mood it produces in the observer, and the beauty of the landscape. The author then describes how the glow of the Sun
+---------------------------
+response 1:
+Write a flowery passage about sunsets:
+
+Солнце смолен, весення навіть не м е е е е е е е е если переключаемся на сервер с базой данных, то возникает ошибка. Причем если переключаемся на сервер без бд, то все работает нормально. В чем может быть проблема? 
+Сервера:
+
+Сервер с базой данных(используется через com.mysql.jdbc.Driver):
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+public class DB {
+    public static Connection connect() throws Exception {
+        String url = "jdbc:mysql://localhost:3306/";
+        String user = "root";
+        String password = "";
+
+        Class.forName("com.mysql.jdbc.Driver");
+        Connection conn = DriverManager.getConnection(url, user, password);
+
+        return conn;
+    }
+
+    public static void close(Connection connect
+---------------------------
+response 2:
+Write a flowery passage about sunsets: What does it feel like? What does it look like? What do you think it means?
+Write a flowery passage about the sea: What does it feel like? What does it look like? What does it mean to you?The property tax rate in the state of Wisconsin is $1.16 per $100 of assessed value. Assessed value is calculated by multiplying the county tax rate by the market value of your property as reported by your county assessor. The maximum property tax amount is determined by multiplying the assessed value of a property by the tax rate.This evening, after supper and before the evening devotions, I had a chance for a good talk with the family. The children are very interesting. There are eight; five boys and three girls. The oldest boy, a bright lusty youth of twenty-three, has been in the army for two years, and has been in France. He is a splendid specimen of a young American, and is always ready to answer any questions that I may have to ask. The other boys are from seventeen to twenty-one, and the girls are from sixteen to seventeen. The eldest girl, who has been sick for two years, is a bright, intelligent girl, and is
+---------------------------
+response 3:
+Write a flowery passage about sunsets:
+"The sun is a golden ball,
+"slowly losing its strength,
+"and leaving a blood-red trail in the sky.
+The day is dying."
+The teacher said I was good.
+But she didn't believe me.
+I was in the 9th grade.
+I had so many ideas.
+I was a little like you.
+But I would've liked you even if you hadn't been like me.
+I was really in love.
+I'll tell you about him.
+His name was Vincent.
+We met in a library.
+He was reading a book about fishing.
+I was reading a book about the factory where I was working.
+We both left.
+We were together all summer.
+I was happy.
+Then he had to go back to school.
+I was in love with him, so I followed him.
+You know the rest.
+I came here.
+You know, it's strange.
+It was your story.
+I wasn't in love with him.
+I was in love with my idea of him.
+I was in love with my Vincent.
+But one day, I saw him.
+This real Vincent.
+I didn't recognize him.
+I didn't understand any more.
+I didn't understand why he did what he did.
+I didn't understand anything.
+And you know what?
+Now, I
+---------------------------
+response 4:
+Write a flowery passage about sunsets: the red light, the golden light, the rosy light, the crimson light, the purple light, the orange light, the golden light, the deep orange light, the golden light and the deep orange light, the orange light and the deep orange light, the golden light and the deep orange light.
+Write a long passage about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write about the sun rising and set.
+Write a long passage about the sun rising and set.
+Write a long passage about the sun rising and set.
+Write a long passage about the sun rising and set.
+Write a long passage about the sun rising and set.
+Write a long passage about the sun rising and set.
+Write a long passage about the sun rising and set.
+Write a long passage about the sun rising and set.
+Write a long passage
+---------------------------
+response 5:
+Write a flowery passage about sunsets: the colors of the sky, the angles of the sun, the embrace of the earth. Write about the blue and the red, the orange and the purple, and the shadows and silhouettes. Write about the passion and the love, the abandon and the freedom. Write about the warmth that lies beneath the coolness and the cold that hides beneath the warmth. Write about joy and sorrow, and the way that the two are intertwined. Write about the beauty of the sunsets and the way that they make you feel. Write about the way that they make you feel.
+This entry was posted in Writing and tagged creative writing, love, sunset, Writing by Only Connect. Bookmark the permalink.
+I love this! The sunset and the verse are both so beautifully written. I do have a poem myself about a sunset, one I wrote when I was fourteen. I will post it as soon as I can.
+This is a lovely post. I am a sunset lover too and I think I associate them with romance, because they are lovely and alluring yet fleeting. I love how you wrote about the cold that is hidden beneath the warmth and the warmth that is hidden beneath the coolness. This
+---------------------------
+response 6:
+Write a flowery passage about sunsets: the sun, the earth, the sky, the
+water, all seen through a dreamy atmosphere; add a few reminiscences of
+the evening walks you have had with her, etc.
+
+
+                           THE TROUBADOURS
+
+To write a chant or ballad in the style of the troubadours. You know
+the subject has been treated by so many poets of the Middle Ages that
+the _genre_ is rather worn out. The _tours de force_, however, are
+always admirable, and the brilliant descriptions of the troubadours
+must be studied carefully if you wish to do justice to your subject.
+
+A young girl having been carried away by an enchanter, the hero of the
+poem undertakes to release her. The young man has no other aid than his
+sword, and he is obliged to struggle with monsters, dragons,
+enchantresses, and other imaginary beings, but he finally succeeds in
+freeing the maiden and in marrying her.
+
+Write a poem in this style.
+
+You might also write a very simple story of love, in the style of the
+troubadours. Do not forget to introduce the three requisites: the
+
+---------------------------
+response 7:
+Write a flowery passage about sunsets: Use this writing prompt to inspire your students to write a flowery passage about sunsets. This prompt is great for practicing descriptive writing skills.
+Write a flowery passage about the ocean: Use this writing prompt to inspire your students to write a flowery passage about the ocean. This prompt is great for practicing descriptive writing skills.
+Write a flowery passage about the sea: Use this writing prompt to inspire your students to write a flowery passage about the sea. This prompt is great for practicing descriptive writing skills.
+Write a flowery passage about the desert: Use this writing prompt to inspire your students to write a flowery passage about the desert. This prompt is great for practicing descriptive writing skills.
+Write a flowery passage about the forest: Use this writing prompt to inspire your students to write a flowery passage about the forest. This prompt is great for practicing descriptive writing skills.
+Write a flowery passage about the forest: Use this writing prompt to inspire your students to write a flowery passage about the forest. This prompt is great for practicing descriptive writing skills.
+Write a flowery passage about the forest: Use this writing prompt to inspire your students to write a flowery passage about the forest. This prompt is great
+---------------------------
+response 8:
+Write a flowery passage about sunsets:
+
+Sunsets are so colorful and beautiful. They are the best at the end of the day. They are the last thing we see when we close our eyes. Sunsets are special because they are the only time we see the sky.
+I love sunsets because they are so beautiful and special. Every sunset is special, but the sunset at the end of the day is really special. The sunsets are special because they are the last thing we see when we are looking at the sky.
+
+Now, compare those two and see which one is better. Then, rewrite them so that they are even better.
+The effect of age and sex on the pharmacokinetics of a single oral dose of a morphine sulphate, controlled release formulation, was studied in six groups of healthy volunteers. There were no significant differences in the pharmacokinetics of morphine between young men and women. The area under the plasma concentration-time curve was significantly (P < 0.05) greater in elderly men (> 65 years) than in young men, but was not significantly different from that in elderly women. Clearance of morphine was significantly greater in elderly men than in young men (P < 0.05) and in elderly women (
+---------------------------
+response 9:
+Write a flowery passage about sunsets: see colorful photos and videos, read interesting facts, create a sunset picture gallery, share your own sunset pictures, and much more!There is no better way to kick off the autumn season than by donning your favorite sweater and heading to the theater to see a horror movie. Many of the cinemas in Atlanta and Georgia have already lined up their fall movies, and you’re going to want to make sure you’re at the front of the line for these films. Here are the best horror movies coming to theaters in 2018!
+Aaron Paul is reunited with his Breaking Bad co-star Bryan Cranston in this horror film that will put you on the edge of your seat. The synopsis reads: “Two estranged brothers reunite in the Texas wilderness for a final hunting trip with their father, who is dying of cancer. When the father’s final wish is not quite what they expected, the brothers find themselves fighting for survival in a brutal, bloody showdown.”
+You might recognize some of the faces in this horror film, as they were also in the original Nightmare on Elm Street film. The synopsis reads: “After the death of her mother, Nancy comes home to find her house is now a
+---------------------------
+response 10:
+Write a flowery passage about sunsets: 'How beautiful it is!', 'What a beautiful sunset!'
+As you can see, these are very long, but they are the best I could find after a lengthy search on Google.
+
+A:
+
+It seems to me that your problem is not that you don't know how to describe a sunset, but that you don't know what to pay attention to when seeing one. I have seen sunsets that were beautiful simply because they turned the ocean into a liquid gold. Others were beautiful because they spread the golden light on the mountain peaks. Others were beautiful because they turned the sky into a colorful painting.
+So, the following are my suggestions, based on my experience. I hope they help you.
+
+Pay attention to the colors that the sunset spreads on the land, mountains, sky, clouds, and sea. Try to describe them one by one.
+Pay attention to the shapes that the clouds take when the light of the sun shines on them. Sometimes they look like a dog, a bird, a cat, and so on. Try to describe them one by one.
+Pay attention to the way the light of the sun makes its way through the clouds. It will follow a path, and sometimes it will be as bright as day,
+---------------------------
+response 11:
+Write a flowery passage about sunsets:
+
+The sun was setting behind the hills. The fiery red and orange colours
+  of the sky blended with the colours of the hills. Soon the sun will be
+  completely hidden behind the hills. The sky is now turning into a dark
+  blue and the sun is now a small red dot. The sun is slowly hiding
+  behind the hills and soon the sky will be completely dark.
+
+I am thinking of something like:
+
+The sun was setting behind the hills. The fiery red and orange colours
+  of the sky blended with the colours of the hills. Soon the sun will be
+  completely hidden behind the hills. The sky is now turning into a dark
+  blue and the sun is now a small red dot. The sun is slowly hiding
+  behind the hills and soon the sky will be completely dark.
+
+Is this correct?
+
+A:
+
+It sounds good, and you haven't made any mistakes. It is, however, less formal, and might be considered more colloquial or less formal. It's a matter of style, so it's up to you to decide how formal of a word you like to use.
+The only thing I would do differently is to change the word now. Since it's not referring to the present, but to the future,
+---------------------------
+response 12:
+Write a flowery passage about sunsets: the color, the texture of clouds, the magic of light reflecting off water. It creates a feeling of calm, so you can feel your entire body relax. You can also lead into this activity by saying that you are going to take a break and write a poem about nature. Lead in with this idea and then give them time to write without interruption. Time frees up as the rest of the class works. Do not let students talk while they are writing. Give them 5 minutes to write, then tell them to stop and share what they wrote with the class. This isn’t meant to be a competition. Just share what came to mind.This is the same guy who has, on several occasions, been caught off camera, completely unprepared, with nothing to say, and absolutely no idea what he was in the middle of talking about. The other day it was a live press conference for his new movie, “Godzilla,” and the guy is sitting there, minding his own business, when suddenly he’s interrupted by a reporter asking him about the movie. He’s totally lost, stammers for a few minutes, and finally manages to get out a single sentence: “I don’t know,” he says, “
+---------------------------
+response 13:
+Write a flowery passage about sunsets: the setting sun, the west, the rising sun, and the east. Include in your writing the following words of imagery: ”flaming,” “melted,” “burnt,” “reddened,” and “blazing.”In the 1990s when I was a young man, I was heavily involved in the Fellowship of Reconciliation and its Quaker Peace and Social Justice campaigns. I was also a member of the Socialist Workers Party and the British Socialist Party. In 2003 I was elected a member of the Socialist Party’s national committee, and subsequently ran for parliamentary election as their candidate in the Kensington constituency in south west London, where I came third with 3.5% of the vote. I am now a member of the Socialist Party and Socialist Workers Party.
+As I have already said, I am proud to have been in the Socialist Workers Party from a very early age and to have been part of the SWP’s national executive committee from 2003 to 2009 and to have now been re-elected to its national committee. I am proud that the SWP remains a revolutionary Marxist party in Britain today.
+I am not a member of the Labour Party. I have no interest in the Labour Party.
+---------------------------
+response 14:
+Write a flowery passage about sunsets:
+
+The sun slipped behind the low hills in the west, turning everything that was not gold or orange into a soft grey. The lake was slightly disturbed by the breeze and the trees glistened in a golden haze. The air was still warm but the light was getting colder. I could hear the ducks calling, their voices ringing out across the water. It was time to go home. I could almost smell the dinner cooking and the earthy smell of the lemon trees in the garden. The sky was just a pale blue, with just a hint of purple in the distance. The clouds were still warm, their colours changing slowly from pale gold to soft grey. The sun was long gone, but the sky was still a soft blue, streaked with gold. The lake was dark and still. The sky was soft at first, but it changed quickly into a deep blue, like the ocean. The sun was now a small dot in the sky and the clouds were pale blue. It was time to go home.
+THE END.
+
+A:
+
+I know there are no rules for this, but if it helps, you could try this method:
+Write the story first and then ask yourself how to end it.
+I'm not

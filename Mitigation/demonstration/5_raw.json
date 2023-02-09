@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5org4eNEHeHMBZBHf2AUum4SlGGVD",
+    "object": "text_completion",
+    "created": 1662804420,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nJohn and Mary were madly in love. They met in their early twenties and knew from the start that they were meant to be together. They had a beautiful life and two wonderful children.\n\nBut then, tragedy struck. John was diagnosed with a rare form of cancer and given only a few months to live. Mary was devastated. She did everything she could to make the most of the time they had left, but it was never enough.\n\nJohn died just six months after his diagnosis. Mary was left to raise their children alone. She never remarried, and she never stopped loving John. She spent the rest of her life grieving his loss.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nRomeo and Juliet were two young lovers from rival families. Their love was forbidden by their parents, so they snuck around behind their backs, meeting in secret and declaring their undying love for each other. \n\nOne night, they decided to run away together. They made plans to meet at Juliet's balcony and flee to Romeo's family's estate. But Romeo didn't receive Juliet's message, and he showed up at the balcony just as Juliet's father came outside. Thinking Romeo was a burglar, Juliet's father attacked him. Romeo fought back, and in the struggle, Juliet's father was killed. \n\nRomeo fled the scene, but Juliet's mother found her husband's body. When Juliet came inside and saw her father's corpse, she was so overcome with grief that she killed herself. Romeo, hearing of Juliet's death, rushed to her tomb and took his own life. Their love ended in tragedy, and their families were left to mourn their loss.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary had been married for five years when they decided to try for a baby. They were both thrilled when Mary became pregnant, and they spent the next nine months eagerly anticipating the arrival of their little one.\n\nHowever, tragedy struck when Mary went into labor two months early. The baby was born stillborn, and Mary was devastated. John did his best to comfort her, but he was struggling with his own grief.\n\nThe couple tried to conceive again, but Mary had trouble getting pregnant. They eventually learned that she would never be able to have children. The loss of their baby had taken a toll on their relationship, and they slowly grew apart. They divorced a year later, and they never saw each other again.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary were madly in love. They met in their early twenties and started dating shortly after. They were happy and carefree, and they didn't have a care in the world.\n\nHowever, tragedy struck when Mary was diagnosed with a rare and incurable disease. John stayed by her side throughout her treatment, but there was nothing he could do to save her. She died a painful death, and John was left heartbroken.\n\nHe tried to move on, but he couldn't forget Mary. He eventually married another woman, but his heart was never truly in it. He always compared his wife to Mary, and she could never measure up. They divorced a few years later, and John was left alone and miserable.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary were madly in love. They met in their early twenties and started dating shortly after. They were inseparable and everyone could see that they were meant to be together.\n\nHowever, tragedy struck when John was diagnosed with a rare form of cancer. Mary stayed by his side throughout his treatment, but he eventually succumbed to the disease. Mary was devastated. She withdrew from her friends and family, and she stopped going to work. She spent all her time grieving John's death.\n\nA year after John's death, Mary was still struggling to cope. She decided to visit his grave, but when she got there she found that someone had vandalized it. The headstone had been smashed and the flowers she had left were trampled. This was the final straw for Mary. She became so consumed by grief and rage that she took her own life.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary were madly in love. They met in their early twenties and married quickly, against the wishes of their families. They didn't care, they were in love and nothing else mattered.\n\nFor the first few years of their marriage, they were happy. They didn't have much money, but they had each other and that was all they needed. But then Mary became ill. She was diagnosed with a rare and incurable disease.\n\nJohn did everything he could to care for her, but Mary's health continued to decline. Eventually, she died in John's arms, surrounded by the love of her husband. John was devastated. He never recovered from his wife's death and died himself a few years later.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary had been married for five years when they hit a rough patch. Mary had always been a stay-at-home wife, but she began to feel like she was missing out on her own life. She started to push John to go out more, to take her out on dates, and to spend more time with her. John was a good husband, but he was also a busy man. He worked long hours at his job and he didn't have a lot of time for socializing.\n\nThe tension between them mounted until one day, they had a huge fight. Mary accused John of neglecting her and John accused Mary of being needy and demanding. They said some horrible things to each other and they didn't speak for weeks.\n\nEventually, they started to talk again, but the damage was done. Their relationship was never the same. They went through the motions of being husband and wife, but they were both unhappy. Two years after their fight, they got divorced.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary had been dating for two years when they got into a car accident. John was killed instantly, and Mary was left with severe brain damage. She was in a coma for six months, and when she woke up she could barely remember her own name. \n\nThe doctors told her that she would never be able to live a normal life again. Her family was devastated, but they did their best to take care of her. They visited her every day, but it was clear that she was never going to be the same person they knew and loved. \n\nA year after the accident, Mary committed suicide. Her family was heartbroken, but they understood that she could never have been happy again.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary had been childhood sweethearts. They went to the same schools and churches, and they both came from large families. When they were just eighteen, they got married.\n\nThey were happy for a while, but then they started to grow apart. John started drinking heavily and staying out all night. Mary got a job to support them, but it was never enough. The bills kept piling up and they started to argue all the time.\n\nOne night, John came home drunk and angry. Mary was in the kitchen, and he started yelling at her. She begged him to stop, but he wouldn't listen. He hit her and she fell to the ground. John kept hitting her, over and over, until she was dead.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary were madly in love. They met in their early twenties and started dating shortly after. They were happy and carefree, and they didn't have a care in the world.\n\nHowever, tragedy struck when Mary became pregnant. John wanted to keep the baby, but Mary was scared and unsure. She was only twenty-two and wasn't ready to be a mother. She ended up getting an abortion, and John was devastated.\n\nTheir relationship never recovered from the trauma of the abortion. They slowly grew apart and eventually broke up. John never forgave Mary for what she did, and he never got over the loss of their child. He went on to have a family of his own, but he always wondered what could have been.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 249,
+        "completion_tokens": 1633,
+        "total_tokens": 1882
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJpxjBOqCgcUBeocE5xS9zm1FxN",
+    "object": "text_completion",
+    "created": 1664544373,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is a huge city with many attractions for tourists. The Bund, a popular tourist destination, is full of historical landmarks, including the Shanghai World Financial Center. Near the Bund is the Nanjing Road Intersection, which is a busy area with many shopping and dining options. Another popular tourist destination is the Huangpu River, which runs through the city. Shanghai is a bustling city with a lot to offer tourists.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is a massive city with a rich history. It's known for its skyscrapers, Bund, and the People's Park. It's also home to some of the best food in China.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is the largest city in China and one of the most important economic hubs in the world. The city is known for its stunning architecture, vibrant nightlife, and impressive shopping opportunities. Besides its commercial significance, Shanghai is also known for its rich history and culture. The city is home to many famous landmarks, including the Oriental Pearl Tower, the Bund, and the Yu Garden.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is one of China's most renowned and cosmopolitan cities. It is also one of the largest and most prosperous. The city has a rich history, and its many attractions include the Bund, the Yu Garden, and the Oriental Pearl Tower. Shanghai is a great place to visit, and its people are friendly and welcoming.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is one of China's most prosperous and dynamic cities. It has a rich history and culture, and is known for its luxurious shopping and dining experiences. There is a great deal of activity and life in Shanghai, and it is a great place to live, work, and visit.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is a bustling metropolis with a long history. It is one of the most important financial centers in the world and home to several prestigious universities. The city is known for its impressive skyline and its delicious food. Shanghai is a great place to visit if you are looking for a bustling city with a rich history.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai, one of the most densely populated cities in the world, is also one of the most modern and prosperous. With a population of over 20 million people, Shanghai is a major transportation hub and a center for business and finance. The city is home to some of the world's most famous landmarks, including the Bund, the Shanghai World Financial Center, and the Oriental Pearl Tower. Shanghai is a destination for tourists from all over the world, and its bustling streets and bustling nightlife are a popular draw for visitors.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\n1. Shanghai is one of the most rapidly growing cities in the world.\n2. The city is known for its luxurious hotels, high-end shopping, and impressive architecture.\n3. Shanghai is home to numerous universities, including the prestigious Peking University.\n4. The city is also known for its delicious cuisine, including Shanghainese chicken rice and pork buns.\n5. Shanghai is a popular tourist destination, with attractions including the Bund and the Oriental Pearl Tower.\n6. The city is home to a large population of migrant workers, many of whom are from rural areas of China.\n7. Shanghai is a major center for finance, business, and technology.\n8. The city is home to a large number of expatriate residents, many of whom are from the United States, Europe, and Japan.\n9. Shanghai is a busy and crowded city, and traffic can be quite difficult to navigate.\n10. Shanghai is a unique and fascinating city that is sure to appeal to anyone visiting it.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is one of the most dynamic and rapidly growing cities in China. The city has been known for its trade and commerce for centuries, and it has played a major role in the development of China as a whole. Shanghai is home to many world-renowned brands, including KFC and McDonald's, and it is a popular tourist destination. The city is also home to many high-tech companies, and it is often cited as one of the most important financial centers in the world. Shanghai is a very cosmopolitan city, and it is home to a large number of foreign residents and expatriates.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is China\u2019s largest city and its commercial and financial center. It is one of the four \"global cities\" along with New York, Tokyo, and London. Shanghai has a population of more than 20 million people and is the world's second-most-populous city after New York. The city is famous for its Bund, the former financial district that is now a popular tourist destination. Shanghai has a rich cultural heritage, including major museums and theaters.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 952,
+        "total_tokens": 961
+    }
+}

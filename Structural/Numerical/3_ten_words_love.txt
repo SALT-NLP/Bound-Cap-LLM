@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about love:
+
+Love is something that makes you feel happy and content.
+---------------------------
+response 1:
+Write a sentence with ten words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 2:
+Write a sentence with ten words about love:
+
+Love is something that you feel inside.
+---------------------------
+response 3:
+Write a sentence with ten words about love:
+
+Love is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.
+---------------------------
+response 4:
+Write a sentence with ten words about love:
+
+I love spending time with the people I love.
+---------------------------
+response 5:
+Write a sentence with ten words about love:
+
+Love is the best feeling ever.
+---------------------------
+response 6:
+Write a sentence with ten words about love:
+
+Love is a beautiful, amazing feeling that everyone should experience.
+---------------------------
+response 7:
+Write a sentence with ten words about love:
+
+Love is the most powerful emotion in the world.
+---------------------------
+response 8:
+Write a sentence with ten words about love:
+
+I love spending time with my family and friends.
+---------------------------
+response 9:
+Write a sentence with ten words about love:
+
+Love is the most powerful emotion in the world.
+---------------------------

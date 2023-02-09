@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJl58X8K4GEc3WHmiPzss7Co9Jx",
+    "object": "text_completion",
+    "created": 1664544369,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is one of China's most dynamic and rapidly growing cities. With a rich history and culture, it is a must-see for anyone visiting China. The city is home to a variety of attractions, including the Bund, the Oriental Pearl Tower, and the Shanghai Museum.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city with a rich history and culture. It is one of the most rapidly developing cities in China and has a population of over twenty million people.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nThe city is known for its architecture, shopping, and nightlife.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a rapidly growing city that is home to many multinational corporations.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is one of the most vibrant and rapidly growing cities in China. With a population of over 20 million, it is a center for business, culture, and education.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a bustling city with a rich cultural history. It is home to some of the world's most famous attractions, such as the Bund and the Pudong district.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city with a rich history and many attractions. It is a major commercial center and one of the most populous cities in China.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a bustling metropolis with a rich history. It is known for its dramatic architecture and is a popular tourist destination.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a bustling metropolis with a rich cultural history. It's a great place to explore on foot or by bike.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is one of the biggest and most prosperous cities in China. It is known for its many luxury hotels, skyscrapers, and busy streets.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 330,
+        "total_tokens": 339
+    }
+}

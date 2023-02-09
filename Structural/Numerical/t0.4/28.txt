@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city located in China.
+---------------------------
+response 1:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 2:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 3:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling metropolis with a rich history.
+---------------------------
+response 4:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 5:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 6:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 7:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 8:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 9:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------

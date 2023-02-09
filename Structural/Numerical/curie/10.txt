@@ -1,0 +1,70 @@
+response 0:
+Write a paragraph with five sentences about cats:
+
+1. Cats are intelligent animals that use their senses to hunt and survive.
+2. Cats are independent and often do not like being petted or handled.
+3. Cats are good at hiding their emotions and can be quite deceptive.
+4. Cats are often regarded as good luck in many cultures, and are commonly used in charms and spells.
+5. There are a variety of different types of cats, including Siamese, Persians, and British Shorthairs.
+---------------------------
+response 1:
+Write a paragraph with five sentences about cats:
+
+1. Cats are curious and intelligent animals.
+
+2. Cats love to play and will often catch prey.
+
+3. Cats are good at adapting to new environments.
+
+4. Cats are good listeners and can be trained to do tricks.
+
+5. Cats are good at keeping rodents away from homes.
+---------------------------
+response 2:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the world. They are independent and curious animals that enjoy spending time alone or with their people. Cats have nine lives and typically live between 12 and 15 years. They are good at adapting to new environments and are usually quite playful. Some common health concerns for cats include obesity, diabetes, and cancer.
+---------------------------
+response 3:
+Write a paragraph with five sentences about cats:
+
+Cats are independent creatures who usually like to be left alone. They are playful and can be very active. Some cats like to sleep a lot and others are more active and like to play. Some cats like to be indoors and some like to be outdoors. Cats are very good at keeping rodents away from the house.
+---------------------------
+response 4:
+Write a paragraph with five sentences about cats:
+
+Cats are great pets because they are intelligent and active. They are good at keeping mice and other small creatures out of the house, and they are good at getting rid of rats and other pests. Cats also make good companions because they are usually friendly and affectionate.
+---------------------------
+response 5:
+Write a paragraph with five sentences about cats:
+
+Cats are cute and cuddly animals. They love to play and sleep. Some people think that cats are good for the environment because they use so little litter.
+---------------------------
+response 6:
+Write a paragraph with five sentences about cats:
+
+1. Cats are playful and love to play.
+
+2. Cats are excellent at hunting and can be very good at tracking.
+
+3. Cats are good at keeping people company and are very loyal to their owners.
+
+4. Cats are very clean and will often groom themselves.
+
+5. Cats have a shorter lifespan than dogs but are generally healthier.
+---------------------------
+response 7:
+Write a paragraph with five sentences about cats:
+
+Cats are independent and curious creatures that enjoy spending time alone or with their owner. They typically have a high level of intelligence, which has led to them being used in many experiments. Some people believe that cats have special powers that can be used for good or bad.
+---------------------------
+response 8:
+Write a paragraph with five sentences about cats:
+
+Cats are intelligent animals that enjoy lounging around and taking naps. They are also playful and enjoy playing with their owners. Some cats have even been known to help their owners with chores, such as fetching objects.
+---------------------------
+response 9:
+Write a paragraph with five sentences about cats:
+
+Cats are obligate carnivores and as such, their diet consists almost entirely of meat. They have a very keen sense of smell, which is responsible for their hunting and scavenging activities. Some cats have been known to climb trees to hunt small prey. Cats are also good at hiding, which is why they are popular house pets.
+---------------------------

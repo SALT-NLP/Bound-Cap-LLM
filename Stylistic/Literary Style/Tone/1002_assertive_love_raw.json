@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5xd26mizKSLW1NC25JGbTvMQJ0IEW",
+    "object": "text_completion",
+    "created": 1664893078,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write an assertive passage about love:\n\nLove is one of the most powerful emotions. It can make you feel happy, sad, scared, and everything in between. Love is something that everyone experiences at some point in their life. It's what makes us feel alive.\n\nWithout love, we would be nothing. It's what motivates us to do great things. It's what drives us to be better people. Love is what makes the world go round.\n\nSo next time you're feeling down, remember that love is out there. It's waiting for you. All you have to do is let it in.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nLove is something that should be cherished and nurtured. It is the most powerful emotion that there is, and it has the ability to bring people together and make them happier than they ever thought possible.\n\nLove is something that should be cherished and nurtured. It is the most powerful emotion that there is, and it has the ability to bring people together and make them happier than they ever thought possible. Everyone deserves to experience love, and it is something that should be treasured.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nLove is a powerful emotion that can change people for the better. It can make people more compassionate, caring, and selfless. Love is something to be treasured and cherished. It should be nurtured and grown, so that it can continue to bring happiness and joy to those who experience it.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nLove is something that should be cherished and nurtured. It is a beautiful thing that can make us feel happy, content, and fulfilled. When we are in love, we should appreciate and savor every moment.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nLove is a powerful emotion that can bring people together and create lasting bonds. It can also be a source of great joy and happiness.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nI love you, plain and simple. I know you're not perfect, and I'm not either. But, I accept you for who you are. I will never try to change you, and I hope you feel the same about me. I promise to always be honest with you, even when it's hard. I will always be there for you, no matter what. I love you, and I will never stop.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nLove is a strong, passionate emotion felt between two people who are attracted to each other. Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often physical and emotional, and is a source of comfort and security.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nThere is no one definitive answer to the question of what love is. However, we can say with certainty that love is a powerful emotion that can cause people to change their behavior in profound ways. Love can cause people to act selflessly, to put the needs of others above their own, and to make great sacrifices. Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is something that we all experience in different ways and it is a central theme in many works of art, literature, and film.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nIt is okay to be vulnerable in front of the ones you love. It is okay to show your true colors and to be yourself. You should never feel like you have to put on a mask around the ones you love. Love is about being honest and open. It is about acceptance and understanding.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an assertive passage about love:\n\nLove is something that should be cherished and celebrated. It is a beautiful thing that should be shared with the world. Love is something that makes us feel alive and can never be taken for granted.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 8,
+        "completion_tokens": 725,
+        "total_tokens": 733
+    }
+}

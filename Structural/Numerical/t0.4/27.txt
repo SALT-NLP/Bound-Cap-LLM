@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about Shanghai:
+
+Shanghai is the most populous city in China.
+---------------------------
+response 1:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 2:
+Write a sentence with five words about Shanghai:
+
+The Bund is a must-see in Shanghai.
+---------------------------
+response 3:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a bustling metropolis.
+---------------------------
+response 4:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a bustling metropolis.
+---------------------------
+response 5:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 6:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a bustling metropolis.
+---------------------------
+response 7:
+Write a sentence with five words about Shanghai:
+
+Shanghai is the most populous city in China.
+---------------------------
+response 8:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 9:
+Write a sentence with five words about Shanghai:
+
+The city of Shanghai is massive.
+---------------------------

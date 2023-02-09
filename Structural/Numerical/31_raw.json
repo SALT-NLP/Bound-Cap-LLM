@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5tg7NzoInHNqSl8NdlDQd8rxzqjeU",
+    "object": "text_completion",
+    "created": 1663951625,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is one of the four direct-controlled municipalities of the People's Republic of China and the most populous city proper in the world, with a total population of more than 24 million as of 2014. Shanghai is a global city, with influence in commerce, culture, finance, media, fashion, technology, and transport. It is a major financial center and the busiest container port in the world.\n\nShanghai lies on the Yangtze River Delta in East China, and is the largest city in the province of China. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south and west, and is bounded to the east by the East China Sea. The city was one of five treaty ports forced open to foreign trade following the British victory over China in the First Opium War.\n\nShanghai has been described as the \"showpiece\" of the booming economy of mainland China. A leading global city, Shanghai exerts influence over global commerce, finance, culture and politics. It is the busiest container port in the world and the world's fourth-largest port by cargo tonnage. The municipality is the country's largest city and its leading financial center.\n\nShanghai is a popular tourist destination, renowned for its historic landmarks such as the Bund, City God Temple and Yu Garden as well as its extensive shopping districts. The city is also home to a number of universities and colleges, including Fudan University, Shanghai Jiao Tong University and Tongji University.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is a metropolis in eastern China, on the Yangtze River delta. With a population of over 24 million, it is the largest city in China and the largest metropolitan area in the world. Shanghai is a global financial center, and a transport hub with the world's busiest container port.\n\nShanghai's history dates back to the Tang dynasty, when it was a small fishing village. It became a major trading port in the 19th century, and was occupied by the Japanese in World War II. Since the 1990s, Shanghai has been a major center of economic growth in China.\n\nThe city is home to a number of important cultural attractions, including the Bund, Nanjing Road, and the City God Temple. Shanghai is also famous for its cuisine, which includes dishes such as xiaolongbao and Shanghainese rice cakes.\n\nShanghai is a major center of education in China, with over 100 universities and colleges. The city is also home to a number of research institutes and scientific organizations.\n\nShanghai is a popular tourist destination, with a number of iconic landmarks, including the Oriental Pearl Tower and the Jinmao Tower. The city is also home to a number of parks and gardens, including the Fuxing Park and the Yu Garden.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\n1. Shanghai is the most populous city in China and one of the most populous cities in the world.\n\n2. Shanghai is a global financial center, and its port is the busiest in the world.\n\n3. The city is home to many of China's largest companies and financial institutions.\n\n4. Shanghai is a major center for tourism and culture, with a wealth of historical landmarks and attractions.\n\n5. The city is also home to a vibrant nightlife and a thriving arts scene.\n\n6. Shanghai is a major transportation hub, with an extensive network of roads, railways, and airports.\n\n7. The city is also home to a large number of universities and colleges.\n\n8. Shanghai is a major center for industry and commerce, with a large number of factories and businesses.\n\n9. The city is also a major center for research and development.\n\n10. Shanghai is a global city and a major hub for the economy of China.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai, located on the east coast of China, is one of the largest cities in the world with a population of over 24 million people. A global financial center, Shanghai is home to the Shanghai Stock Exchange and the headquarters of many multinational companies. The city is also a major transportation hub, with the busiest container port in the world. Visitors to Shanghai can enjoy its many museums, temples, and parks, as well as its famous skyline.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai, on the east coast of China, is the country's most populous city. A global financial hub, its skyline is dominated by skyscrapers such as the Oriental Pearl Tower and the Jin Mao Tower. The city is also home to the Longhua Temple, the Yu Garden and the City God Temple. In the Huangpu district, the Bund waterfront area features colonial-era buildings. Across the Huangpu River is the Pudong district, with its high-rise office buildings and shopping malls. The Verandah on the Bund is a colonial-era restaurant and bar. The French Concession area is known for its cafes, boutiques and tree-lined streets.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\n1. Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a population of more than 24 million.\n\n2. A global city, Shanghai exerts influence over global commerce, finance, culture, technology, and transportation.\n\n3. It is a major financial center and the busiest container port in the world.\n\n4. Located in the Yangtze River Delta, Shanghai sits on the south end of the Chinese coast at the mouth of the Yangtze River.\n\n5. The earliest recorded mention of Shanghai dates back to 3rd century AD.\n\n6. Since the 1990s, Shanghai has been undergoing a rapid economic and social transformation.\n\n7. The city is now a cosmopolitan metropolis with a rapidly growing skyline.\n\n8. Shanghai is home to many of China's tallest buildings, including the Shanghai World Financial Center and the Oriental Pearl Tower.\n\n9. The city is also home to a variety of museums, art galleries, and historical landmarks.\n\n10. Shanghai is a major tourist destination and one of the most popular cities in China.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is one of the four direct-controlled municipalities of China, with a population of more than 24 million as of 2017. It is a global financial center and transport hub, with the world's busiest container port. Located in the Yangtze River Delta in East China, Shanghai sits on the south end of the Chinese mainland, opposite Taiwan. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south, and west, and is bounded to the east by the East China Sea.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nAs the most populous city in the world, Shanghai is a megacity with a population of over 24 million. Located on the Yangtze River Delta in East China, Shanghai is one of the four direct-controlled municipalities of China and the largest city in the country. An important financial center of the world, Shanghai has the busiest container port and is a global center for finance, commerce, culture, and transportation. With a rich history dating back to the 7th century, Shanghai has been a major center of trade, politics, and culture for centuries. Today, the city is a major tourist destination, with over 24 million visitors each year. Shanghai is a vibrant, cosmopolitan city with a unique blend of East and West. From the Bund to the French Concession, there is much to see and do in this bustling metropolis.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a total population of more than 24 million as of 2014. It is a global financial center, and a transport hub with the world's busiest container port. Located in the Yangtze River Delta, it sits on the south edge of the estuary of the Yangtze in the middle portion of the East China coast. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south and west, and is bounded to the east by the East China Sea.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about Shanghai:\n\nShanghai, located on China's central eastern coast, is the country's largest city and a global financial hub. A vibrant metropolis, Shanghai is a popular tourist destination known for its many historical landmarks such as The Bund, City God Temple and Yu Garden as well as its modern skyscrapers and lively nightlife. With a population of over 24 million people, Shanghai is a cosmopolitan city that is rich in culture, cuisine and history.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 1750,
+        "total_tokens": 1759
+    }
+}

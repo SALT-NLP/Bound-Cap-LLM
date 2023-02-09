@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with five words about Elon Musk:
+
+He is an entrepreneur and business magnate.
+---------------------------

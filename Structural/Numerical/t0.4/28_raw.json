@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wABmVxWZJhZGLXAfirz49YU53M83",
+    "object": "text_completion",
+    "created": 1664543874,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city located in China.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling metropolis with a rich history.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 115,
+        "total_tokens": 124
+    }
+}

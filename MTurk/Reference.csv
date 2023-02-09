@@ -1,0 +1,57 @@
+Aspect,Term,Definition
+writing style,functional,Functional writing style is designed to communicate information in a clear and concise manner.
+writing style,flowery,"Flowery writing is filled with beautiful, poetic language. It often uses metaphors and similes to describe things in a creative, descriptive way."
+writing style,candid,A candid writing style is one that is honest and open. It is not afraid to reveal the writer's true thoughts and feelings on a subject.
+writing style,prosaic,"A prosaic writing style is straightforward and simple. It is often characterized by simple, declarative sentences and a lack of extra detail."
+writing style,ornate,"An ornate writing style is highly decorative and complex. It often includes intricate sentence structure, flowery language, and a lot of detail."
+writing style,poetic,"A poetic writing style incorporates a lot of imagery and figurative language. It often has a lyrical quality to it, and can be quite emotional."
+tone,dramatic,"A dramatic tone is characterized by intense, emotional language."
+tone,humorous,"A humorous tone is a light, playful, and funny."
+tone,optimistic,An optimistic tone is one that is hopeful and positive. It tries to persuade the reader to see things in a positive light.
+tone,sad,A sad tone is a tone that is full of sadness or despair. It is a tone that is melancholic and dreary.
+tone,emotional,An emotional tone is characterized by the use of vivid language to describe intense emotions.
+tone,nostalgic,"A nostalgic tone is wistful, longing, or sentimental. It is used to reference a time in the past that was simpler or happier."
+tone,uplifting,"An uplifting tone is hopeful and upbeat, and it can inspire others to feel the same way."
+tone,inspirational,An inspirational tone is meant to inspire or motivate the listener.
+tone,bleak,"A bleak tone is negative or depressing. It is characterized by feelings of hopelessness, despair, or cynicism."
+tone,grim,"A grim tone is harsh, dark, and foreboding. It is associated with death, violence, and other dark themes."
+tone,ironic,An ironic tone uses words to express something other than and especially the opposite of the literal meaning.
+tone,satirical,"A satirical tone uses humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices."
+tone,formal,"A formal tone is an impersonal, objective, and dispassionate manner of writing or speaking."
+tone,informal,An informal tone is a relaxed and friendly way of speaking or writing.
+tone,assertive,An assertive tone is one that is confident and direct. Assertiveness communicates a willingness to stand up for oneself and one's beliefs.
+tone,passive-aggressive,A passive-aggressive tone is passive but also covertly hostile and resentful. It is used to communicate displeasure or disagreement.
+mood,angry,A piece of writing with an angry mood makes the reader feel angry.
+mood,anger,A piece of writing with an angry mood makes the reader feel angry.
+mood,fearful,A piece of writing with a fearful mood makes the reader feel fearful.
+mood,fear,A piece of writing with a fearful mood makes the reader feel fearful.
+mood,happy,A piece of writing with a happy mood makes the reader feel happy.
+mood,happiness,A piece of writing with a happy mood makes the reader feel happy.
+mood,sad,A piece of writing with a sad mood makes the reader feel sad.
+mood,sadness,A piece of writing with a sad mood makes the reader feel sad.
+mood,envious,A piece of writing with a envious mood makes the reader feel envious.
+mood,anxious,A piece of writing with a anxious mood makes the reader feel anxious.
+mood,proud,A piece of writing with a proud mood makes the reader feel proud.
+mood,regretful,A piece of writing with a regretful mood makes the reader feel regretful.
+mood,surprised,A piece of writing with a surprised mood makes the reader feel surprised.
+mood,loved,A piece of writing with a loved mood makes the reader feel loved.
+mood,disgusted,A piece of writing with a disgusted mood makes the reader feel disgusted.
+characterization,indirect,"Indirect characterization is the process of describing a character through that character's thoughts, actions, speech, and dialogue."
+characterization,indirectly,"Indirect characterization is the process of describing a character through that character's thoughts, actions, speech, and dialogue."
+characterization,direct,"Direct characterization is a method of describing the character in a straightforward manner: through their physical description (i.e. blue eyes), their line of work (i.e. lawyer), and their passions and outside pursuits (i.e. skilled swimmer)."
+characterization,directly,"Direct characterization is a method of describing the character in a straightforward manner: through their physical description (i.e. blue eyes), their line of work (i.e. lawyer), and their passions and outside pursuits (i.e. skilled swimmer)."
+pacing,fast-paced,"A fast-paced story moves quickly. The action in a fast-paced story is usually non-stop, and there is little time for character development or description."
+pacing,slow-paced,"A slow-paced story is one that takes its time in unfolding, often providing detailed descriptions and leisurely conversations. It is not action-packed, and instead relies more on its characters and setting."
+plot,"""Overcoming the Monster""","An ""Overcoming the Monster"" plot is an underdog story where the hero sets out to destroy an evil of some kind."
+plot,"""Rags to Riches""","A ""Rags to riches"" plot is a story in which a poor character becomes rich through their own hard work or some stroke of luck."
+plot,"""The Quest""","A ""The Quest"" plot is a story in which the protagonist sets out on a journey in order to find something or achieve a goal."
+plot,"""Voyage and Return""","A ""Voyage and return"" plot is a story in which the main character leaves home, has an adventure, and then returns home. "
+plot,"""Comedy""","A ""Comedy"" plot is a story that makes the audience laugh. Comedies are filled with funny characters, situations, or dialogues."
+plot,"""Tragedy""","A ""Tragedy"" plot is a story in which the main character suffers from a major downfall. This can be caused by various factors such as pride, fate, or human error."
+plot,"""Rebirth""","A ""Rebirth"" plot is a story where the characters are reborn into a new life with new perspectives or attitudes. This can happen after death or a major event that changes the course of their life."
+genre,historical fiction,"Historical fiction is a genre where the plot takes place in a setting related to the past events, but is fictional."
+genre,literary fiction,Literary fiction is a category of fiction that deals with complex social and psychological matters and focuses more on character development than on plot or action.
+genre,science fiction,Science fiction is fiction based on imagined future scientific or technological advances and major social or environmental changes.
+genre,mystery,"Mystery is a fiction genre where the nature of an event, usually a murder or other crime, remains mysterious until the end of the story."
+genre,dystopian,Dystopian fiction is a genre of literature that depicts future societies with undesirable social conditions.
+genre,horror,"Horror fiction is intended to frighten, scare, or disgust the audience."

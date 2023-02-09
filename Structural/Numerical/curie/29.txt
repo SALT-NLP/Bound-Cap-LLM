@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is one of China's most dynamic and rapidly growing cities. With a rich history and culture, it is a must-see for anyone visiting China. The city is home to a variety of attractions, including the Bund, the Oriental Pearl Tower, and the Shanghai Museum.
+---------------------------
+response 1:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a city with a rich history and culture. It is one of the most rapidly developing cities in China and has a population of over twenty million people.
+---------------------------
+response 2:
+Write a sentence with twenty words about Shanghai:
+
+The city is known for its architecture, shopping, and nightlife.
+---------------------------
+response 3:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a rapidly growing city that is home to many multinational corporations.
+---------------------------
+response 4:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is one of the most vibrant and rapidly growing cities in China. With a population of over 20 million, it is a center for business, culture, and education.
+---------------------------
+response 5:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a bustling city with a rich cultural history. It is home to some of the world's most famous attractions, such as the Bund and the Pudong district.
+---------------------------
+response 6:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a city with a rich history and many attractions. It is a major commercial center and one of the most populous cities in China.
+---------------------------
+response 7:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a bustling metropolis with a rich history. It is known for its dramatic architecture and is a popular tourist destination.
+---------------------------
+response 8:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a bustling metropolis with a rich cultural history. It's a great place to explore on foot or by bike.
+---------------------------
+response 9:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is one of the biggest and most prosperous cities in China. It is known for its many luxury hotels, skyscrapers, and busy streets.
+---------------------------

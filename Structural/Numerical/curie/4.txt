@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about cats:
+
+Some people say that cats are the perfect pet because they're independent and don't require a lot of attention.
+---------------------------
+response 1:
+Write a sentence with ten words about cats:
+
+Cats are independent, curious and playful creatures that enjoy spending time alone or with their humans.
+---------------------------
+response 2:
+Write a sentence with ten words about cats:
+
+Cats are independent animals that like to have their own space.
+---------------------------
+response 3:
+Write a sentence with ten words about cats:
+
+Cats are independent and curious animals that enjoy spending time alone or with their owners.
+---------------------------
+response 4:
+Write a sentence with ten words about cats:
+
+Cats are curious animals and love to play.
+---------------------------
+response 5:
+Write a sentence with ten words about cats:
+
+Cats are independent, playful, and curious animals.
+---------------------------
+response 6:
+Write a sentence with ten words about cats:
+
+Cats are entertaining creatures and make great companions.
+---------------------------
+response 7:
+Write a sentence with ten words about cats:
+
+Cats are amazing animals.
+---------------------------
+response 8:
+Write a sentence with ten words about cats:
+
+Cats are independent, curious, and playful animals.
+---------------------------
+response 9:
+Write a sentence with ten words about cats:
+
+Cats are social animals that love to be around people.
+---------------------------

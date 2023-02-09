@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about Shanghai:
+
+I love exploring the many different areas of Shanghai.
+---------------------------
+response 1:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a city in China with a population of over 24 million.
+---------------------------
+response 2:
+Write a sentence with twenty words about Shanghai:
+
+The Bund is one of the most famous landmarks in Shanghai.
+---------------------------
+response 3:
+Write a sentence with twenty words about Shanghai:
+
+I have always wanted to visit Shanghai because of its rich culture and history.
+---------------------------
+response 4:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a fascinating city with a rich history and culture.
+---------------------------
+response 5:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a beautiful city with many things to see and do.
+---------------------------
+response 6:
+Write a sentence with twenty words about Shanghai:
+
+I love Shanghai because it is a city that is always busy and there is always something to do.
+---------------------------
+response 7:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is one of the most populous cities in the world.
+---------------------------
+response 8:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is the most populous city in the world, with over 24 million people.
+---------------------------
+response 9:
+Write a sentence with twenty words about Shanghai:
+
+A place where old and new collide, Shanghai is a city where you can find both traditional Chinese culture and a modern, international lifestyle.
+---------------------------

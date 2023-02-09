@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJlCcRSrGL8X4yrx8gCHo7FhalX",
+    "object": "text_completion",
+    "created": 1664544369,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling city with a rich history. It is home to the world's largest shopping mall and numerous other attractions.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling city with a rich history. It is known for its luxury brands and its high-quality infrastructure.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling metropolis that is known for its luxury shopping and booming economy.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling city with a diverse culture. It's known for its luxurious shopping and dining experiences, as well as its impressive architecture.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is one of the most populous and economically advanced cities in China. The city is known for its stunning architecture, including the Shanghai World Financial Center, the Oriental Pearl Tower, and the Bund.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a beautiful city with a rich history. It is a popular tourist destination and is known for its beautiful architecture and delicious food.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a beautiful city with a rich history.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is one of the most populous cities in the world and is known for its prestigious architecture.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling metropolis with a rich culture. It's a great place to visit for tourists and locals alike.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is one of the most densely populated cities in the world.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 266,
+        "total_tokens": 275
+    }
+}

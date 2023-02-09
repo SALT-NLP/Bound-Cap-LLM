@@ -1,0 +1,105 @@
+response 0:
+Write an email to my teacher:
+
+Hello Teacher, 
+
+I hope you are well. I am emailing you to ask for some help. I am having trouble understanding the material we are covering in class. I was wondering if there is any way we could meet to go over the material together. I would really appreciate it if you could help me out. 
+
+Thank you, 
+
+Student
+---------------------------
+response 1:
+Write an email to my teacher:
+
+Dear Teacher, 
+
+Thank you for all of your help this year. I have really enjoyed your class and I have learned a lot. I wanted to let you know that I have appreciated all of your help and I am looking forward to next year. Thank you again!
+---------------------------
+response 2:
+Write an email to my teacher:
+
+Hi Teacher,
+
+I hope you're doing well. I just wanted to let you know that I really appreciate all your help this semester. You've been a great teacher and I've learned a lot from you. I'm really looking forward to next semester and continuing to learn from you. Thanks again for all your help!
+
+Best,
+
+Student
+---------------------------
+response 3:
+Write an email to my teacher:
+
+Hello Ms. Smith,
+
+I hope you are doing well. I just wanted to let you know that I have been having a lot of trouble with the material we are covering in class. I am really struggling to understand it. I was wondering if there might be any time during class or after class when I could come talk to you about it. I really want to make sure I am understanding the material so that I can do well in the class.
+
+Thank you,
+
+Alex
+---------------------------
+response 4:
+Write an email to my teacher:
+
+Hello Teacher, 
+I hope you are doing well. I wanted to reach out and let you know that I have been struggling in your class. I have been trying my best but I feel like I am not understanding the material. I was wondering if there was anything I could do to improve my grade in the class. 
+Thank you for your time, 
+Student
+---------------------------
+response 5:
+Write an email to my teacher:
+
+Dear Teacher, 
+
+I hope you are having a great day! I just wanted to let you know that I have been working hard in your class and I am really enjoying it. I am learning a lot and I appreciate your teaching. Thank you for your time and effort, it is really appreciated.
+
+Sincerely, 
+
+Student
+---------------------------
+response 6:
+Write an email to my teacher:
+
+Hi Teacher,
+
+I hope you're doing well. I just wanted to let you know that I really appreciate all your help this semester. You've been a great teacher and I've learned a lot from you. I'm really looking forward to next semester and continuing to learn from you. Thanks again for all your help.
+
+Best,
+
+[student name]
+---------------------------
+response 7:
+Write an email to my teacher:
+
+Dear Teacher,
+
+I hope you are having a great day. I wanted to let you know that I am having a lot of trouble with the material we are currently covering in class. I am really struggling to understand it and I was hoping we could go over it again in class. I would really appreciate it if you could help me out.
+
+Thank you,
+
+Student
+---------------------------
+response 8:
+Write an email to my teacher:
+
+Hi Teacher,
+
+Hope you're well. I wanted to let you know that I'm having some trouble with the material we're covering in class. I'm finding it hard to keep up and I'm really struggling to understand it.
+
+I was wondering if there was any chance we could go over it again in class, or if you could give me some extra help outside of class? I really want to make sure I understand the material so that I can do well in the class.
+
+Thanks,
+
+Student
+---------------------------
+response 9:
+Write an email to my teacher:
+
+Hi Teacher,
+
+I hope you are doing well. I wanted to let you know that I have been struggling in your class. I have been trying my best, but I am still having trouble understanding the material. I was wondering if there was anything I could do to improve my grade in the class.
+
+Thank you for your time,
+
+Student
+---------------------------

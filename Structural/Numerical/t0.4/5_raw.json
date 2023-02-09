@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAAcqTfrlonIX8sPFf7Q43osTuWK",
+    "object": "text_completion",
+    "created": 1664543802,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love to go for a run in the morning.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love to go for long runs on the weekends.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love to run in the morning.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love running because it makes me feel free.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love the feeling of running through the streets.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love running because it makes me feel free.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love the feeling of running in the rain.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love to run in the morning.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love the feeling of running through the streets.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nI love the feeling of running through the streets.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 118,
+        "total_tokens": 127
+    }
+}

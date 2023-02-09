@@ -1,0 +1,7 @@
+response 0:
+Write a paragraph with ten sentences about Shanghai:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a population of more than 24 million. As one of the three largest economic centers in mainland China, Shanghai is also a leading global city, with influence in commerce, culture, finance, media, fashion, technology and transport. It is a global financial center and the busiest container port in the world.
+
+Shanghai has a rich history dating back over a thousand years, and was once the largest and most prosperous city in the Far East. Today, it is a modern metropolis that is home to a vibrant and cosmopolitan community. Shanghai is a major center for finance and commerce, and is also a popular tourist destination. The city is renowned for its skyline, which is dominated by the iconic Bund waterfront area, as well as its many museums, art galleries, and theaters. Shanghai is also home to a number of universities and research institutes, making it a major center for education and scholarship.
+---------------------------

@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wAN1HNXhaAtjOrexBb1D3ZHM6xd1",
+    "object": "text_completion",
+    "created": 1664544571,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a passage with twenty paragraphs about running:\n\n1. Running is a great way to get exercise.\n\n2. It is a low-impact activity that is easy on your joints.\n\n3. Running can be done anywhere, anytime.\n\n4. It is a great way to relieve stress.\n\n5. Running can help you lose weight.\n\n6. It can improve your cardiovascular health.\n\n7. Running can increase your bone density.\n\n8. It can improve your mental health.\n\n9. Running can help you sleep better.\n\n10. It can increase your lifespan.\n\n11. Running can be social.\n\n12. It can be a solo activity.\n\n13. You can race or just run for fun.\n\n14. There are many different types of running shoes.\n\n15. You can run indoors or outdoors.\n\n16. You can run on a treadmill or in a park.\n\n17. You can run in the rain or in the snow.\n\n18. You can run at night or during the day.\n\n19. You can run in any weather.\n\n20. Running is a great way to get in shape and stay healthy.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 250,
+        "total_tokens": 259
+    }
+}

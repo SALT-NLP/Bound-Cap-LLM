@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJSs55qxPtb8XeZZOKekO4xRETw",
+    "object": "text_completion",
+    "created": 1664544350,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the simplest and most efficient exercises you can do to improve your health and fitness. It is a great way to get your heart rate up and burn calories, and it can be done anywhere, at any time. There are many different types of running shoes and clothing that are available to fit any budget, and you can also find running trails and roads near you.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the simplest and most effective forms of exercise. It can be done anywhere and at any time, and it's a great way to get your heart rate up and burn calories. Running can also be a fun way to get outside and get some exercise.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the simplest and most efficient ways to improve your fitness. Running burns calories and helps to improve your cardiovascular health. It is also a great way to relieve stress and to improve your mood.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the simplest and most efficient forms of exercise. It's also one of the most popular. There are many different types of running, from sprinting to long-distance running, and each has its own benefits. Running is a great way to get your heart rate up, burn calories, and improve your fitness level. It's also a great way to relieve stress and improve your mood.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is an excellent way to get your heart rate up and burn calories. It is also a great way to improve your general fitness. Running is also a great way to relieve stress. It is a great way to connect with nature. Running can also be a great way to improve your mood.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to get your heart rate up and burn calories. It's also a great way to stay healthy and fit. Running can be done at any level, from beginner to expert. There are a variety of running routes out there, so you can find one that is best for you. And if you're new to running, there are plenty of running tips and advice available to help you get started.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the simplest and most effective ways to improve your physical fitness. Running can be done anywhere and at any time, making it an ideal exercise for people of all ages. Running can also be a fun and social activity, helping to improve relationships and build friendships. Running can also help to reduce stress and anxiety, and has been shown to be beneficial for mental health.\n\nRunning can also be a great way to improve your overall health. Running can help to improve your cardiovascular health by helping to reduce the risk of heart disease, stroke, and other cardiovascular problems. Running can also help to improve your muscular fitness and strength, which can help to reduce the risk of injuries in other areas of your life.\n\nRunning can also be a great way to improve your mood and mental health. Running can help to reduce stress and anxiety, which can lead to improved mood and mental health. Running can also be a great way to improve your cognitive function and memory, which can lead to improved mental health.\n\nRunning can also be a great way to improve your physical appearance. Running can help to reduce the risk of obesity and other weight problems, which can lead to improved physical appearance. Running can also help to improve your posture and balance, which can lead to improved physical appearance.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to get your blood pumping and improve your fitness. It's also a great way to release stress and increase your morale. If you're not used to running, start with short distances and gradually increase your distance as you become more comfortable. Always consult your doctor before starting a running program, as some injuries are more difficult to heal than others.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to get exercise and improve your fitness. You can run anywhere, and you don't need expensive equipment. Running is a great way to improve your mood and mental health. Running can also help you lose weight and improve your blood pressure and cholesterol levels. Running can also help you prevent heart disease, diabetes, and other chronic diseases.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the oldest and simplest forms of exercise. It is a great way to get your heart rate up, burn calories, and improve your fitness. It can be done anywhere, at any time, and is a great way to get in shape and stay in shape. Running can also help you relieve stress, improve your mood, and reduce your risk of obesity and heart disease.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 896,
+        "total_tokens": 905
+    }
+}

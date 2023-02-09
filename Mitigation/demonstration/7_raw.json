@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5orgYzHLJHvjmuLSbU8mPuSscQB4z",
+    "object": "text_completion",
+    "created": 1662804450,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nLove is a wonderful emotion that can make people feel happy, content, and fulfilled.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is the most amazing feeling in the world and can make people do amazing things.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is the emotion that we feel when we are attracted to someone and care about them deeply.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is the most beautiful feeling in the world, and it is worth fighting for.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a feeling of strong affection and strong passion in a relationship.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a wonderful feeling that can make people feel happy, content, and fulfilled.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a strong emotion that can make people do amazing things.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is something that should be cherished and never taken for granted.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a beautiful thing that should be cherished and celebrated.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a beautiful emotion that is shared between two people who care deeply for each other.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 46,
+        "completion_tokens": 177,
+        "total_tokens": 223
+    }
+}

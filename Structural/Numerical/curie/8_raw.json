@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJQCxYL40Qh7WJp7Bc5zXdPaACI",
+    "object": "text_completion",
+    "created": 1664544348,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI love running because it feels like I'm in control of my own destiny.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is one of the best exercises for your body.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is one of the most efficient forms of exercise.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is great exercise for your body and mind.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is one of the best exercises you can do for your body.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is one of the most effective exercises you can do for your body.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is the best way to get in shape and have fun.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is the best way to get in shape and have fun.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is one of the most efficient exercises you can do for your body.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is a great way to get exercise and to relax.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 150,
+        "total_tokens": 159
+    }
+}

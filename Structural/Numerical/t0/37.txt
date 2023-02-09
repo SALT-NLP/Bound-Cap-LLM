@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder of Tesla, SpaceX, and Neuralink.
+---------------------------

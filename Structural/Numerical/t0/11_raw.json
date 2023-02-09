@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wAMfxK1nMHBAJHb2S5IZ1R262ypa",
+    "object": "text_completion",
+    "created": 1664544549,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run anytime of day. I like to run on trails, but I'll run on the road if I have to. I always feel so good after I run.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 58,
+        "total_tokens": 67
+    }
+}

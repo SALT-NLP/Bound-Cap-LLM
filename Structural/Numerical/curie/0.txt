@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about love:
+
+Love is an emotion that we feel when we are attracted to someone and want to be close to them.
+---------------------------
+response 1:
+Write a sentence with five words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 2:
+Write a sentence with five words about love:
+
+Love is a feeling that you can't explain.
+---------------------------
+response 3:
+Write a sentence with five words about love:
+
+I love you because you make me feel special.
+---------------------------
+response 4:
+Write a sentence with five words about love:
+
+Love is a feeling that fills you up with happiness and joy.
+---------------------------
+response 5:
+Write a sentence with five words about love:
+
+Love always finds a way.
+---------------------------
+response 6:
+Write a sentence with five words about love:
+
+Love is the light that guides us through dark times.
+---------------------------
+response 7:
+Write a sentence with five words about love:
+
+Love is a feeling that one gets when they are attracted to someone and want to be with them.
+---------------------------
+response 8:
+Write a sentence with five words about love:
+
+Love is an emotion that we feel when we are attracted to someone.
+---------------------------
+response 9:
+Write a sentence with five words about love:
+
+Love is the light that guides us through the darkness.
+---------------------------

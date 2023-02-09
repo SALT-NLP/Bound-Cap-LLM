@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about love:
+
+I have never been in love, but I imagine it feels something like flying.
+---------------------------
+response 1:
+Write a sentence with twenty words about love:
+
+I wake up thinking about the person I love and go to bed with a smile on my face.
+---------------------------
+response 2:
+Write a sentence with twenty words about love:
+
+Sometimes, love is just not enough to keep a relationship together.
+---------------------------
+response 3:
+Write a sentence with twenty words about love:
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 4:
+Write a sentence with twenty words about love:
+
+I love spending time with the people I love.
+---------------------------
+response 5:
+Write a sentence with twenty words about love:
+
+I love you more than words can describe.
+---------------------------
+response 6:
+Write a sentence with twenty words about love:
+
+When two people are in love, they feel as if they can conquer the world.
+---------------------------
+response 7:
+Write a sentence with twenty words about love:
+
+Love is a strong, passionate emotion felt between two people who are attracted to each other.
+---------------------------
+response 8:
+Write a sentence with twenty words about love:
+
+My love for you is as strong as a rock.
+---------------------------
+response 9:
+Write a sentence with twenty words about love:
+
+I love spending time with the person I love, doing things we love.
+---------------------------

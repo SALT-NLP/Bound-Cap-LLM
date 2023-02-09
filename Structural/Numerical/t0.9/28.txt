@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about Shanghai:
+
+In Shanghai, china you can find The Bund, a famous waterfront area.
+---------------------------
+response 1:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling metropolis with a rich culture and history.
+---------------------------
+response 2:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 3:
+Write a sentence with ten words about Shanghai:
+
+In the morning, the sun rises over the Huangpu River, casting a glow on the skyscrapers of Shanghai.
+---------------------------
+response 4:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a metropolis in China.
+---------------------------
+response 5:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling metropolis with a fascinating history.
+---------------------------
+response 6:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling metropolis on the Huangpu River in China.
+---------------------------
+response 7:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is one of the biggest cities in China.
+---------------------------
+response 8:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city located in China.
+---------------------------
+response 9:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a major Chinese city with a rich culture and history.
+---------------------------

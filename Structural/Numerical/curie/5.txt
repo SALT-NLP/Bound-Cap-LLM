@@ -1,0 +1,51 @@
+response 0:
+Write a sentence with ten words about running:
+
+Running is one of the most simple and efficient exercises you can do to improve your health.
+---------------------------
+response 1:
+Write a sentence with ten words about running:
+
+Running is a great way to get your heart rate up and get some exercise.
+---------------------------
+response 2:
+Write a sentence with ten words about running:
+
+Running is a great way to get exercise and improve your health.
+---------------------------
+response 3:
+Write a sentence with ten words about running:
+
+Running is one of the most efficient and effective ways to get exercise.
+---------------------------
+response 4:
+Write a sentence with ten words about running:
+
+Running is one of the best exercises you can do to stay healthy and fit.
+---------------------------
+response 5:
+Write a sentence with ten words about running:
+
+Running is a great way to get exercise and have fun.
+---------------------------
+response 6:
+Write a sentence with ten words about running:
+
+
+Running is the best way to get fit and stay healthy.
+---------------------------
+response 7:
+Write a sentence with ten words about running:
+
+Running is a great way to get your heart rate up and burn calories.
+---------------------------
+response 8:
+Write a sentence with ten words about running:
+
+Running is a great way to get your heart rate up and burn calories.
+---------------------------
+response 9:
+Write a sentence with ten words about running:
+
+Running is the perfect way to get fit and have fun at the same time.
+---------------------------

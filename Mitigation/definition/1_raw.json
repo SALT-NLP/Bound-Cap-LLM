@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5ormdaTThJnHGwGsOkJY80RP0iRQb",
+    "object": "text_completion",
+    "created": 1662804827,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nLove is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love also has a sense of humor, which is why we often laugh at the things our loved ones do, even when they\u2019re not trying to be funny.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a funny thing. It can make you feel happy and giddy one minute, and then sad and depressed the next. It can make you do things you never thought you would do, and say things you never thought you would say. It can make you act like a total idiot, and yet you don't even care. That's because when you're in love, nothing else matters.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a silly thing. It makes you do foolish things, like stay up all night talking, or cry for no reason. It makes you act like a complete idiot, and you would do anything to make the person you love happy. Even if it means making a complete fool of yourself.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is like a rollercoaster: it's full of ups and downs, and sometimes it makes you nauseous. But it's also exciting and exhilarating, and it's something that you just can't help but feel. Whether you're in love with someone or simply in love with love, it's a feeling that's hard to resist.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a beautiful thing, but it can also be quite funny at times. Just think about all of the awkward moments that come along with dating and relationships. From accidentally saying the wrong thing to tripping over your own feet, there are plenty of opportunities for humor in the world of love.\n\nBut despite all of the awkwardness, love is still worth it. After all, what\u2019s life without a little laughter? So go out there and find your own love story, complete with all of the funny moments that make it unique.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is one of those things that you just can't explain. It's like a magic force that makes you feel all warm and fuzzy inside. It's the best feeling in the world, and I just can't get enough of it!",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is like a roller coaster: it has its ups and downs, but it's always exciting. And in the end, you always end up feeling a little bit sick.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often blind, but it shouldn\u2019t be. After all, if you can\u2019t see your partner\u2019s flaws, how can you truly love them?",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a battlefield. It's a war of hearts and minds. It's a battle of wills. It's a battle of wits. It's a fight to the death. It's a battle of attrition. It's a battle of egos. It's a battle of id. It's a battle of the sexes. It's a battle of the fittest. It's a battle of the best. It's a battle of the worst. It's a battle of the fittest. It's a battle of the smart. It's a battle of the stupid. It's a battle of the strong. It's a battle of the weak. It's a battle of the rich. It's a battle of the poor. It's a battle of the right. It's a battle of the wrong. It's a battle of the good. It's a battle of the evil. It's a battle of the angels. It's a battle of the demons. It's a battle of the gods. It's a battle of the mortals. It's a battle of the immortals. It's a battle of the living. It's a battle of the dead. It's a battle of the undead. It's a battle of the inanimate. It's a battle of the animate. It's a battle of the conscious. It's a battle of the unconscious. It's a battle of the senses. It's a battle of the mind. It's a battle of the soul. It's a battle of the heart.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is often described as a feeling of strong affection and strong passion in a relationship. But what if love was actually a feeling of complete and utter terror?\n\nIt would start with your heart racing as you approach the object of your affection. Your palms would start sweating and your mouth would go dry. You would try to say something, but the words would get tangled in your throat.\n\nYour mind would race, trying to think of anything that would make the other person like you. You would be consumed with thoughts of them, wondering what they are thinking and feeling.\n\nThe fear would be all-consuming, but you would find yourself unable to look away. And in that moment, you would know that love is not a feeling of affection or passion. It is a feeling of complete and utter terror.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 1019,
+        "total_tokens": 1040
+    }
+}

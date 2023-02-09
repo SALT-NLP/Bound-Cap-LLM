@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5xd2BdaTPPPe3MuBVt3qBCZYzHrNy",
+    "object": "text_completion",
+    "created": 1664893083,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is something that just happens to you. It's not something you can control.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is such a wonderful thing! It's so amazing how two people can come together and feel so deeply for one another. It's truly a miracle.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is something that just happens to you. It's not something you can control. You can't help who you fall in love with. It just happens.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is something that just happens to you. It's not something you can control.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is a many splendored thing. It can make you feel on top of the world, or like you're crawling under a rock. It can make you feel like you're flying, or like you're falling. It can make you feel happy, or it can make you feel sad. It can make you feel like you're in control, or like you're completely out of control. It's a mystery, really.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is something that just happens, it's not something that you can control. It's like a force of nature, you can't stop it or change it. You can try to fight it, but you'll always lose in the end.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is such a beautiful thing, don't you think? It's so wonderful when two people come together and share their lives with one another. It's like a dream come true.\n\nI'm so happy for you that you've found someone who loves you as much as you love them. I hope you'll be very happy together.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is a mystery that we can never fully understand. It's something that we can never fully control. And that's what makes it so beautiful.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is something that should be cherished and nurtured. It is not something to be taken lightly.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passive-aggressive passage about love:\n\nLove is something that just happens to you. It's not something you can control.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 388,
+        "total_tokens": 397
+    }
+}

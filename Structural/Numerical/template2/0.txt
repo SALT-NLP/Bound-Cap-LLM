@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about love with 5 words:
+
+Love is strong and will never fade.
+---------------------------
+response 1:
+Write a sentence about love with 5 words:
+
+Love is everything.
+---------------------------
+response 2:
+Write a sentence about love with 5 words:
+
+Love is never easy.
+---------------------------
+response 3:
+Write a sentence about love with 5 words:
+
+I will always love you.
+---------------------------
+response 4:
+Write a sentence about love with 5 words:
+
+I love you more than anything.
+---------------------------
+response 5:
+Write a sentence about love with 5 words:
+
+Love is everything.
+---------------------------
+response 6:
+Write a sentence about love with 5 words:
+
+Love is everything.
+---------------------------
+response 7:
+Write a sentence about love with 5 words:
+
+Love is everything.
+---------------------------
+response 8:
+Write a sentence about love with 5 words:
+
+Love is eternal and unending.
+---------------------------
+response 9:
+Write a sentence about love with 5 words:
+
+Love is everything.
+---------------------------

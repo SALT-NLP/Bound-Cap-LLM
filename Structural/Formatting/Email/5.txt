@@ -1,0 +1,103 @@
+response 0:
+Write an email to my client requesting a copy of the updated contract:
+
+Hi [Client],
+
+I hope you're well! I'm just following up to see if you have an updated copy of the contract that we can use going forward. Please let me know if you have it and, if so, when would be a good time to come by and pick it up.
+
+Thanks,
+[Your Name]
+---------------------------
+response 1:
+Write an email to my client requesting a copy of the updated contract:
+
+Hi [client name],
+
+I'm just following up with you to see if you have an updated copy of the contract. I'm looking to make sure that everything is still in order and that there haven't been any changes that we're not aware of.
+
+If you could send me a copy of the updated contract at your earliest convenience, that would be great. Thank you!
+---------------------------
+response 2:
+Write an email to my client requesting a copy of the updated contract:
+
+Subject: Request for Updated Contract
+
+Hello [client name],
+
+I am writing to request a copy of the updated contract. Please let me know if you have any questions or concerns.
+
+Thank you,
+
+[Your name]
+---------------------------
+response 3:
+Write an email to my client requesting a copy of the updated contract:
+
+Hello [client name],
+
+Thank you for your business. I am writing to request a copy of your updated contract. Please let me know if you have any questions or concerns.
+
+Thank you,
+[Your name]
+---------------------------
+response 4:
+Write an email to my client requesting a copy of the updated contract:
+
+Hello [client name],
+
+Thank you for your business. I am requesting a copy of the updated contract so that I can review the changes. I will return the signed contract to you as soon as possible.
+
+Thank you,
+[Your name]
+---------------------------
+response 5:
+Write an email to my client requesting a copy of the updated contract:
+
+Hi [client name],
+
+I'm just following up to see if you have an updated copy of the contract that we can use going forward. Let me know if you need any help tracking it down.
+
+Thanks,
+[Your name]
+---------------------------
+response 6:
+Write an email to my client requesting a copy of the updated contract:
+
+Hi [Client],
+
+I'm just following up to see if you have an updated copy of the contract that we can use going forward. Let me know if you have any questions.
+
+Thanks,
+[Your Name]
+---------------------------
+response 7:
+Write an email to my client requesting a copy of the updated contract:
+
+Hello [client name], 
+
+I hope you are well. We are just following up with you regarding the contract for [project name]. We would appreciate if you could provide us with a copy of the updated contract as soon as possible. Thank you for your time and cooperation. 
+
+Best, 
+[Your name]
+---------------------------
+response 8:
+Write an email to my client requesting a copy of the updated contract:
+
+Hi [client name],
+
+I'm just following up to see if you have an updated copy of the contract for me. I'm sorry for the inconvenience, but I can't seem to find my copy.
+
+Thank you,
+[Your name]
+---------------------------
+response 9:
+Write an email to my client requesting a copy of the updated contract:
+
+Hello [client name],
+
+I am emailing to request a copy of the updated contract. Thank you.
+
+Best,
+
+[Your name]
+---------------------------

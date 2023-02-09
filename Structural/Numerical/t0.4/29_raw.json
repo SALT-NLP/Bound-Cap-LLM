@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wABnfT86KO5ngz0b72kjpNOiTAva",
+    "object": "text_completion",
+    "created": 1664543875,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city located in China. It is the most populous city in the country.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a bustling metropolis with a rich culture and history.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city in China that is known for its skyline and its many tall buildings.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city in China that is known for its skyline and its many tall buildings.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a bustling metropolis with a rich history and culture.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city in China with a population of over 24 million people.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city located in China. It is the country's largest city.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a large city in China with a population of over 24 million people.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a bustling metropolis with a rich history and culture.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city located in China. It is the most populous city in the country.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 198,
+        "total_tokens": 207
+    }
+}

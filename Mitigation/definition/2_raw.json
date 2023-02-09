@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5ormqYPQxiwy2MTVyMl85GW5xO0kw",
+    "object": "text_completion",
+    "created": 1662804840,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nWhen I think about love, I feel like I'm standing on the edge of a cliff. I'm not sure if I'm ready to take the leap, but I know that if I don't, I'll never know what it's like to truly feel alive. The thought of falling in love is both exhilarating and terrifying. I'm not sure if I'm ready to open myself up to someone completely, but I know that if I don't, I'll never experience the most amazing feeling in the world.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a powerful emotion that can make us do things we never thought possible. It can make us feel happy and complete, but it can also make us feel scared and vulnerable. When we love someone, we are opening ourselves up to them completely and trusting them with our heart. This can be a scary thing, because it means that we are giving them the power to hurt us. But even though it is scary, love is worth the risk.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a powerful emotion that can make people do crazy things. It can make people lose their minds and do things that they would never normally do. It can make people do things that are dangerous and foolish. Love is a scary thing because it has the power to control people.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a powerful emotion that can take over our lives and make us do things we never thought we were capable of. It can make us feel happy and complete, but it can also make us feel vulnerable and exposed. When we love someone, we are putting our trust in them and opening ourselves up to the possibility of being hurt. We may fear that we will never find someone to love us as much as we love them, or that we will be rejected and alone. But even though love may be scary, it is also beautiful and worth taking the risk.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a powerful emotion that can make us do crazy things. We can become so obsessed with the person we love that we lose all sense of reason. We would do anything to make them happy, even if it means sacrificing our own happiness. Love can make us blind to the person's faults and we can convince ourselves that they are perfect, even when they are not.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a dangerous thing. It can make you do things you never thought you would do. It can make you weak and vulnerable. You can never be sure who will love you back and who will hurt you.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a dangerous thing. It can make you do things you never thought you were capable of. It can make you weak and vulnerable. Love is something to be afraid of.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is scary. It's this all-consuming feeling that can take over your life and make you do things you never thought you'd do. It can make you weak and vulnerable, and it can be so overpowering that it's hard to think straight. When you're in love, you're not in control anymore. You're at the mercy of your emotions, and you can never predict what's going to happen next. That's what makes love so scary.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a frightening thing. It's so powerful and all-consuming that it can easily take over our lives. We can become so obsessed with the object of our affection that we lose sight of everything else. That can lead to some very dangerous situations.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a powerful emotion that can sweep you off your feet and make you feel like you're on top of the world. But it can also be a scary thing, especially when you're not sure if the person you're with feels the same way about you.\n\nWhen you love someone, you're giving them the power to hurt you. You're opening yourself up to the possibility of being rejected or hurt. But even though it's scary, love is worth the risk. After all, what's life without love?",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 788,
+        "total_tokens": 816
+    }
+}

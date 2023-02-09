@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph about cats with 5 sentences:
+
+I have a cat that I love dearly. His name is Simon and he is the best cat I've ever had. He is very affectionate and loves to be around people. He is also very playful and loves to play with his toys. I couldn't ask for a better cat!
+---------------------------
+response 1:
+Write a paragraph about cats with 5 sentences:
+
+Cats are one of the most popular pets in the world. They are known for being independent, but also affectionate with their owners. Cats are low maintenance, and can be left alone for long periods of time. They are also good hunters, and will keep your home free of rodents.
+---------------------------
+response 2:
+Write a paragraph about cats with 5 sentences:
+
+I love cats. I think they are the cutest animals. I have two cats, and they are the best. I named one of my cats, Snickers, and the other one, Oreo. I got them both from animal shelters.
+---------------------------
+response 3:
+Write a paragraph about cats with 5 sentences:
+
+There are many reasons why people love cats. They are independent, yet affectionate. They are low-maintenance, yet entertaining. They are clean, yet cuddly. In short, they make the perfect pet. And, of course, they are absolutely adorable.
+---------------------------
+response 4:
+Write a paragraph about cats with 5 sentences:
+
+There are many different types of cats in the world. Some are big, some are small, and some are in between. Some cats are very active, and some are more laid back. Some like to be around people, and some prefer to be left alone. Whatever type of cat you are looking for, there is sure to be one that is perfect for you.
+---------------------------
+response 5:
+Write a paragraph about cats with 5 sentences:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be trained to use a litter box. Cats are also known for being good hunters, and they have a natural instinct to catch rodents and birds. Cats are typically very affectionate with their owners, and they enjoy spending time curled up in laps or sleeping in sunny spots.
+---------------------------
+response 6:
+Write a paragraph about cats with 5 sentences:
+
+Cats are popular pets because they are relatively low maintenance and can be left alone for extended periods of time. They are also relatively clean and do not require as much space as some other pets. Cats can be playful and affectionate, but they can also be aloof and independent. Most cats enjoy scratching furniture and climbing, so it is important to provide them with a scratching post or cat tree.
+---------------------------
+response 7:
+Write a paragraph about cats with 5 sentences:
+
+I love cats. I think they're so cute and fun to watch. I have two cats, Simon and Mia. Simon is a tabby and Mia is a Siamese. I got them both from the shelter. I think more people should adopt cats from shelters because there are so many of them that need homes.
+---------------------------
+response 8:
+Write a paragraph about cats with 5 sentences:
+
+Cats are one of the most popular pets in the world. They are known for being independent and low maintenance, but they can also be affectionate and loving. Cats come in a wide variety of colors, patterns, and sizes, and they can live for 15 or more years. Although they are often thought of as indoor pets, some cats enjoy spending time outdoors.
+---------------------------
+response 9:
+Write a paragraph about cats with 5 sentences:
+
+I think cats are amazing creatures. They are so independent and have such a unique personality. I love how they are always there when you need them and they make great companions. I have two cats of my own and they are my best friends. I can't imagine life without them.
+---------------------------

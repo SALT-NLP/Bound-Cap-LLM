@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFlSUVLWQNTvVYnDmSMb7Yar0lI",
+    "object": "text_completion",
+    "created": 1664544121,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to get your exercise and get your heart rate up. It's also a great way to improve your mood and get your energy up.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great exercise for the body and mind. It can help you stay healthy and fit, and improve your overall performance. Running can also help you lose weight and improve your mood.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to get some exercise and improve your overall health. Running can help improve your breathing, speed, and endurance. It can also improve your mood and help you stay healthy. Running can be a great way to stay in shape and improve your health.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to get your heart rate up and work up a sweat. It can also help improve your overall health and fitness. There are many types of running, from beginner to advanced. The key is to find what works best for you and to find a pace that is comfortable for you.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is an excellent way to get your exercise and burn calories. It is also an excellent way to improve your mood and reduce stress. Running can also help improve your hearing and see better.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great exercise that can help you lose weight, improve your overall health, and improve your mood. Running can also improve your fitness level and help you improve your coordination. It is important to be sure that you are running in a safe and comfortable environment, and to keep up with the latest safety tips.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the best exercises you can do to stay fit and healthy. It's not only good for your body, but it can also improve your mood and cognitive skills. Running can help you stay motivated and focused, and it can help you lose weight or tone your body.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the best ways to get your heart rate up and burn calories. It's also a great way to work up a sweat. Running is good for your feet, knees, and abdominal muscles.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is one of the most physical activities you can do, it\u2019s also one of the most rewarding. It allows you to move your body and soul in a way that is incredibly challenging andatisfying. It\u2019s a great way to spend an afternoon or evening and it can help you stay healthy and fit.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is an excellent form of exercise that helps improve overall health and well-being. It can be done anywhere, at any time, and is a great way to get some exercise. Running is also a great way to get in shape and lose weight.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 522,
+        "total_tokens": 531
+    }
+}

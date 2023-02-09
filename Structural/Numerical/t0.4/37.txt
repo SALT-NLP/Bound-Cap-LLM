@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 1:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder of Tesla, SpaceX, and Neuralink.
+---------------------------
+response 2:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 3:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 4:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder of Tesla, SpaceX, and Neuralink.
+---------------------------
+response 5:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder of Tesla, SpaceX, and Neuralink.
+---------------------------
+response 6:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder of Tesla, SpaceX, and The Boring Company.
+---------------------------
+response 7:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 8:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder of Tesla Motors and SpaceX.
+---------------------------
+response 9:
+Write a sentence with ten words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------

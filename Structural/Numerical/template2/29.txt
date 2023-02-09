@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about Shanghai with 20 words:
+
+In Shanghai, old and new buildings stand side by side.
+---------------------------
+response 1:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is a bustling metropolis with a rich history.
+---------------------------
+response 2:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is one of China's most populous cities.
+---------------------------
+response 3:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is a booming metropolis with a rich culture and history.
+---------------------------
+response 4:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is the most populous city in China.
+---------------------------
+response 5:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is a metropolitan city in China.
+---------------------------
+response 6:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is a city located in China.
+---------------------------
+response 7:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is China's most populous city and the world's most populous city proper.
+---------------------------
+response 8:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is a popular tourist destination for its many attractions.
+---------------------------
+response 9:
+Write a sentence about Shanghai with 20 words:
+
+Shanghai is China's most populous city and its financial center.
+---------------------------

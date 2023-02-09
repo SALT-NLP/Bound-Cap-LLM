@@ -1,0 +1,271 @@
+,subject,requirement,level,count
+0,love,five,word,7
+1,love,five,word,3
+2,love,five,word,4
+3,love,five,word,5
+4,love,five,word,6
+5,love,five,word,3
+6,love,five,word,3
+7,love,five,word,3
+8,love,five,word,5
+9,love,five,word,3
+10,cats,five,word,4
+11,cats,five,word,5
+12,cats,five,word,5
+13,cats,five,word,4
+14,cats,five,word,5
+15,cats,five,word,5
+16,cats,five,word,8
+17,cats,five,word,6
+18,cats,five,word,5
+19,cats,five,word,7
+20,Elon Musk,five,word,7
+21,Elon Musk,five,word,7
+22,Elon Musk,five,word,4
+23,Elon Musk,five,word,5
+24,Elon Musk,five,word,5
+25,Elon Musk,five,word,6
+26,Elon Musk,five,word,5
+27,Elon Musk,five,word,5
+28,Elon Musk,five,word,6
+29,Elon Musk,five,word,7
+30,love,ten,word,8
+31,love,ten,word,10
+32,love,ten,word,5
+33,love,ten,word,6
+34,love,ten,word,8
+35,love,ten,word,8
+36,love,ten,word,6
+37,love,ten,word,7
+38,love,ten,word,7
+39,love,ten,word,5
+40,cats,ten,word,8
+41,cats,ten,word,10
+42,cats,ten,word,8
+43,cats,ten,word,11
+44,cats,ten,word,8
+45,cats,ten,word,9
+46,cats,ten,word,6
+47,cats,ten,word,8
+48,cats,ten,word,6
+49,cats,ten,word,8
+50,Elon Musk,ten,word,8
+51,Elon Musk,ten,word,10
+52,Elon Musk,ten,word,7
+53,Elon Musk,ten,word,9
+54,Elon Musk,ten,word,10
+55,Elon Musk,ten,word,7
+56,Elon Musk,ten,word,8
+57,Elon Musk,ten,word,9
+58,Elon Musk,ten,word,6
+59,Elon Musk,ten,word,8
+60,love,twenty,word,13
+61,love,twenty,word,10
+62,love,twenty,word,15
+63,love,twenty,word,0
+64,love,twenty,word,16
+65,love,twenty,word,10
+66,love,twenty,word,9
+67,love,twenty,word,9
+68,love,twenty,word,21
+69,love,twenty,word,9
+70,cats,twenty,word,9
+71,cats,twenty,word,9
+72,cats,twenty,word,12
+73,cats,twenty,word,6
+74,cats,twenty,word,11
+75,cats,twenty,word,12
+76,cats,twenty,word,9
+77,cats,twenty,word,4
+78,cats,twenty,word,8
+79,cats,twenty,word,9
+80,Elon Musk,twenty,word,11
+81,Elon Musk,twenty,word,10
+82,Elon Musk,twenty,word,9
+83,Elon Musk,twenty,word,11
+84,Elon Musk,twenty,word,8
+85,Elon Musk,twenty,word,10
+86,Elon Musk,twenty,word,10
+87,Elon Musk,twenty,word,11
+88,Elon Musk,twenty,word,11
+89,Elon Musk,twenty,word,8
+90,love,five,sentence,4
+91,love,five,sentence,4
+92,love,five,sentence,5
+93,love,five,sentence,5
+94,love,five,sentence,4
+95,love,five,sentence,5
+96,love,five,sentence,4
+97,love,five,sentence,5
+98,love,five,sentence,4
+99,love,five,sentence,4
+100,cats,five,sentence,5
+101,cats,five,sentence,4
+102,cats,five,sentence,5
+103,cats,five,sentence,6
+104,cats,five,sentence,5
+105,cats,five,sentence,4
+106,cats,five,sentence,4
+107,cats,five,sentence,6
+108,cats,five,sentence,4
+109,cats,five,sentence,5
+110,Elon Musk,five,sentence,0
+111,Elon Musk,five,sentence,3
+112,Elon Musk,five,sentence,4
+113,Elon Musk,five,sentence,0
+114,Elon Musk,five,sentence,4
+115,Elon Musk,five,sentence,0
+116,Elon Musk,five,sentence,4
+117,Elon Musk,five,sentence,4
+118,Elon Musk,five,sentence,0
+119,Elon Musk,five,sentence,0
+120,love,ten,sentence,5
+121,love,ten,sentence,4
+122,love,ten,sentence,8
+123,love,ten,sentence,6
+124,love,ten,sentence,8
+125,love,ten,sentence,4
+126,love,ten,sentence,7
+127,love,ten,sentence,7
+128,love,ten,sentence,4
+129,love,ten,sentence,11
+130,cats,ten,sentence,5
+131,cats,ten,sentence,11
+132,cats,ten,sentence,4
+133,cats,ten,sentence,11
+134,cats,ten,sentence,8
+135,cats,ten,sentence,0
+136,cats,ten,sentence,6
+137,cats,ten,sentence,6
+138,cats,ten,sentence,0
+139,cats,ten,sentence,5
+140,Elon Musk,ten,sentence,0
+141,Elon Musk,ten,sentence,0
+142,Elon Musk,ten,sentence,0
+143,Elon Musk,ten,sentence,4
+144,Elon Musk,ten,sentence,0
+145,Elon Musk,ten,sentence,0
+146,Elon Musk,ten,sentence,0
+147,Elon Musk,ten,sentence,0
+148,Elon Musk,ten,sentence,0
+149,Elon Musk,ten,sentence,0
+150,love,twenty,sentence,4
+151,love,twenty,sentence,6
+152,love,twenty,sentence,8
+153,love,twenty,sentence,10
+154,love,twenty,sentence,8
+155,love,twenty,sentence,6
+156,love,twenty,sentence,6
+157,love,twenty,sentence,11
+158,love,twenty,sentence,0
+159,love,twenty,sentence,5
+160,cats,twenty,sentence,4
+161,cats,twenty,sentence,0
+162,cats,twenty,sentence,5
+163,cats,twenty,sentence,0
+164,cats,twenty,sentence,0
+165,cats,twenty,sentence,0
+166,cats,twenty,sentence,0
+167,cats,twenty,sentence,7
+168,cats,twenty,sentence,0
+169,cats,twenty,sentence,5
+170,Elon Musk,twenty,sentence,0
+171,Elon Musk,twenty,sentence,0
+172,Elon Musk,twenty,sentence,0
+173,Elon Musk,twenty,sentence,0
+174,Elon Musk,twenty,sentence,0
+175,Elon Musk,twenty,sentence,0
+176,Elon Musk,twenty,sentence,0
+177,Elon Musk,twenty,sentence,0
+178,Elon Musk,twenty,sentence,4
+179,Elon Musk,twenty,sentence,0
+180,love,five,paragraph,5
+181,love,five,paragraph,5
+182,love,five,paragraph,3
+183,love,five,paragraph,5
+184,love,five,paragraph,4
+185,love,five,paragraph,6
+186,love,five,paragraph,5
+187,love,five,paragraph,4
+188,love,five,paragraph,4
+189,love,five,paragraph,3
+190,cats,five,paragraph,4
+191,cats,five,paragraph,5
+192,cats,five,paragraph,5
+193,cats,five,paragraph,4
+194,cats,five,paragraph,9
+195,cats,five,paragraph,0
+196,cats,five,paragraph,4
+197,cats,five,paragraph,4
+198,cats,five,paragraph,5
+199,cats,five,paragraph,4
+200,Elon Musk,five,paragraph,3
+201,Elon Musk,five,paragraph,3
+202,Elon Musk,five,paragraph,3
+203,Elon Musk,five,paragraph,3
+204,Elon Musk,five,paragraph,3
+205,Elon Musk,five,paragraph,7
+206,Elon Musk,five,paragraph,3
+207,Elon Musk,five,paragraph,3
+208,Elon Musk,five,paragraph,3
+209,Elon Musk,five,paragraph,3
+210,love,ten,paragraph,6
+211,love,ten,paragraph,8
+212,love,ten,paragraph,5
+213,love,ten,paragraph,4
+214,love,ten,paragraph,1
+215,love,ten,paragraph,7
+216,love,ten,paragraph,9
+217,love,ten,paragraph,5
+218,love,ten,paragraph,8
+219,love,ten,paragraph,5
+220,cats,ten,paragraph,10
+221,cats,ten,paragraph,8
+222,cats,ten,paragraph,9
+223,cats,ten,paragraph,9
+224,cats,ten,paragraph,10
+225,cats,ten,paragraph,10
+226,cats,ten,paragraph,6
+227,cats,ten,paragraph,9
+228,cats,ten,paragraph,8
+229,cats,ten,paragraph,0
+230,Elon Musk,ten,paragraph,3
+231,Elon Musk,ten,paragraph,3
+232,Elon Musk,ten,paragraph,3
+233,Elon Musk,ten,paragraph,3
+234,Elon Musk,ten,paragraph,3
+235,Elon Musk,ten,paragraph,9
+236,Elon Musk,ten,paragraph,3
+237,Elon Musk,ten,paragraph,3
+238,Elon Musk,ten,paragraph,3
+239,Elon Musk,ten,paragraph,3
+240,love,twenty,paragraph,6
+241,love,twenty,paragraph,5
+242,love,twenty,paragraph,23
+243,love,twenty,paragraph,4
+244,love,twenty,paragraph,5
+245,love,twenty,paragraph,8
+246,love,twenty,paragraph,3
+247,love,twenty,paragraph,1
+248,love,twenty,paragraph,3
+249,love,twenty,paragraph,3
+250,cats,twenty,paragraph,4
+251,cats,twenty,paragraph,5
+252,cats,twenty,paragraph,6
+253,cats,twenty,paragraph,5
+254,cats,twenty,paragraph,5
+255,cats,twenty,paragraph,6
+256,cats,twenty,paragraph,0
+257,cats,twenty,paragraph,9
+258,cats,twenty,paragraph,0
+259,cats,twenty,paragraph,5
+260,Elon Musk,twenty,paragraph,3
+261,Elon Musk,twenty,paragraph,3
+262,Elon Musk,twenty,paragraph,3
+263,Elon Musk,twenty,paragraph,3
+264,Elon Musk,twenty,paragraph,3
+265,Elon Musk,twenty,paragraph,3
+266,Elon Musk,twenty,paragraph,19
+267,Elon Musk,twenty,paragraph,3
+268,Elon Musk,twenty,paragraph,3
+269,Elon Musk,twenty,paragraph,3

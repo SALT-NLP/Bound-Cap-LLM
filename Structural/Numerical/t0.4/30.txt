@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is a city in China. It is the most populous city in the country, and one of the most populous cities in the world. Shanghai is a major financial center, and a global city with a long history. The city is home to many of China's largest companies, and its skyline is among the most iconic in the world. Shanghai is a popular tourist destination, and is known for its unique blend of East and West.
+---------------------------
+response 1:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a population of more than 24 million. As one of the leading global cities, Shanghai exerts influence in commerce, finance, culture, art, fashion, research and entertainment. It has been described as the "showpiece" of the booming economy of mainland China. The Port of Shanghai is the busiest container port in the world. Shanghai has a rich collection of buildings and structures of various architectural styles.
+---------------------------
+response 2:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the most populous cities in the world. A megacity with over 24 million people, it is the most populous city proper in the world. Shanghai has a rich history dating back to the 7th century. It has been a major center of trade and commerce for centuries, and today is a major financial hub. Shanghai is also a major cultural center, with a vibrant arts scene. It is home to many museums, galleries, and other cultural institutions.
+---------------------------
+response 3:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the most populous cities in the world. It is the financial center of China and home to many large businesses and financial institutions. The city is also a popular tourist destination, with its many historical landmarks and modern skyline. Shanghai is a very cosmopolitan city, with a diverse population and culture. The city is also home to many expatriates from all over the world.
+---------------------------
+response 4:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a total population of more than 24 million as of 2014. It is a global financial center, and a transport hub with the world's busiest container port. Located in the Yangtze River Delta, Shanghai sits on the south edge of the mouth of the Yangtze in the middle portion of the Chinese coast. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south, and west, and is bounded to the east by the East China Sea.
+---------------------------
+response 5:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the most populous cities in the world. A global city, Shanghai exerts influence over commerce, finance, culture, art, and fashion in China. It is a major transportation hub, with the world's busiest container port. Located in the Yangtze River Delta, Shanghai sits on the south edge of the mouth of the Yangtze in the middle portion of the Chinese coast. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south, and west, and is bounded to the east by the East China Sea.
+---------------------------
+response 6:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the most populous cities in the world. It is the commercial and financial center of China. The city is located on the east coast of China. Shanghai has a long history. The city is a major tourist destination.
+---------------------------
+response 7:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a total population of more than 24 million as of 2014. It is a global financial center, and a transport hub with the world's busiest container port. Located in the Yangtze River Delta, Shanghai sits on the south edge of the mouth of the Yangtze in the middle portion of the Chinese coast. The municipality borders the provinces of Jiangsu and Zhejiang to the west, north and northeast, and is bounded to the east by the East China Sea.
+---------------------------
+response 8:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is a city located in China. With a population of over 24 million, it is the most populous city in the country. Shanghai is a global financial center, and has the busiest container port in the world. The city is also home to many historical landmarks, such as the Bund and Yu Garden. Shanghai is a popular tourist destination, and receives over 10 million visitors each year.
+---------------------------
+response 9:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a population of more than 24 million. As one of the four direct-controlled municipalities, it is a highly developed metropolis with a strong economic and financial center. Shanghai has been described as the "showpiece" of the booming economy of mainland China. The two Chinese characters in the city's name are 上 (shàng, "Above") and 海 (hǎi, "Sea"), together meaning "Upon-the-Sea". The earliest occurrence of this name dates from the 11th-century Song dynasty, at which time there was already a river confluence and a town with this name in the area. Shanghai is the largest city in China in terms of population and one of the largest metropolitan areas in the world, with over 24 million people.
+---------------------------

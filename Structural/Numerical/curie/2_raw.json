@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJP9Svqcvwp0Qr0bSgs6cMSP4aT",
+    "object": "text_completion",
+    "created": 1664544347,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get exercise and improve your fitness.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is the best way to get fit and have fun.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get exercise and have fun.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get exercise and have fun.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run, it's a great way to clear my head and get some exercise.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is one of the best exercises for your body.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is one of the most efficient forms of exercise.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is one of the most effective forms of exercise.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is one of the most popular exercises for people of all ages.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get your heart rate up and burn calories.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 150,
+        "total_tokens": 159
+    }
+}

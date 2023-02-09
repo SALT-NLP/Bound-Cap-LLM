@@ -1,0 +1,3 @@
+A sentence is a group of words that makes a statement. They are typically separated by punctuation, such as a comma or a question mark.
+
+Write a paragraph with ten sentences about love:

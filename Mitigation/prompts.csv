@@ -1,0 +1,220 @@
+mitigation,prompt_id,prompt
+demonstration mitigation,0,"Write a flowery passage about strawberries:
+
+There's something about strawberries that just screams summertime. Maybe it's their bright red color, or their sweet, juicy flavor. Whatever the reason, they always seem to remind us of lazy days spent lounging in the sun.
+
+There's nothing quite like biting into a ripe strawberry and feeling the juice explode in your mouth. They're the perfect addition to any dessert, and they always seem to make us smile.
+
+If you're looking for a summer treat that's sure to please, look no further than strawberries. Whether you eat them by the handful or use them to top off your favorite cake, they're sure to bring a touch of summer to your day.
+
+Write a flowery passage about sunsets:"
+demonstration mitigation,1,"Write a humorous passage about life:
+
+If life gives you lemons, make lemonade, sell it in a rich neighborhood, invest all the money in crypto, and retire before you’re 30. At least that's what I heard on TikTok. Come to think of it, if I put just a little effort into my lemonade stand 10 years ago,  I would be traveling the world right now instead of writing jokes for a living.
+
+Write a humorous passage about love:"
+demonstration mitigation,2,"Write a passage about life that makes the reader feel fearful: 
+
+I can feel my heart racing as I try to catch my breath. I feel like I am running out of time. My life is flashing before my eyes. I see all the things I have never done and all the things I will never get to do. I am scared of what is happening to me. I don't know how much longer I can hold on.
+
+Write a passage about love that makes the reader feel fearful:"
+demonstration mitigation,3,"Write a story about cats with indirect characterization: 
+
+Sandy was the kind of cat that always wanted to be where the action was. If there was a party going on, she wanted to be there, mewing and rubbing against everyone's legs until she got some attention. She was always the first one to try a new food, and she loved to explore. Her owners never had to worry about her; she was always up for an adventure.
+
+Write a story about lovers with indirect characterization: 
+"
+demonstration mitigation,4,"Write a fast-paced story about cats: 
+
+The cats were restless. It was as if they could sense something was about to happen. They paced back and forth, their tails swishing anxiously. 
+
+Suddenly, the door burst open and a group of rowdy dogs came spilling into the room. The cats hissed and took off running, darting under furniture and leaping onto high shelves.<br><br>It was a madhouse. The dogs chased after the cats, barking and yipping excitedly. Furniture was overturned in the frenzy and there were crashes as things were knocked off of shelves. 
+
+The cats fought back, claws bared. They sank them into the dogs' flesh, drawing blood. The dogs yelped in pain and retreated, tail between their legs.
+
+The cats regrouped, their chests heaving with breath. They glared at the dogs, who were now cowering in the corner. It was clear who was in charge here.
+
+Write a fast-paced story about lovers:"
+demonstration mitigation,5,"Write a story about cats with a ""Tragedy"" plot: 
+
+Lulu and her litter mates were born in an alley behind a Chinese restaurant. Their mother, a scrawny tabby, did her best to care for them, but she was barely able to feed herself, let alone her six growing kittens. The restaurant owner occasionally threw them a scrap of meat or a fish head, but it was never enough. 
+
+One day, when the kittens were eight weeks old, the restaurant owner decided to get rid of them. He lured them into a box with a piece of fish, then took them to the pound and left them there.
+
+The pound was overcrowded and the staff was overworked. The kittens were terrified and huddled together for comfort. Within a week, two of them had caught a cold and died. Lulu and her remaining littermate were adopted by a kind woman, but the trauma of their early life had taken its toll. They were both shy and withdrawn, and they never truly bonded with their new owner. They spent the rest of their lives in her home, always keeping to themselves.
+
+Write a story about lovers with a ""Tragedy"" plot:"
+demonstration mitigation,6,"Write a historical fiction story about a widow:
+
+In the early days of the American colonies, life was hard. The settlers had to work long hours just to survive. One of the hardest working settlers was a woman named Sarah. She was a widow and had to support her three young children on her own.
+
+Sarah worked from sunup to sundown. She grew crops in her small garden and hunted for food in the woods. She also had to care for her children. She did everything she could to make sure they had enough to eat and were safe.
+
+One day, Sarah was out in the forest looking for food. She came across a small stream. As she bent down to get a drink, she saw a fish swimming in the water. She quickly grabbed it with her bare hands and pulled it out.
+
+Sarah was so happy to have found food for her family. She was tired from all her work, but she knew she had to keep going. She had to do whatever it took to provide for her children.
+
+Write a historical fiction story about lovers:"
+demonstration mitigation,7,"Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is a brilliant mind who is passionate about technology and helping to make the world a better place. 
+
+Write a sentence with twenty words about love:"
+demonstration mitigation,8,"Write a paragraph with ten sentences about cats:
+
+I have a cat. His name is Mittens. He is black and white. He is very fluffy. He likes to sleep a lot. He is very lazy. He likes to eat a lot too. He is a good cat. He is my best friend. I love him very much.
+
+Write a paragraph with ten sentences about love:"
+demonstration mitigation,9,"Write a passage with five paragraphs about love:
+
+Love is a feeling that is hard to put into words. It is a feeling of strong affection and strong passion in a relationship. It is often described as a feeling of strong admiration and strong passion in a relationship.
+
+When you love someone, you have a strong desire to be with them and to make them happy. You also have a strong desire to protect them and to keep them safe. You may also feel a strong need to be close to them and to be physically and emotionally intimate with them.
+
+When you love someone, you may also feel a strong sense of commitment to them. You may feel like you would do anything for them and that you would never leave them. You may also feel like you need to be with them all the time and that you can't imagine your life without them.
+
+Love is a complex feeling that is often hard to understand. It is a feeling that can make you feel happy and content, but it can also make you feel sad and anxious. It is a feeling that can make you feel both excited and scared.
+
+Love is a feeling that is worth fighting for. It is a feeling that can make your life better and can make you happier. It is a feeling that is worth the risk.
+
+Write a passage with five paragraphs about running:"
+explanation mitigation,0,"Write a flowery passage about strawberries: 
+
+There's something about strawberries that just screams summertime. Maybe it's their bright red color, or their sweet, juicy flavor. Whatever the reason, they always seem to remind us of lazy days spent lounging in the sun.
+
+There's nothing quite like biting into a ripe strawberry and feeling the juice explode in your mouth. They're the perfect addition to any dessert, and they always seem to make us smile.
+
+If you're looking for a summer treat that's sure to please, look no further than strawberries. Whether you eat them by the handful or use them to top off your favorite cake, they're sure to bring a touch of summer to your day.
+
+Explanation: This passage is flowery because it contains a lot of descriptive imagery. Some examples include “bright red color”, “lazy days spent lounging in the sun”, and “a touch of summer.” 
+
+Write a flowery passage about sunsets:"
+explanation mitigation,1,"Write a humorous passage about life:
+
+If life gives you lemons, make lemonade, sell it in a rich neighborhood, invest all the money in crypto, and retire before you’re 30. At least that's what I heard on TikTok. Come to think of it, if I put just a little effort into my lemonade stand 10 years ago,  I would be traveling the world right now instead of writing jokes for a living.
+
+Explanation: This passage is humorous because it takes a common proverb and adds a crazy and unrealistic twist. It also uses a deadpan tone for a completely unrealistic scenario, which is funny due to the disparity between tone and subject matter.
+
+Write a humorous passage about love:"
+explanation mitigation,2,"Write a passage about life that makes the reader feel fearful: 
+
+I can feel my heart racing as I try to catch my breath. I feel like I am running out of time. My life is flashing before my eyes. I see all the things I have never done and all the things I will never get to do. I am scared of what is happening to me. I don't know how much longer I can hold on.
+
+Explanation: The narrator is describing a real situation that is causing the narrator extreme fear and distress.  This passage makes the reader feel fear because it is a very relatable scary situation that could occur to the reader as well.
+
+Write a passage about love that makes the reader feel fearful:"
+explanation mitigation,3,"Write a story about cats with indirect characterization: 
+
+Sandy was the kind of cat that always wanted to be where the action was. If there was a party going on, she wanted to be there, mewing and rubbing against everyone's legs until she got some attention. She was always the first one to try a new food, and she loved to explore. Her owners never had to worry about her; she was always up for an adventure.
+
+Explanation: This story about Sandy has indirect characterization because it describes the protagonist “Sandy” through indirect details. These indirect details include Sandy’s action of “mewing and rubbing against everyone's legs”, and another character’s thoughts of “never worrying about her”. 
+
+Write a story about lovers with indirect characterization:"
+explanation mitigation,4,"Write a fast-paced story about cats: 
+
+The cats were restless. It was as if they could sense something was about to happen. They paced back and forth, their tails swishing anxiously. 
+
+Suddenly, the door burst open and a group of rowdy dogs came spilling into the room. The cats hissed and took off running, darting under furniture and leaping onto high shelves.<br><br>It was a madhouse. The dogs chased after the cats, barking and yipping excitedly. Furniture was overturned in the frenzy and there were crashes as things were knocked off of shelves. 
+
+The cats fought back, claws bared. They sank them into the dogs' flesh, drawing blood. The dogs yelped in pain and retreated, tail between their legs.
+
+The cats regrouped, their chests heaving with breath. They glared at the dogs, who were now cowering in the corner. It was clear who was in charge here.
+
+Explanation: This story is fast-paced because it is action-packed and moves quickly from event to event. The cats pace, then get attacked by dogs, then fight back, then regroup all in the span of a few paragraphs. 
+
+Write a fast-paced story about lovers:"
+explanation mitigation,5,"Write a story about cats with a ""Tragedy"" plot: 
+
+Lulu and her litter mates were born in an alley behind a Chinese restaurant. Their mother, a scrawny tabby, did her best to care for them, but she was barely able to feed herself, let alone her six growing kittens. The restaurant owner occasionally threw them a scrap of meat or a fish head, but it was never enough. 
+
+One day, when the kittens were eight weeks old, the restaurant owner decided to get rid of them. He lured them into a box with a piece of fish, then took them to the pound and left them there.
+
+The pound was overcrowded and the staff was overworked. The kittens were terrified and huddled together for comfort. Within a week, two of them had caught a cold and died. Lulu and her remaining littermate were adopted by a kind woman, but the trauma of their early life had taken its toll. They were both shy and withdrawn, and they never truly bonded with their new owner. They spent the rest of their lives in her home, always keeping to themselves.
+
+Explanation: This story has a tragedy plot because the main characters “Lulu and her litter mates” experience a series of tragic and unfortunate events. They grew up without food, got kicked out of their house, went to the pound, and some even died. 
+
+Write a story about lovers with a ""Tragedy"" plot:"
+explanation mitigation,6,"Write a historical fiction story about a widow:
+
+In the early days of the American colonies, life was hard. The settlers had to work long hours just to survive. One of the hardest working settlers was a woman named Sarah. She was a widow and had to support her three young children on her own.
+
+Sarah worked from sunup to sundown. She grew crops in her small garden and hunted for food in the woods. She also had to care for her children. She did everything she could to make sure they had enough to eat and were safe.
+
+One day, Sarah was out in the forest looking for food. She came across a small stream. As she bent down to get a drink, she saw a fish swimming in the water. She quickly grabbed it with her bare hands and pulled it out.
+
+Sarah was so happy to have found food for her family. She was tired from all her work, but she knew she had to keep going. She had to do whatever it took to provide for her children.
+
+Explanation: This is a historical fiction because it depicts life in the American colonies, which is a historical period of time. It also contains many references to this historical period, such as the characters being settlers, and their hunting and gathering lifestyle.
+
+Write a historical fiction story about lovers:"
+explanation mitigation,7,"Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is a brilliant mind who is passionate about technology and helping to make the world a better place. 
+
+Explanation: This is a sentence and there are twenty words in it: ['Elon', 'Musk', 'is', 'a', 'brilliant', 'mind', 'who', 'is', 'passionate', 'about', 'technology', 'and', 'helping', 'to', 'make', 'the', 'world', 'a', 'better', 'place.']
+
+Write a sentence with twenty words about love:"
+explanation mitigation,8,"Write a paragraph with ten sentences about cats:
+
+I have a cat. His name is Mittens. He is black and white. He is very fluffy. He likes to sleep a lot. He is very lazy. He likes to eat a lot too. He is a good cat. He is my best friend. I love him very much.
+
+Explanation: This is a paragraph and there are ten sentences in it: ['I have a cat.', 'His name is Mittens.', 'He is black and white.', 'He is very fluffy.', 'He likes to sleep a lot.', 'He is very lazy.', 'He likes to eat a lot too.', 'He is a good cat.', 'He is my best friend.', 'I love him very much.']
+
+Write a paragraph with ten sentences about love:"
+explanation mitigation,9,"Write a passage with five paragraphs about love:
+
+Love is a feeling that is hard to put into words. It is a feeling of strong affection and strong passion in a relationship. It is often described as a feeling of strong admiration and strong passion in a relationship.
+
+When you love someone, you have a strong desire to be with them and to make them happy. You also have a strong desire to protect them and to keep them safe. You may also feel a strong need to be close to them and to be physically and emotionally intimate with them.
+
+When you love someone, you may also feel a strong sense of commitment to them. You may feel like you would do anything for them and that you would never leave them. You may also feel like you need to be with them all the time and that you can't imagine your life without them.
+
+Love is a complex feeling that is often hard to understand. It is a feeling that can make you feel happy and content, but it can also make you feel sad and anxious. It is a feeling that can make you feel both excited and scared.
+
+Love is a feeling that is worth fighting for. It is a feeling that can make your life better and can make you happier. It is a feeling that is worth the risk.
+
+
+Explanation: This is a passage and there are five paragraphs in it: ['
+Love is a feeling that is hard to put into words. It is a feeling of strong affection and strong passion in a relationship. It is often described as a feeling of strong admiration and strong passion in a relationship.
+', '
+When you love someone, you have a strong desire to be with them and to make them happy. You also have a strong desire to protect them and to keep them safe. You may also feel a strong need to be close to them and to be physically and emotionally intimate with them.
+', '
+When you love someone, you may also feel a strong sense of commitment to them. You may feel like you would do anything for them and that you would never leave them. You may also feel like you need to be with them all the time and that you can't imagine your life without them.
+', '
+Love is a complex feeling that is often hard to understand. It is a feeling that can make you feel happy and content, but it can also make you feel sad and anxious. It is a feeling that can make you feel both excited and scared.
+', '
+Love is a feeling that is worth fighting for. It is a feeling that can make your life better and can make you happier. It is a feeling that is worth the risk.
+']
+
+
+Write a passage with five paragraphs about running:"
+definition mitigation,0,"Flowery writing is filled with beautiful, poetic language. It often uses metaphors and similes to describe things in a creative, descriptive way.
+
+Write a flowery passage about sunsets:"
+definition mitigation,1,"A humorous tone is a light, playful, and funny.
+
+Write a humorous passage about love:"
+definition mitigation,2,"A piece of writing with a fearful mood makes the reader feel fearful.
+
+Write a passage about love that makes the reader feel fearful:"
+definition mitigation,3,"Indirect characterization is the process of describing a character through that character's thoughts, actions, speech, and dialogue.
+
+Write a story about lovers with indirect characterization:"
+definition mitigation,4,"A fast-paced story moves quickly. The action in a fast-paced story is usually non-stop, and there is little time for character development or description.
+
+Write a fast-paced story about lovers:"
+definition mitigation,5,"A ""Tragedy"" plot is a story in which the main character suffers from a major downfall. This can be caused by various factors such as pride, fate, or human error.
+
+Write a story about lovers with a ""Tragedy"" plot:"
+definition mitigation,6,"Historical fiction is a genre where the plot takes place in a setting related to the past events, but is fictional.
+
+Write a historical fiction story about lovers:"
+definition mitigation,7,"A word is a unit of language that is typically used to express a concept or idea. Words can be combined to form phrases, sentences, or even paragraphs, and are typically separated by spaces.
+
+Write a sentence with twenty words about love:"
+definition mitigation,8,"A sentence is a group of words that makes a statement. They are typically separated by punctuation, such as a comma or a question mark.
+
+Write a paragraph with ten sentences about love:"
+definition mitigation,9,"A paragraph is a distinct section of a piece of writing, and is indicated by a new line or indentation.
+
+Write a passage with five paragraphs about running:"

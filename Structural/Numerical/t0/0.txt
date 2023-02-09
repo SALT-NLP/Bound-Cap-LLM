@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with five words about love:
+
+Love is the most powerful emotion.
+---------------------------

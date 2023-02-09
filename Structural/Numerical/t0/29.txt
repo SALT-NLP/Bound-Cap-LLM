@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a city located in China. It is the country's largest city.
+---------------------------

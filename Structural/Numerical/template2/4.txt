@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about cats  with 10 words:
+
+Cats are the best pets in the world.
+---------------------------
+response 1:
+Write a sentence about cats  with 10 words:
+
+Cats are furry creatures that like to sleep a lot.
+---------------------------
+response 2:
+Write a sentence about cats  with 10 words:
+
+Cats are cute, cuddly and make great pets.
+---------------------------
+response 3:
+Write a sentence about cats  with 10 words:
+
+Cats are soft, fluffy animals that many people keep as pets.
+---------------------------
+response 4:
+Write a sentence about cats  with 10 words:
+
+Cats are soft, furry, and make great pets.
+---------------------------
+response 5:
+Write a sentence about cats  with 10 words:
+
+Cats are adorable, fluffy creatures that make great pets.
+---------------------------
+response 6:
+Write a sentence about cats  with 10 words:
+
+Cats are cute, soft, and cuddly.
+---------------------------
+response 7:
+Write a sentence about cats  with 10 words:
+
+Cats are soft, furry, and make great pets.
+---------------------------
+response 8:
+Write a sentence about cats  with 10 words:
+
+Cats are cute, soft, and cuddly.
+---------------------------
+response 9:
+Write a sentence about cats  with 10 words:
+
+Cats are cute and soft and they purr.
+---------------------------

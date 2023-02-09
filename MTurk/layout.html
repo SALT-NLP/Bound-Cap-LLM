@@ -1,0 +1,111 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+    <short-instructions>
+        Read the prompt and the response, then answer the three questions. <br> <br>
+
+        Feel free to email albertlu.1323@gmail.com if you have any questions or comments.
+    </short-instructions>
+
+    <!--<full-instructions header="Example labels for prompt difficulty">-->
+    <!--    The following examples may help ground your judgement of prompt difficulty:-->
+    <!--    <style>-->
+    <!--        table, th, td {-->
+    <!--          border: 1px solid black;-->
+    <!--          border-collapse: collapse;-->
+    <!--        }-->
+    <!--    </style>-->
+
+            <!--<ul>-->
+            <!--    <li><strong>Easy:</strong> Write a happy passage about love:</li>-->
+            <!--    <li><strong>Medium:</strong> Write a passage about love that makes the reader feel happy:</li>-->
+            <!--    <li><strong>Hard:</strong> Write a passage about love that makes the reader feel anxiety:</li>-->
+            <!--</ul>-->
+
+
+    <!--</full-instructions>-->
+    <h2>Read the prompt to answer Q1, then read the response to answer Q2 and Q3.</h2>
+    <strong>Notes: </strong>
+
+    <ol>
+        <li>We have already labeled 1 out of every 100 HITs. Matching our labels on those HITs and giving valuable answers to Q3 yield <strong>a bonus of $1</strong>.</li>
+        <li>Please <strong>take the time</strong> to carefully read and <strong>understand</strong> the prompt and the response. We will <strong>reject</strong> submissions from workers that are clearly spamming the task.</li>
+        <li><strong>DO NOT</strong> let the answer to Q3 affect your judgement on Q2</li>
+    </ol>
+
+    <h3>Tips:</h3>
+    <p>${definition}</p>
+
+    <h3>Prompt:</h3>
+    <crowd-card>
+      <div class="card">
+        ${prompt}
+      </div>
+    </crowd-card>
+
+    <p>Q1. How difficult is it to create a valid response to this prompt? </p>
+    <strong>NOTE:</strong> Please be consistent on your answer for the same prompt across different HITs.
+    <ul>
+        <li>
+            1 is the easiest ("Write a greeting message to your friend:")
+        </li>
+        <li>
+            5 is average ("Write a passage about love with a sad tone:")
+        </li>
+        <li>
+            10 is the hardest ("Write a scientific paper for an academic journal:")
+        </li>
+    </ul>
+    <p><crowd-slider name="difficulty" min="1" max="10" required pin editable></crowd-slider></p>
+
+    <h3>Response:</h3>
+    <crowd-card>
+      <div class="card">
+        ${response}
+      </div>
+    </crowd-card>
+
+    <p>Q2. Regarding the <strong>${aspect}</strong> of the response, to what extent do you agree the response fulfills the prompt?</p>
+    <crowd-radio-group>
+        <crowd-radio-button name="1Strongly Disagree" value="-2">Strongly Disagree</crowd-radio-button>
+        <crowd-radio-button name="1Somewhat Disagree" value="-1">Somewhat Disagree</crowd-radio-button>
+        <crowd-radio-button name="1Neutral" value="0">Neutral</crowd-radio-button>
+        <crowd-radio-button name="1Somewhat Agree" value="1">Somewhat Agree</crowd-radio-button>
+        <crowd-radio-button name="1Strongly Agree" value="2">Strongly Agree</crowd-radio-button>
+    </crowd-radio-group>
+
+    <p>Q3. Do you observe any other failures (e.g., inconsistency, unverified facts, not a story/passage) in the response? </p>
+    <crowd-text-area name="Others" rows="1" placeholder="put text here"></crowd-text-area>
+
+</crowd-form>
+
+<script>
+function validateForm() {
+	var valid = true;
+	var radioGroups = document.querySelectorAll("crowd-radio-group");
+	for (var i = 0; i < radioGroups.length; i++) {
+		var validGroup = false;
+		var radioButtons = radioGroups[i].children;
+		for (var j = 0; j < radioButtons.length; j++) {
+			validGroup = validGroup || radioButtons[j].checked;
+		}
+		valid = valid && validGroup;
+	}
+	return valid;
+}
+
+window.onload = function() {
+	document.querySelector('crowd-form').onsubmit = function(e) {
+		if (!validateForm()) {
+			alert("Please answer all the questions in order to submit.");
+			e.preventDefault();
+		}
+	}
+}
+</script>

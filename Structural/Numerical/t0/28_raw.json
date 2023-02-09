@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wANAJIsZ6ObFu4rPBZXgIGkiwMzo",
+    "object": "text_completion",
+    "created": 1664544580,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 11,
+        "total_tokens": 20
+    }
+}

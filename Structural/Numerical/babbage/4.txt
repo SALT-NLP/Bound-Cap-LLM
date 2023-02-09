@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about cats:
+
+My cat is the best.
+---------------------------
+response 1:
+Write a sentence with ten words about cats:
+
+Cats are smart and playful creatures. They can be a challenge to housebreak, but with a little patience and love, they can become part of your family.
+---------------------------
+response 2:
+Write a sentence with ten words about cats:
+
+A cat is a mammals first and foremost. They have the most complex litter box of any common pet. Cats like to pee and scratch on things, but as with all mammals, they also have a sense of smell. Cats are social animals, forming colonies in their own way.
+---------------------------
+response 3:
+Write a sentence with ten words about cats:
+
+A cat is a small, furry creature that lives in or near a house. Cats are very curious and love to explore. They are also very independent and can fend for themselves.
+---------------------------
+response 4:
+Write a sentence with ten words about cats:
+
+A cat is a hyperactive, lazy creature that loves to play. They are gentle and playful but have sharp claws that can cut if they're not careful.
+---------------------------
+response 5:
+Write a sentence with ten words about cats:
+
+Cats are curious, independent, and playful animals. They love to play with their food, but can also be quite clever. Cats are good with children and other animals, and are very social.
+---------------------------
+response 6:
+Write a sentence with ten words about cats:
+
+Some cats like to sleep on the paws of others. Others like to sleep on the side of the bed. Some cats like to play with the dog's food. Some cats like to stay in the dark.
+---------------------------
+response 7:
+Write a sentence with ten words about cats:
+
+A cat is a curious creature with a mischievous streak. They are intelligent and playful, but also loyal and protective.
+---------------------------
+response 8:
+Write a sentence with ten words about cats:
+
+My cat is a beautiful cat.
+---------------------------
+response 9:
+Write a sentence with ten words about cats:
+
+Cats are playful and curious, but also intelligent and resourceful. They are singularly beautiful creatures, and can hold their own in any conversation.
+---------------------------

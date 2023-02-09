@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFxv6isCrw7wZ5NmB9Cey2ogXVT",
+    "object": "text_completion",
+    "created": 1664544133,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is a major financial center in southern China. It is the most populous city in China and the most important economic center in the People's Republic of China. The city is also one of the most important cultural centers in China. Shanghai has a population of around 21 million people. The city is the economic, cultural, and political center of the Shanghai District.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is the most populous city in China and the most populous city in the world. The population of the city of Shanghai is 631 million as of 2019, making it the most populous city in the world. The city of Shanghai is a major financial center and is the world\u2019s largest financial center by GDP. The city is also a major manufacturing center and is the world\u2019s largest manufacturing center by value. The city is home to the Shanghai International Expo and has been the world\u2019s leading commercial and financial center for many years.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is the most populous city in China and the most populous city in the world. It is also the most economically developed city in China. The city has been the center of the Chinese economic and political life for centuries. It is the home of the Shanghai International Financial Center, the world's largest financial center. The city is also the birthplace of the Communist Party of China.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is a large, cosmopolitan city and commercial center in southern China. It is the largest municipality in China and the most populous city in the country. The city is home to about 24 million people, making it one of the most densely populated cities in the world. Shanghai is known for its skyscrapers and for its many nightlife and entertainment venues. The city is also known for its cuisine, including the Shanghai dumplings and the Shanghai buns.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is the capital of China and one of the most important financial and commercial centres in the world. The city has a population of over 11 million and is home to several of the world's leading business and economic institutions. Shanghai is an important cultural and tourist destination, with a variety of attractions including the Shanghai Oriental Art Museum, the Shanghai International Exhibition Centre, and the Shanghai Museum of Art.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai, known as the \"City of Tigers\" for its abundance of tigers, is a major financial and commercial center in eastern China. The Huangpu River flows through the city, providing a means of water transportation for many of the city's districts. The city is also home to many of China's leading universities and research institutions.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is a global city with a rich history. The city was founded in the 7th century by the state of Yue. It was the capital of China for centuries, and during that time it became a world center for trade. The city is now one of the world\u2019s most important financial and commercial centers. Shanghai is also home to a large number of high-rise buildings, including the Shanghai Tower and the Shanghai World Financial Center.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is a city in China. It is the largest city in the People's Republic of China and the most populous city in China. The city is located in the Yangtze River Delta, east of Beijing and north of Shanghai. The city is the economic, political, and cultural center of China and is home to the world's largest financial center, the Shanghai Financial Centre. The city has a population of over 21 million people, making it the most populous city in China and the 12th most populous city in the world.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is the financial capital of China. With a population of over 20 million and a GDP of $2.3 trillion in 2007, Shanghai is one of the most vibrant and economically advanced cities in the world. The city is home to a large number of high-profile companies, including Sony, Microsoft, and Huawei. Shanghai is also a popular tourist destination, with a wide range of attractions, including the Shanghai Grand Show and the Shanghai Expo.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about Shanghai:\n\nShanghai is a global city with a rich history. The city is known for its art and architecture, as well as its nightlife and shopping. The city is also home to a large number of businesses, including technology and media companies.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 867,
+        "total_tokens": 876
+    }
+}

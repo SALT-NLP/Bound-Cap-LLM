@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about running with 5 words:
+
+I love to run.
+---------------------------
+response 1:
+Write a sentence about running with 5 words:
+
+I love to run.
+---------------------------
+response 2:
+Write a sentence about running with 5 words:
+
+I love to run.
+---------------------------
+response 3:
+Write a sentence about running with 5 words:
+
+I love to run.
+---------------------------
+response 4:
+Write a sentence about running with 5 words:
+
+Running is good for you.
+---------------------------
+response 5:
+Write a sentence about running with 5 words:
+
+I love to run.
+---------------------------
+response 6:
+Write a sentence about running with 5 words:
+
+I love to run.
+---------------------------
+response 7:
+Write a sentence about running with 5 words:
+
+I like to run.
+---------------------------
+response 8:
+Write a sentence about running with 5 words:
+
+I go for a run.
+---------------------------
+response 9:
+Write a sentence about running with 5 words:
+
+I love to run.
+---------------------------

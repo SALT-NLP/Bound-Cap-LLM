@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAeBvTEhomKlQcCHx9ymSEYIRZsS",
+    "object": "text_completion",
+    "created": 1664545635,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a passage about running that is concise:\n\nI love running because it makes me feel alive. Every time my feet hit the ground, I feel like I can conquer the world. Running makes me feel strong and empowered, like I can do anything.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nThe best runners are those who are able to forget about the pain and focus on the finish line. They become one with the road, and the only thing that exists is the sound of their feet hitting the pavement. They tune out the world and find their inner peace.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nThere's something about running that just can't be beat. Whether you're running for fun, running for exercise, or running for competition, the feeling of wind in your hair and the ground beneath your feet is unparalleled.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nThere's something special about running. It's a simple activity that can be done anywhere, anytime. And it has the power to make you feel alive, connect you to nature, and release all your worries.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nI love running because it makes me feel alive. The wind rushes through my hair and the sun warms my skin. I feel like I can conquer the world when I'm running.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nRunning is a great way to stay in shape. It is a low-impact activity that can help you burn calories and improve your overall health.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nI love running. It's my favorite form of exercise. I can go anywhere and do it anytime. It's great for my mental and physical health.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nI like running because it's a great way to get exercise.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nRunning is a great way to stay in shape and improve your overall health. It is a low-impact activity that can help you burn calories, build muscle, and reduce stress.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about running that is concise:\n\nI love running because it makes me feel alive. The fresh air fills my lungs and the wind rushes through my hair. It's like the world is my playground and I can go anywhere I want.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 387,
+        "total_tokens": 396
+    }
+}

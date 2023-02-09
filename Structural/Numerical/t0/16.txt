@@ -1,0 +1,5 @@
+response 0:
+Write a paragraph with twenty sentences about cats:
+
+I have a cat. His name is Simon and he's a tabby. He's a good cat. He's very lazy and he loves to sleep. He's also very playful and he loves to chase balls of yarn. He's a good hunter and he's caught a few mice. He's also caught a few birds. He's a good cat.
+---------------------------

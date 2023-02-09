@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5w7gsuyFeSKGU7WxnpIkxl53P79yZ",
+    "object": "text_completion",
+    "created": 1664534270,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run in the morning.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run early in the morning.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run in the morning.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI run to escape the pain.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run every morning.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run early in the morning.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to go running.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run in the morning.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to wake up and go running.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nI love to run every morning.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 98,
+        "total_tokens": 107
+    }
+}

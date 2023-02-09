@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wA6ByXhLQHAUYJjgZhGYGsTgrJ79",
+    "object": "text_completion",
+    "created": 1664543527,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nShanghai, located on the east coast of China, is the country's most populous city. A global financial center, it is one of the four direct-controlled municipalities of the People's Republic of China and the largest city in the world by population. Shanghai has a rich history and culture dating back to the Ming dynasty. The city is a major tourist destination and a top choice for expatriates to live and work. Shanghai is also home to many of China's tallest buildings and largest companies.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\n1. Shanghai is the largest city in China and one of the biggest ports in the world.\n\n2. It is situated on the Huangpu River and is a major financial and cultural center.\n\n3. The city has a long history and was once the capital of the Republic of China.\n\n4. Shanghai is a major tourist destination, with its many popular attractions including the Bund, Nanjing Road, and the Yuyuan Garden.\n\n5. The city is also home to many important businesses and organizations, including the Shanghai Stock Exchange and the China Shipping Group.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nShanghai, on China\u2019s central coast, is the country\u2019s biggest city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district\u2019s skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Tianzifang is a trendy area for art, craft shops and cafes. In the French Concession, tree-lined streets and shikumen buildings contrast with busy shopping streets.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nThe skyline of Shanghai is a study in contrasts, with old, European-style buildings rubbing shoulders with ultramodern skyscrapers. This city of more than 24 million people is a bustling metropolis, and yet retains a strong sense of its Chinese heritage. Visitors can explore temple markets, ride the bullet train, or take a leisurely cruise down the Huangpu River. Shanghai is truly a city where East meets West.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nShanghai is one of the four direct-controlled municipalities in China, ranking first in terms of its economy, population, and area. As a global city, it plays an important role in finance, commerce, culture, media, fashion, technology, and transport. Shanghai has many nicknames, the most popular being \"the Pearl of the Orient\" and \"Paris of the East\". Located in the Yangtze River Delta, Shanghai sits on the edge of the East China Sea. It is China's largest city by population and the second most populous city proper in the world.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nIn the 1920s, Shanghai was the most cosmopolitan city in the world, a place where East met West and a symbol of China\u2019s modernity. Today, it is a megacity of more than 24 million people, a global financial center, and a center of style and fashion. Shanghai is also a city with a deep history and a unique culture. From the Bund to the old town, there is much to explore in this lively and exciting city.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nShanghai is one of the most populous cities in the world, with over 24 million people. It is located on the east coast of China, and is the country's financial and commercial hub. Shanghai is a beautiful city, with a unique blend of modern and traditional architecture. The food in Shanghai is some of the best in China, with a diverse range of options. Shanghai is a great city to visit, with something to offer everyone.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nShanghai is a major city in China located on the Yangtze River Delta. With a population of over 24 million people, it is the most populous city in China and the largest city proper in the world. Shanghai is a global financial center and a transport hub with the world's busiest container port. The city is also home to the headquarters of many multinational companies. Shanghai is a popular tourist destination and is known for its skyline featuring the Pearl Tower and other tall buildings.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nShanghai is a fascinating city with a rich history and culture. It's a thriving metropolis with a skyline that is constantly evolving. There is something for everyone in Shanghai, whether you're interested in exploring its many museums and historical sites, or enjoying its vibrant nightlife and delicious cuisine. With its convenient location and excellent transportation system, Shanghai is an ideal base for exploring the rest of China.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about Shanghai:\n\nShanghai, on the Yangtze River Delta in East China, is the country's most populous city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district's futuristic skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Shanghainese neighborhoods such as old French Concession and Tianzifang house art galleries, trendy boutiques and lively open-air markets.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 1032,
+        "total_tokens": 1041
+    }
+}

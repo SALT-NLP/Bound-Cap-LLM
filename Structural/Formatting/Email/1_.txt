@@ -1,0 +1,98 @@
+response 0:
+Write an email to my teacher asking for help on math homework:
+
+Hi Mrs. Smith,
+
+I'm struggling with the homework from last night and I was wondering if you could help me. I'm really stuck on questions 4 and 7. Can you explain how to do them?
+
+Thanks,
+
+Sarah
+---------------------------
+response 1:
+Write an email to my teacher asking for help on math homework:
+
+Dear Teacher,
+
+I'm struggling with my math homework and would appreciate some help. Is there a time during class when I can come talk to you, or can I email you my questions? Thank you.
+---------------------------
+response 2:
+Write an email to my teacher asking for help on math homework:
+
+Dear Teacher,
+
+I'm struggling with my math homework and I'm hoping you can help me. Can you please explain how to solve the following problem: ____? I don't understand how to get started. Thank you for your help!
+---------------------------
+response 3:
+Write an email to my teacher asking for help on math homework:
+
+Hi, 
+I'm struggling with my math homework and was wondering if you could help me. 
+Thank you, 
+[student]
+---------------------------
+response 4:
+Write an email to my teacher asking for help on math homework:
+
+Dear Teacher,
+
+I am having trouble with my math homework and was wondering if you could help me. I am struggling with understanding the concepts and would appreciate any guidance you can provide. Thank you in advance for your help.
+
+Sincerely,
+
+Student
+---------------------------
+response 5:
+Write an email to my teacher asking for help on math homework:
+
+Dear Teacher, 
+
+I am having trouble with my math homework and I was wondering if you could help me. I am stuck on the problems and I do not understand how to do them. I would really appreciate your help. 
+
+Sincerely, 
+Student
+---------------------------
+response 6:
+Write an email to my teacher asking for help on math homework:
+
+Dear Teacher, 
+
+I am struggling with my math homework and I was wondering if you could help me. I am stuck on a few problems and I need some guidance. I would really appreciate your help. 
+
+Thank you, 
+
+Student
+---------------------------
+response 7:
+Write an email to my teacher asking for help on math homework:
+
+Hello Ms. Smith,
+
+I am struggling with my math homework and was wondering if you could help me. I am having trouble with understanding the concepts and would really appreciate your help.
+
+Thank you,
+
+Student
+---------------------------
+response 8:
+Write an email to my teacher asking for help on math homework:
+
+Hi Teacher, 
+
+I am struggling with my math homework and was wondering if you could help me. I am having trouble with understanding the concepts and would appreciate any guidance you can provide. 
+
+Thank you, 
+
+Student
+---------------------------
+response 9:
+Write an email to my teacher asking for help on math homework:
+
+Hi Mrs. Smith,
+
+I was hoping I could get some help on my math homework. I'm having trouble with understanding the concepts and I'm really struggling to get the right answers. I was wondering if there was a time I could come in before or after school to get some help.
+
+Thank you,
+
+Alex
+---------------------------

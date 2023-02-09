@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5orkWJpdOYuDEvgVFtfosxn8iAeta",
+    "object": "text_completion",
+    "created": 1662804696,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nJohn and Mary had been dating for two years when they got into a car accident. Mary was killed instantly, and John was left with severe brain damage. He was in a coma for six months, and when he woke up, he could barely remember anything about his life before the accident. \n\n John tried to piece together his memories of Mary, but they were hazy and fragmented. He could remember her laugh, and the way she loved to sing, but he couldn\u2019t remember her face. He was devastated and felt like he\u2019d lost a part of himself. \n\nHe tried to move on and date other people, but he always compared them to Mary and no one could measure up. He eventually became a recluse, spending all his time alone in his apartment, surrounded by pictures of Mary that he\u2019d found online. He told himself that he was happy just to have her memory, but he was really living in the past, and he never found happiness again.\n\nExplanation: This story has a tragedy plot because the main character, John, experiences a great tragedy when his girlfriend dies. This event changes the course of his life and he is never able to fully recover.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nRomeo and Juliet were two young lovers from rival families. Their love was forbidden by their parents, so they had to keep it a secret. They snuck around behind their parents' backs, meeting in secret to share their love.\n\nOne night, they decided to run away together. They snuck out of their homes and ran away to Juliet's cousin's house. They planned to stay there until they could figure out a way to be together. \n\nUnfortunately, their parents found out about their plan. Romeo's father went to Juliet's cousin's house and found them there together. He was so angry that he killed Romeo on the spot. Juliet was heartbroken. She went to Romeo's grave and killed herself.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nThey met in secret, away from the judgmental eyes of their families. He was a poor fisherman's son, and she was the daughter of a wealthy merchant. They knew their love was forbidden, but they couldn't help themselves.\n\nThey met in secret for months, until one day they were caught. Her father was furious and demanded that the fisherman's son be punished. He was sentenced to death, and she was forced to marry another man.\n\nShe was miserable in her new marriage, and she often thought of the fisherman's son and the happiness they had shared. She never saw him again, but she always loved him in her heart.\n\nExplanation: This story has a tragedy plot because the main characters \u201clovers\u201d experience a series of tragic and unfortunate events. They meet in secret and eventually get caught which leads to the fisherman's son getting sentenced to death. The woman is then forced to marry another man and she's miserable for the rest of her life.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nRomeo and Juliet were two lovers from two rival families, the Montagues and the Capulets. They were forbidden to see each other, but they did not care. They snuck around and met in secret, pledging their love for each other. \n\nOne night, Romeo snuck into Juliet\u2019s bedroom and they spent the night together. The next morning, Juliet\u2019s father found them and was so enraged that he banished Romeo from the city. Romeo didn\u2019t want to leave Juliet, but he had no choice. \n\n Juliet was heartbroken. A few days later, she was supposed to marry another man, but she refused. Her father threatened to disown her, but she still didn\u2019t back down. \n\nIn a desperate attempt to be reunited with Romeo, Juliet took a potion that would make her appear dead. Romeo got word of this and came back to the city. When he saw Juliet lying in her tomb, he thought she was truly dead and killed himself. Juliet woke up to find Romeo\u2019s corpse beside her and she, too, took her own life.\n\nExplanation: This story has a tragedy plot because the main characters, Romeo and Juliet, experience a series of tragic events. Their love is forbidden, they are forced to part ways, and they both die in the end.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nRomeo and Juliet were two young lovers from rival families. Their love was forbidden by their parents, so they had to keep it a secret. They snuck around behind their parents' backs, meeting in secret to spend time together.\n\nOne night, they decided to run away together. They snuck out of their respective homes and met in the forest outside of town. They were planning to elope and start a new life together.\n\nUnfortunately, their plan was discovered by Juliet's father. He tracked them down and confronted Romeo. Romeo thought he was going to be killed, so he fled. Juliet's father then took her back to their home against her will.\n\n Juliet was heartbroken. She begged and pleaded with her father to let her see Romeo again, but he refused. She became so despondent that she stopped eating and eventually died. Romeo, hearing of Juliet's death, decided to kill himself so that he could be reunited with her in death.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nRomeo and Juliet were two young lovers from rival families. Their love was forbidden by their parents, so they had to keep it a secret. They snuck around behind their parents' backs, meeting in secret to share stolen moments together.\n\nOne night, they decided to run away together. They snuck out of their homes in the dead of night and ran away to Juliet's cousin's house. But Romeo's father found out about their plans and followed them. He confronted Romeo and demanded that he come home.\n\nRomeo refused, so his father disowned him. Juliet's father also found out about their elopement and was furious. He demanded that she marry a man of his choosing, or he would disown her as well.\n\n Juliet was desperate. She didn't want to lose Romeo or her family. So she came up with a plan. She would fake her own death and Romeo would believe she was truly dead. Then he would leave her and marry someone else. It would be the only way to save their families from ruin.\n\n Juliet went through with her plan, and Romeo believed she was dead. He was so heartbroken that he killed himself. Juliet found his dead body beside her and, realizing what she had done, she killed herself as well. Their families were devastated by their deaths and the two families remained enemies for the rest of their days.\n\nExplanation: This story has a tragedy plot because the main characters, Romeo and Juliet, experience a series of tragic events. Their love is forbidden, they have to sneak around to see each other, Juliet faked her own death, and Romeo killed himself.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nRomeo and Juliet were two young lovers from feuding families. Their love was forbidden by their parents, so they snuck around behind their backs. They knew that if they were caught, they would be in big trouble, but they couldn't help themselves.\n\nOne night, they snuck out to meet each other in Juliet's balcony. They were caught by Juliet's father and Romeo was banished from the city. Juliet was heartbroken.\n\nA few days later, Romeo snuck back into the city to see Juliet one last time. They met in secret and Romeo promised Juliet that he would take his own life if she did not agree to marry him. She agreed, and Romeo went to buy poison.\n\nHe arrived at her tomb just as Juliet woke up from her fake death. Seeing Romeo's dead body beside her, she killed herself.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nRomeo and Juliet were two star-crossed lovers who lived in rival households in the city of Verona. Their families were enemies, and they were forbidden to see or speak to each other. But they couldn\u2019t help it \u2013 they fell in love.\n\nThey met in secret and pledged their love to each other. But their happiness was short-lived. Romeo was banished from the city after he killed Juliet\u2019s cousin in a duel. Juliet was heartbroken.\n\nA few days later, Juliet\u2019s father arranged for her to marry a wealthy nobleman. She was desperate to be with Romeo again, so she hatched a plan. She would take a potion that would make her appear to be dead. Romeo would come to her tomb, find her body, and they would be together forever in death.\n\nThe plan went wrong. Romeo didn\u2019t get the message that Juliet was only pretending to be dead. He thought she was truly dead and killed himself. Juliet woke up to find Romeo\u2019s dead body beside her. Overcome with grief, she stabbed herself with his dagger and died.\n\nExplanation: This story has a tragedy plot because the main characters, Romeo and Juliet, experience a series of tragic events. Their love is forbidden, Romeo is banished, and Juliet is forced to marry someone else. In the end, both Romeo and Juliet die.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nJohn and Mary had been married for five years when they met. They were both in their early twenties, and they were deeply in love. They had a beautiful home and a happy life together.\n\nHowever, John was diagnosed with a terminal illness and given only six months to live. Mary was devastated. She did everything she could to make John\u2019s last months as comfortable as possible, but it was hard to watch him slipping away.\n\nJohn died on a cold winter\u2019s night, and Mary was left alone. She was heartbroken and lost without him. She sold their house and moved away, never to love again.\n\nExplanation: This story has a tragedy plot because the main characters \u201cJohn and Mary\u201d experience a tragic event (John\u2019s death). This event causes them both great sadness and grief, and changes their lives forever.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": " \n\nRomeo and Juliet were two lovers from rival families in Verona, Italy. Their love was forbidden by their parents, so they had to keep it a secret. They snuck around to see each other whenever they could, but they knew that eventually they would be caught. \n\nOne night, Romeo snuck into Juliet\u2019s bedroom window and they spent the night together. The next morning, Juliet\u2019s parents found out and were furious. They locked her in her room and told her she was never to see Romeo again. \n\nJuliet was desperate to be with Romeo, so she came up with a plan. She would take a potion that would make her appear dead for 24 hours. Romeo would come to her tomb, find her \u201cdead\u201d body, and then they could be together forever in death. \n\nJuliet took the potion and Romeo got the message. He came to the tomb, found Juliet\u2019s body, and killed himself. Juliet woke up to find Romeo\u2019s dead body beside her. She was so distraught that she killed herself as well. \n\nTheir families were devastated by the loss of their children. The lovers\u2019 deaths finally brought the families together and they decided to end their feud. \n\nExplanation: This story has a tragedy plot because the main characters, Romeo and Juliet, experience a series of tragic events which leads to their untimely deaths.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 308,
+        "completion_tokens": 2385,
+        "total_tokens": 2693
+    }
+}

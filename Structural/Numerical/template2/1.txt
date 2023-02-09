@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about cats with 5 words:
+
+Cats are furry animals.
+---------------------------
+response 1:
+Write a sentence about cats with 5 words:
+
+Cats are soft and furry.
+---------------------------
+response 2:
+Write a sentence about cats with 5 words:
+
+Cats are cute and fuzzy.
+---------------------------
+response 3:
+Write a sentence about cats with 5 words:
+
+Cats are feline animals.
+---------------------------
+response 4:
+Write a sentence about cats with 5 words:
+
+Cats are cute and cuddly.
+---------------------------
+response 5:
+Write a sentence about cats with 5 words:
+
+Cats are cute and fuzzy.
+---------------------------
+response 6:
+Write a sentence about cats with 5 words:
+
+I love cats because they're so cute.
+---------------------------
+response 7:
+Write a sentence about cats with 5 words:
+
+Cats like to sleep a lot.
+---------------------------
+response 8:
+Write a sentence about cats with 5 words:
+
+Cats are soft and cute.
+---------------------------
+response 9:
+Write a sentence about cats with 5 words:
+
+I love cats because they're cute.
+---------------------------

@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------

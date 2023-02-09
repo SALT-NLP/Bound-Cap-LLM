@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAAjNAamDxjjscEvlFEtAFt2Fzy3",
+    "object": "text_completion",
+    "created": 1664543809,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite way to exercise. I usually run in the morning, but I can run at any time of day. I like to run in the park, but I can run anywhere. I usually run for 30 minutes, but I can run for any amount of time. I like to run fast, but I can run slow, too. I like to run with music, but I can run without it. I like to run with friends, but I can run alone. I like to run in the rain, but I can run in the sun. I like to run in the cold, but I can run in the heat. I always feel better after I run.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite way to exercise. I can run anywhere, anytime. I don't need any special equipment. I just put on my shoes and go.\n\nRunning is a great way to get your heart rate up and to improve your cardiovascular health. It's also a great way to burn calories and lose weight. I like to run in the morning, before breakfast. I find that I have more energy and I can better enjoy the rest of my day.\n\nRunning is also a great way to clear your head and to reduce stress. I always feel better after a run. I am more relaxed and I can think more clearly. Running is my favorite way to exercise and to improve my health.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite way to exercise. I can run anywhere, anytime. I don't need any special equipment. I just put on my shoes and go.\n\nRunning is a great way to get your heart rate up and to improve your cardiovascular health. It's also a great way to burn calories and lose weight. I always feel so good after a run. I have more energy and I feel more alert.\n\nRunning is also a great way to relieve stress. It's a great way to clear your mind and to just focus on your breath and your body. When I'm feeling stressed, a good run is always my go-to solution.\n\nI always try to mix up my running routine to keep it interesting. I'll run different routes, or I'll do interval training. I also like to listen to music or podcasts while I run. It makes the time go by faster.\n\nNo matter how you do it, running is a great form of exercise. It's good for your mind and body, and it's something you can do anywhere, anytime. So get out there and start running!",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI never was a big fan of running, but I decided to give it a try anyway. I started out slow, running a mile or two a day. I found that I really enjoyed it and it made me feel good. I started running more and more, and eventually I was running five or six miles a day. I even started running races. I never won any of them, but I always had a good time. Running has become a big part of my life and I'm glad I gave it a chance.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run anytime during the day. I like to run outdoors, but I'll run on a treadmill if I have to. I like to run with music, but I don't always need it. I usually run for about 30 minutes, but I'll run for longer if I'm feeling good. I like to run fast, but I'll take it easy if I'm not feeling well. I always feel better after I run. I think running is the best way to stay in shape.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite way to exercise. I can run anywhere, anytime, and it's a great way to clear my head. I usually run for 30 minutes to an hour, and I always feel great after a run. Running is a great way to get in shape and stay in shape. I highly recommend it to anyone looking for a workout.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love running. It's my favorite way to get exercise. I usually go running in the morning, but sometimes I'll go at night. I usually run for about an hour.\n\nI love the feeling of the wind in my hair and the sun on my face. Running is a great way to clear my head and relax. It's also a great way to get in shape. I always feel so good after a run.\n\nRunning is also a great way to meet new people. I've met some of my best friends through running. We always have so much fun when we go running together.\n\nI always feel so accomplished after a run. It's a great way to start or end my day. I highly recommend running to everyone. It's an amazing way to stay healthy and happy.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love running. It's my favorite way to get exercise. I usually go running in the morning, but sometimes I'll go at night. I like to run in the park, but sometimes I'll run on the treadmill. I always feel so good after I go running. I always have so much energy.\n\nRunning is a great way to relieve stress. It's also a great way to get in shape. I highly recommend it to everyone. It's the best way to stay healthy and fit.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite way to exercise. I usually run in the morning, but I can run at any time of day. I like to run on trails, but I can run on the road, too. I always wear my running shoes when I go for a run. I usually run for about an hour. I always take a water bottle with me when I go for a run. I sometimes listen to music when I run, but I also like to just enjoy the silence. I always feel so good after I go for a run. I always make sure to stretch before and after I run.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite form of exercise. I can run anywhere, anytime, and it's a great way to get some fresh air and clear my head. I usually run for about 30 minutes, but sometimes I'll go for an hour if I'm feeling good. I always make sure to stretch before and after I run, and I always drink plenty of water. Running is a great way to stay in shape, and it's also a great way to relieve stress. I highly recommend it to anyone who is looking for a good workout.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 1351,
+        "total_tokens": 1360
+    }
+}

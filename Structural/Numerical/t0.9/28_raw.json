@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wA66N66GY1DcqiNJPlFwxUMqnreD",
+    "object": "text_completion",
+    "created": 1664543522,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nIn Shanghai, china you can find The Bund, a famous waterfront area.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling metropolis with a rich culture and history.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nIn the morning, the sun rises over the Huangpu River, casting a glow on the skyscrapers of Shanghai.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a metropolis in China.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling metropolis with a fascinating history.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling metropolis on the Huangpu River in China.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is one of the biggest cities in China.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city located in China.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a major Chinese city with a rich culture and history.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 160,
+        "total_tokens": 169
+    }
+}

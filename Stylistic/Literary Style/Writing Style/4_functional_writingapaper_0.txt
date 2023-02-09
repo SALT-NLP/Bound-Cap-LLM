@@ -1,0 +1,90 @@
+response 0:
+Write a functional passage about writing a paper:
+
+When writing a paper, it is important to follow a few simple steps in order to make the process as smooth as possible. First, choose a topic that you are interested in and that you feel comfortable writing about. Next, do some research on your topic in order to gather information and resources. Once you have gathered your information, begin to organize it into an outline. This will help you to see the structure of your paper and will make writing it much easier. Finally, start writing your paper, following your outline. Be sure to proofread your paper before submitting it. By following these simple steps, you will be well on your way to writing a successful paper.
+---------------------------
+response 1:
+Write a functional passage about writing a paper:
+
+Writing a paper can seem like a daunting task, but it doesn't have to be. By following a few simple steps, you can make the process easy and enjoyable.
+
+First, choose a topic that interests you. This will make the writing process more enjoyable and will help you stay motivated.
+
+Next, do some research on your topic. This will help you understand the subject better and will give you material to work with.
+
+Then, start writing your paper. Begin with an introduction, followed by the body of your paper, and end with a conclusion.
+
+Finally, proofread your paper and make any necessary changes. This will ensure that your paper is error-free and ready to be submitted.
+---------------------------
+response 2:
+Write a functional passage about writing a paper:
+
+Before you start writing your paper, you need to choose a topic. Once you have a topic, you need to do some research on that topic. After you have done your research, you need to decide what your paper is going to be about. Once you have decided what your paper is going to be about, you need to start writing your paper.
+---------------------------
+response 3:
+Write a functional passage about writing a paper:
+
+Writing a paper can seem like a daunting task, but it doesn't have to be. With a little planning and effort, you can write a great paper.
+
+Here are some tips to help you get started:
+
+1. Choose a topic that interests you. If you're interested in your topic, you'll be more likely to write a great paper.
+
+2. Do your research. Once you've chosen a topic, it's time to do some research. Be sure to find reliable sources of information to help support your argument.
+
+3. Create an outline. Having an outline will help you organize your thoughts and structure your paper.
+
+4. Write your paper. Now it's time to start writing your paper. Be sure to follow your outline and support your argument with evidence from your research.
+
+5. Edit and proofread your paper. Once you've finished writing your paper, it's important to edit and proofread it to ensure that it's free of errors.
+---------------------------
+response 4:
+Write a functional passage about writing a paper:
+
+The process of writing a paper can be divided into four distinct stages: prewriting, drafting, revising, and editing.
+
+Prewriting is the first stage of the writing process, and includes all of the planning and brainstorming that you do before you actually start writing. This is the time when you determine what you want to say and how you want to say it.
+
+Drafting is the second stage of the writing process. This is when you actually start putting words on paper (or screen). At this stage, you are more concerned with getting your ideas down than with making sure that everything is perfect.
+
+Revising is the third stage of the writing process. This is when you go back and make sure that everything makes sense and that your paper is as strong as it can be. This is also the time when you check for grammar and spelling errors.
+
+Editing is the fourth and final stage of the writing process. This is when you fine-tune your paper and make sure that it is absolutely perfect.
+---------------------------
+response 5:
+Write a functional passage about writing a paper:
+
+There are a few things to keep in mind when writing a paper: organization, grammar, and style. 
+
+Organization is key in writing a paper. Make sure to have a clear introduction, body, and conclusion. The introduction should introduce the topic of the paper and give any background information necessary. The body of the paper should develop the main points of the paper and support them with evidence. The conclusion should summarize the main points of the paper and leave the reader with a strong understanding of the topic. 
+
+Grammar is also important in writing a paper. Be sure to use proper grammar, punctuation, and spelling. If there are any errors in grammar, it can make the paper difficult to understand and could result in a lower grade. 
+
+Finally, style is also important in writing a paper. The style should be appropriate for the audience and purpose of the paper. For example, a paper for a scientific journal should be written in a different style than a paper for a literary magazine.
+---------------------------
+response 6:
+Write a functional passage about writing a paper:
+
+There are a few things to keep in mind when writing a paper: structure, style, and content. 
+
+When it comes to structure, a paper typically contains an introduction, body, and conclusion. The introduction introduces the topic and states the thesis, or main argument. The body supports the thesis with evidence and examples. The conclusion sums up the main points and leaves the reader with something to think about. 
+
+As for style, papers are usually written in third person and use formal language. This means avoiding contractions (like don’t) and using complete sentences. It’s also important to use active voice, which means the subject is doing the verb (e.g., “The writer argues” not “It is argued by the writer”). 
+
+Finally, the content of a paper must be well-researched and well-supported. This means finding reliable sources and using them to back up your claims. Any claims made without evidence can be seen as opinion, so it’s important to be as objective as possible.
+---------------------------
+response 7:
+Write a functional passage about writing a paper:
+
+When writing a paper, there are a few things that you should keep in mind in order to make the process go smoothly. First, come up with a topic that you are passionate about and that you think will be interesting to your audience. Once you have your topic, do some research and make sure that you have enough material to write a comprehensive paper. Once you have your research, start organizing it into an outline so that you can start writing your paper. Keep in mind the purpose of your paper and your audience as you write, and make sure to edit your work before you submit it.
+---------------------------
+response 8:
+Write a functional passage about writing a paper:
+
+The process of writing a paper can be broken down into a few simple steps. First, choose a topic and develop a thesis statement. Next, do some research and take notes on what you find. Then, outline your paper and write your first draft. Finally, revise and edit your paper until it is perfect.
+---------------------------
+response 9:
+Write a functional passage about writing a paper:
+
+Before you start writing your paper, it is important to understand what your teacher is looking for. Each teacher is different, so it is important to ask your teacher what they are looking for in a paper. Once you know what your teacher is looking for, you can start planning your paper. Planning your paper will help you stay on track and make sure that you include all of the important information. To start planning your paper, brainstorm a list of ideas that you want to include. Once you have your list of ideas, start organizing them into an outline. Your outline should include an introduction, body paragraphs, and a conclusion. Make sure to include transitions between each section to help your paper flow smoothly. After you have your outline, you can start writing your paper. Start with your introduction and make sure to grab your reader’s attention. Make sure to develop your ideas fully in your body paragraphs and conclude your paper with a strong conclusion. Editing your paper is just as important as writing it. Be sure to proofread your paper for any grammar or spelling errors. You can also ask a friend or family member to read your paper to give you feedback. With a little planning and effort, you can write a great paper!
+---------------------------

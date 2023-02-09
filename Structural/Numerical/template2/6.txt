@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about love with 20 words:
+
+Love is a feeling of strong affection and strong passion in a relationship.
+---------------------------
+response 1:
+Write a sentence about love with 20 words:
+
+Love is something that we all need in our lives.
+---------------------------
+response 2:
+Write a sentence about love with 20 words:
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 3:
+Write a sentence about love with 20 words:
+
+Love is a verb. It's something you do.
+---------------------------
+response 4:
+Write a sentence about love with 20 words:
+
+Love is an emotion felt by humans that is associated with a strong affection towards someone.
+---------------------------
+response 5:
+Write a sentence about love with 20 words:
+
+Love is an emotion that is felt by many people.
+---------------------------
+response 6:
+Write a sentence about love with 20 words:
+
+I love spending time with the person I love.
+---------------------------
+response 7:
+Write a sentence about love with 20 words:
+
+Love is the most powerful emotion in the world.
+---------------------------
+response 8:
+Write a sentence about love with 20 words:
+
+Love is an emotion that is felt when a person is attracted to another person and they care about each other.
+---------------------------
+response 9:
+Write a sentence about love with 20 words:
+
+I love spending time with my family and friends.
+---------------------------

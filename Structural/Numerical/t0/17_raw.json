@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wAMlKzw98fIqimyMBhipHBXmzD32",
+    "object": "text_completion",
+    "created": 1664544555,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a paragraph with twenty sentences about running:\n\nI love running. It's my favorite way to exercise. I usually go for a run in the morning, but I'll run anytime of day. I like to run outdoors, but I'll run on a treadmill if I have to. I like to listen to music when I run, but I also like to just focus on my breath and the rhythm of my feet hitting the ground. Running is a great way to clear my head and just relax. It's also a great way to get some exercise. I always feel so good after a run.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 113,
+        "total_tokens": 122
+    }
+}

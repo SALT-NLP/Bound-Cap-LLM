@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJz27lPe5oLExQwdOfHGeIK8prR",
+    "object": "text_completion",
+    "created": 1664544383,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is a large city that is located in China. It is the largest city in China and the most populous city in the world. Shanghai has a population of more than 20 million people. The city is located on the eastern coast of China and is known for its beautiful architecture and lively nightlife. The city is home to a number of popular tourist attractions, including the Bund, the Oriental Pearl Tower, and the Shanghai Museum. Shanghai is a bustling city and is always busy with people and traffic.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is a bustling metropolis on the eastern coast of China. The city is known for its distinctive architecture, including the Bund and the Wuhan Road. Shanghai is also home to many popular tourist destinations, such as the Oriental Pearl Tower, the Shanghai World Financial Centre, and the Nanjing Road Crossing. The city is home to a large population of expatriates, and its economy is dominated by service industries.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is a city of more than 20 million people and is one of the most dynamic and cosmopolitan cities in the world. It is a major financial center and is the country's most populous city. The city is also known for its beautiful architecture and its numerous parks and gardens. Shanghai is home to a large number of multinational companies, and the city is a major tourist destination.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is one of the most diverse and cosmopolitan cities in the world. It is a bustling metropolis with a long history and a rich cultural heritage. The city is home to some of China's most renowned universities, as well as numerous other cultural and commercial institutions. It is also an important financial and commercial center, and its economy is rapidly expanding. Shanghai is home to a large number of migrants from all over China and the world, and the city is a melting pot of cultures and religions.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is a bustling city that never sleeps. It's known for its neon lights and bustling streets, and it has something for everyone. There are plenty of tourist attractions, such as the Oriental Pearl Tower and the Bund, but there's also plenty of culture to be found in the city. The locals are friendly and welcoming, and the food is some of the best in China. Shanghai is a great place to visit for a short trip or a longer stay.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is the most populous city in China and one of the largest and most important cities in the world. With a population of over 20 million people, it is the political, economic, and cultural center of China. Shanghai has been a major center of commerce and trade since the Tang Dynasty (618-907 AD). The city has a rich history, with many notable landmarks and districts including the Bund, the French Concession, the Hongkou District, and the Yangpu District. Shanghai is home to many international corporations and organizations, including the Shanghai Stock Exchange and the World Financial Centre. It is also a popular tourist destination, with a diverse range of attractions including the Bund, the Pudong District, the Kaifengjing Mosque, and the Oriental Pearl Tower.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai, China is one of the most densely populated cities on Earth. With a population of more than 20 million people, it is also one of the most economically prosperous. The city is home to many multinational corporations and many of the world's leading fashion, art, and technology brands. Shanghai is also a major tourist destination, with UNESCO listing it as a World Heritage Site.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is a large, prosperous city located in the south-central part of China. It is one of the most dynamic and cosmopolitan cities in China and is known for its luxury shopping and nightlife. The city is also home to a large number of international corporations, including several Fortune 500 companies. Shanghai's economy is powered by its status as one of China's leading financial and commercial centers, as well as its manufacturing and service sectors. The city is home to a large number of universities, including some of China's most prestigious institutions. Shanghai is a popular tourist destination, with plentiful attractions, including the Bund, the Bund Park, the Suzhou Creek, and the Shanghai Museum.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai is a bustling metropolis that is known for its bustling economy and its high standard of living. The city is home to many world-renowned landmarks, such as the Oriental Pearl Tower and the Bund. Shanghai is also known for its delicious cuisine, which includes a variety of regional specialties. The city is a haven for tourists, and its many attractions make it a must-visit destination.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with twenty paragraphs about Shanghai:\n\nShanghai, the largest city in China, is a bustling metropolis with a long and rich history. Founded in the late seventeenth century by the British, Shanghai quickly became one of the most important ports in East Asia. The city's economy was based on trade, and it quickly became a center for finance, industry, and culture. Over the years, Shanghai has evolved into a global city with a rich culture and diverse economic landscape. The city is home to some of the world's most famous landmarks, including the Bund, the Shanghai World Financial Center, and the Pudong New Area. Shanghai is also known for its food, and there are many famous restaurants and food markets in the city. The city is home to a large population of expatriates, and it is a popular destination for tourists from around the world.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 1108,
+        "total_tokens": 1117
+    }
+}

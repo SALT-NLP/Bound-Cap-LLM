@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is a city in China.
+---------------------------
+response 1:
+Write a sentence about Shanghai with 10 words:
+
+The skyline of Shanghai is breathtaking.
+---------------------------
+response 2:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is one of the most populous cities in the world.
+---------------------------
+response 3:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is a city in China.
+---------------------------
+response 4:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is a city in China.
+---------------------------
+response 5:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is a city in China.
+---------------------------
+response 6:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is the most populous city in the world.
+---------------------------
+response 7:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is a city in China.
+---------------------------
+response 8:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is a metropolis in China.
+---------------------------
+response 9:
+Write a sentence about Shanghai with 10 words:
+
+Shanghai is the most populous city in the world.
+---------------------------

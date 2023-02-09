@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5tg7C2DqhobgGknDuI8qVcMJ4DTWO",
+    "object": "text_completion",
+    "created": 1663951614,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is China's largest city.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nThe city of Shanghai is located in China.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nA city of contrasts, old and new.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a bustling metropolis.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is the most populous city in China.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nThe city of Shanghai is amazing.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is the largest city in China.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a bustling metropolis.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 111,
+        "total_tokens": 120
+    }
+}

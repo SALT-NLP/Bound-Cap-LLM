@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about running with 10 words:
+
+I love the feeling of running.
+---------------------------
+response 1:
+Write a sentence about running with 10 words:
+
+I love to run.
+---------------------------
+response 2:
+Write a sentence about running with 10 words:
+
+I enjoy running because it makes me feel good.
+---------------------------
+response 3:
+Write a sentence about running with 10 words:
+
+I enjoy running because it is a great way to stay in shape.
+---------------------------
+response 4:
+Write a sentence about running with 10 words:
+
+I love running because it makes me feel free.
+---------------------------
+response 5:
+Write a sentence about running with 10 words:
+
+I love to run.
+---------------------------
+response 6:
+Write a sentence about running with 10 words:
+
+I love to run in the morning.
+---------------------------
+response 7:
+Write a sentence about running with 10 words:
+
+Running is a great way to get exercise.
+---------------------------
+response 8:
+Write a sentence about running with 10 words:
+
+Running is good for you.
+---------------------------
+response 9:
+Write a sentence about running with 10 words:
+
+I love to run in the morning.
+---------------------------

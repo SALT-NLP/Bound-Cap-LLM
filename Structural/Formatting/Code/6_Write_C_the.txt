@@ -1,0 +1,655 @@
+response 0:
+Write C code that plays the game of war:
+
+The rules of war are simple. Each player starts with a stack of 26 cards, face down. In turn, each player flips over the top card of their stack, and the player with the higher card takes both cards and sets them aside. If the two cards are of equal value, then each player flips over another card from their stack, and the player with the higher card takes all four cards and sets them aside. This process continues until one player has no cards left, at which point that player loses.
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+#define NUM_CARDS 26
+
+int main(void)
+{
+    int player1[NUM_CARDS];
+    int player2[NUM_CARDS];
+    int i, j, k;
+    
+    srand(time(NULL));
+    
+    // Initialize player1's deck
+    for (i = 0; i < NUM_CARDS; i++)
+        player1[i] = rand() % 13 + 1;
+    
+    // Initialize player2's deck
+    for (i = 0; i < NUM_CARDS; i++)
+        player2[i] = rand() % 13 + 1;
+    
+    i = j = k = 0;
+    
+    printf("Welcome to War!\n");
+    
+    // Play the game
+    while (i < NUM_CARDS && j < NUM_CARDS)
+    {
+        // Player 1's turn
+        printf("Player 1 flips over %d\n", player1[i]);
+        
+        // Player 2's turn
+        printf("Player 2 flips over %d\n", player2[j]);
+        
+        // Compare the two cards
+        if (player1[i] > player2[j])
+        {
+            // Player 1 wins the round and takes both cards
+            printf("Player 1 wins the round!\n");
+            
+            i++;
+            j++;
+        }
+        else if (player1[i] < player2[j])
+        {
+            // Player 2 wins the round and takes both cards
+            printf("Player 2 wins the round!\n");
+            
+            i++;
+            j++;
+        }
+        else
+        {
+            // It's a tie!
+            printf("It's a tie!\n");
+            
+            // Each player flips over another card
+            k = 0;
+            
+            while (k < 4 && i < NUM_CARDS && j < NUM_CARDS)
+            {
+                printf("Player 1 flips over %d\n", player1[i]);
+                printf("Player 2 flips over %d\n", player2[j]);
+                
+                i++;
+                j++;
+                k++;
+            }
+            
+            // Compare the two cards
+            if (player1[i-1] > player2[j-1])
+            {
+                // Player 1 wins the war and takes all 8 cards
+                printf("Player 1 wins the war!\n");
+            }
+            else
+            {
+                // Player 2 wins the war and takes all 8 cards
+                printf("Player 2 wins the war!\n");
+            }
+        }
+    }
+    
+    // One player is out of cards, so the other player wins
+    if (i == NUM_CARDS)
+        printf("Player 2 wins the game!\n");
+    else
+        printf("Player 1 wins the game!\n");
+    
+    return 0;
+}
+---------------------------
+response 1:
+Write C code that plays the game of war:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+ 
+int main(void)
+{
+    int user, comp, tie=0, win=0, lose=0, i, j;
+ 
+    srand(time(NULL));
+ 
+    for(i=0;i<10;i++)
+    {
+        for(j=0;j<5;j++)
+        {
+            user=rand()%13+1;
+            comp=rand()%13+1;
+ 
+            printf("You drew a %d of ", user);
+ 
+            switch(j)
+            {
+                case 0:
+                    printf("Clubs");
+                    break;
+                case 1:
+                    printf("Diamonds");
+                    break;
+                case 2:
+                    printf("Hearts");
+                    break;
+                case 3:
+                    printf("Spades");
+                    break;
+            }
+ 
+            printf("\nI drew a %d of ", comp);
+ 
+            switch(j)
+            {
+                case 0:
+                    printf("Clubs");
+                    break;
+                case 1:
+                    printf("Diamonds");
+                    break;
+                case 2:
+                    printf("Hearts");
+                    break;
+                case 3:
+                    printf("Spades");
+                    break;
+            }
+ 
+            if(user==comp)
+            {
+                printf("\nTie!\n");
+                tie++;
+            }
+ 
+            else if((user==1&&comp==13)||(user>comp))
+            {
+                printf("\nYou win!\n");
+                win++;
+            }
+ 
+            else
+            {
+                printf("\nYou lose!\n");
+                lose++;
+            }
+        }
+    }
+ 
+    printf("\nFinal results:");
+    printf("\nWins: %d", win);
+    printf("\nLosses: %d", lose);
+    printf("\nTies: %d\n", tie);
+ 
+    if(win>lose)
+        printf("\nYOU WIN THE WAR!!");
+ 
+    else if(lose>win)
+        printf("\nYOU LOSE THE WAR!!");
+ 
+    else
+        printf("\nTHE WAR WAS A TIE!!");
+ 
+    return 0;
+}
+---------------------------
+response 2:
+Write C code that plays the game of war:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void)
+{
+    int player1, player2, card1, card2, war1, war2, i, j, k;
+    
+    // Seed the random number generator
+    srand(time(NULL));
+    
+    // Initialize player1's and player2's cards to 0
+    player1 = 0;
+    player2 = 0;
+    
+    // Loop through 10 rounds of play
+    for (i = 0; i < 10; i++)
+    {
+        // Each player draws a card
+        card1 = rand() % 10 + 1;
+        card2 = rand() % 10 + 1;
+        
+        // Compare the cards
+        if (card1 > card2)
+        {
+            // If player1's card is higher, they win the round
+            printf("Player 1 wins round %d\n", i + 1);
+            player1++;
+        }
+        else if (card1 < card2)
+        {
+            // If player2's card is higher, they win the round
+            printf("Player 2 wins round %d\n", i + 1);
+            player2++;
+        }
+        else
+        {
+            // If the cards are equal, it's a tie and they go to war
+            printf("Round %d is a tie!\n", i + 1);
+            
+            // Each player draws 3 cards
+            for (j = 0; j < 3; j++)
+            {
+                war1 = rand() % 10 + 1;
+                war2 = rand() % 10 + 1;
+            }
+            
+            // Compare the war cards
+            if (war1 > war2)
+            {
+                // If player1's card is higher, they win the war
+                printf("Player 1 wins the war!\n");
+                player1++;
+            }
+            else if (war1 < war2)
+            {
+                // If player2's card is higher, they win the war
+                printf("Player 2 wins the war!\n");
+                player2++;
+            }
+            else
+            {
+                // If the cards are equal, it's a tie and they go to war again
+                printf("The war is a tie!\n");
+                
+                // Each player draws 3 cards
+                for (k = 0; k < 3; k++)
+                {
+                    war1 = rand() % 10 + 1;
+                    war2 = rand() % 10 + 1;
+                }
+                
+                // Compare the war cards
+                if (war1 > war2)
+                {
+                    // If player1's card is higher, they win the war
+                    printf("Player 1 wins the war!\n");
+                    player1++;
+                }
+                else if (war1 < war2)
+                {
+                    // If player2's card is higher, they win the war
+                    printf("Player 2 wins the war!\n");
+                    player2++;
+                }
+                else
+                {
+                    // If the cards are equal, it's a tie and they go to war again
+                    printf("The war is a tie!\n");
+                }
+            }
+        }
+    }
+    
+    // Print the final score
+    printf("Final score:\n");
+    printf("Player 1: %d\n", player1);
+    printf("Player 2: %d\n", player2);
+    
+    // Determine the winner
+    if (player1 > player2)
+    {
+        printf("Player 1 wins the game!\n");
+    }
+    else if (player1 < player2)
+    {
+        printf("Player 2 wins the game!\n");
+    }
+    else
+    {
+        printf("The game is a tie!\n");
+    }
+    
+    return 0;
+}
+---------------------------
+response 3:
+Write C code that plays the game of war:
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+ 
+int main(void)
+{
+    int player1, player2, draw, i, j, k;
+ 
+    /* Initialize random number generator */
+    srand((unsigned) time(NULL));
+ 
+    /* Initialize variables */
+    player1 = player2 = draw = 0;
+ 
+    /* Play the game 10,000 times */
+    for (i = 0; i < 10000; i++)
+    {
+        /* Generate two random numbers between 1 and 13 */
+        j = rand() % 13 + 1;
+        k = rand() % 13 + 1;
+ 
+        /* Compare the two numbers */
+        if (j == k)
+            draw++;
+        else if (j > k)
+            player1++;
+        else
+            player2++;
+    }
+ 
+    /* Print the results */
+    printf("Player 1 won %d times\n", player1);
+    printf("Player 2 won %d times\n", player2);
+    printf("There were %d draws\n", draw);
+ 
+    return 0;
+}
+---------------------------
+response 4:
+Write C code that plays the game of war:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void)
+{
+    int player1, player2, winner;
+    
+    srand(time(NULL));
+    
+    player1 = rand() % 13 + 1;
+    player2 = rand() % 13 + 1;
+    
+    printf("Player 1 draws a card: %d\n", player1);
+    printf("Player 2 draws a card: %d\n", player2);
+    
+    if (player1 > player2)
+    {
+        winner = 1;
+    }
+    else if (player2 > player1)
+    {
+        winner = 2;
+    }
+    else
+    {
+        winner = 0;
+    }
+    
+    printf("Winner: Player %d\n", winner);
+    
+    return 0;
+}
+---------------------------
+response 5:
+Write C code that plays the game of war:
+
+The game of war is played with two players. Each player has a deck of cards, with the Ace being the highest card and the Two being the lowest. The players shuffle their decks and then deal them out, face down, so that each player has an equal number of cards.
+
+The players then take turns flipping over their top card. The player with the higher card wins the round and takes both cards, adding them to the bottom of their deck. If the two cards are of equal value, then it is a "war." Both players flip over their next card, and the player with the higher card wins the round and takes all four cards (the two from the original round and the two from the war). If the second card is again of equal value, then another war is declared and the process is repeated.
+
+The game ends when one player runs out of cards. The other player is the winner.
+---------------------------
+response 6:
+Write C code that plays the game of war:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void)
+{
+    int player1, player2, round = 1;
+    
+    //Seed the random number generator
+    srand(time(NULL));
+    
+    //Get the first card for each player
+    player1 = rand() % 13 + 1;
+    player2 = rand() % 13 + 1;
+    
+    //Play the first round
+    printf("Round %d: \n", round);
+    printf("Player 1: %d\n", player1);
+    printf("Player 2: %d\n", player2);
+    
+    if (player1 > player2)
+    {
+        printf("Player 1 wins round %d!\n", round);
+    }
+    else if (player1 < player2)
+    {
+        printf("Player 2 wins round %d!\n", round);
+    }
+    else
+    {
+        printf("Round %d is a tie!\n", round);
+    }
+    
+    //Play the rest of the rounds
+    while (player1 != player2)
+    {
+        round++;
+        
+        //Get the next card for each player
+        player1 = rand() % 13 + 1;
+        player2 = rand() % 13 + 1;
+        
+        //Display the cards for this round
+        printf("Round %d: \n", round);
+        printf("Player 1: %d\n", player1);
+        printf("Player 2: %d\n", player2);
+        
+        //Determine the winner of this round
+        if (player1 > player2)
+        {
+            printf("Player 1 wins round %d!\n", round);
+        }
+        else if (player1 < player2)
+        {
+            printf("Player 2 wins round %d!\n", round);
+        }
+        else
+        {
+            printf("Round %d is a tie!\n", round);
+        }
+    }
+    
+    return 0;
+}
+---------------------------
+response 7:
+Write C code that plays the game of war:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void)
+{
+    int player1, player2, war1, war2, war3, war4, war5;
+    
+    srand(time(NULL));
+    
+    player1 = rand() % 13 + 1;
+    player2 = rand() % 13 + 1;
+    
+    printf("Player 1: %d\n", player1);
+    printf("Player 2: %d\n", player2);
+    
+    if (player1 > player2)
+    {
+        printf("Player 1 wins!\n");
+    }
+    else if (player1 < player2)
+    {
+        printf("Player 2 wins!\n");
+    }
+    else
+    {
+        printf("WAR!\n");
+        
+        war1 = rand() % 13 + 1;
+        war2 = rand() % 13 + 1;
+        war3 = rand() % 13 + 1;
+        war4 = rand() % 13 + 1;
+        war5 = rand() % 13 + 1;
+        
+        printf("Player 1: %d %d %d %d %d\n", war1, war2, war3, war4, war5);
+        
+        war1 = rand() % 13 + 1;
+        war2 = rand() % 13 + 1;
+        war3 = rand() % 13 + 1;
+        war4 = rand() % 13 + 1;
+        war5 = rand() % 13 + 1;
+        
+        printf("Player 2: %d %d %d %d %d\n", war1, war2, war3, war4, war5);
+        
+        if (war1 + war2 + war3 + war4 + war5 > player1 + player2)
+        {
+            printf("Player 1 wins the war!\n");
+        }
+        else
+        {
+            printf("Player 2 wins the war!\n");
+        }
+    }
+    
+    return 0;
+}
+---------------------------
+response 8:
+Write C code that plays the game of war:
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void)
+{
+    //Create two arrays for the player's and computer's cards
+    int playerCards[52];
+    int computerCards[52];
+    
+    //Create variables for the card values
+    int playerCard1;
+    int playerCard2;
+    int computerCard1;
+    int computerCard2;
+    
+    //Create a variable for the player's score
+    int playerScore = 0;
+    
+    //Create a variable for the computer's score
+    int computerScore = 0;
+    
+    //Create a variable for the number of rounds
+    int rounds = 0;
+    
+    //Seed the random number generator
+    srand(time(NULL));
+    
+    //Assign random values to the player's cards
+    playerCard1 = rand() % 13;
+    playerCard2 = rand() % 13;
+    
+    //Assign random values to the computer's cards
+    computerCard1 = rand() % 13;
+    computerCard2 = rand() % 13;
+    
+    //Print the player's cards
+    printf("Player's cards: %d %d\n", playerCard1, playerCard2);
+    
+    //Print the computer's cards
+    printf("Computer's cards: %d %d\n", computerCard1, computerCard2);
+    
+    //Compare the player's first card to the computer's first card
+    if (playerCard1 > computerCard1)
+    {
+        //If the player's card is higher, the player gets a point
+        playerScore++;
+        
+        //Print the score
+        printf("Player's score: %d\n", playerScore);
+        printf("Computer's score: %d\n", computerScore);
+    }
+    else if (playerCard1 < computerCard1)
+    {
+        //If the computer's card is higher, the computer gets a point
+        computerScore++;
+        
+        //Print the score
+        printf("Player's score: %d\n", playerScore);
+        printf("Computer's score: %d\n", computerScore);
+    }
+    else
+    {
+        //If the cards are equal, there is a tie
+        printf("It's a tie!\n");
+    }
+    
+    //Increment the number of rounds
+    rounds++;
+    
+    //Compare the player's second card to the computer's second card
+    if (playerCard2 > computerCard2)
+    {
+        //If the player's card is higher, the player gets a point
+        playerScore++;
+        
+        //Print the score
+        printf("Player's score: %d\n", playerScore);
+        printf("Computer's score: %d\n", computerScore);
+    }
+    else if (playerCard2 < computerCard2)
+    {
+        //If the computer's card is higher, the computer gets a point
+        computerScore++;
+        
+        //Print the score
+        printf("Player's score: %d\n", playerScore);
+        printf("Computer's score: %d\n", computerScore);
+    }
+    else
+    {
+        //If the cards are equal, there is a tie
+        printf("It's a tie!\n");
+    }
+    
+    //Increment the number of rounds
+    rounds++;
+    
+    //If the player has more points than the computer, the player wins
+    if (playerScore > computerScore)
+    {
+        printf("You win!\n");
+    }
+    //If the computer has more points than the player, the computer wins
+    else if (computerScore > playerScore)
+    {
+        printf("You lose!\n");
+    }
+    //If the player and computer have the same number of points, it's a tie
+    else
+    {
+        printf("It's a tie!\n");
+    }
+    
+    //Print the number of rounds
+    printf("Number of rounds: %d\n", rounds);
+    
+    return 0;
+}
+---------------------------
+response 9:
+Write C code that plays the game of war:
+
+The player with the highest card wins the round and takes all the cards from the other player. In the event of a tie, both players put another card face down and then reveal them. The player with the highest card then wins the round and takes all 10 cards.
+---------------------------

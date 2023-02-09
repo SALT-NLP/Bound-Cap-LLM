@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFiChjmYjcITBaUJAzjzx09rxqc",
+    "object": "text_completion",
+    "created": 1664544118,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is one of the best ways to get your heart rate up and help you burn calories.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get your exercise and make your body feel good.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get your heart rate up and help you lose weight.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get your heart rate up and force your body to work hard.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is an essential part of a well-rounded fitness routine. Running helps you move and get your heart rate up.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get your heart rate up and help burn calories.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great exercise for your body and mind. It allows you to move quickly and cover a lot of ground.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is one of the best ways to get your body moving. It helps you get your heart rate up, improve your balance, and improve your stamina.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is a great way to get exercise and help improve your mood.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about running:\n\nRunning is an excellent way to keep your body moving and maintained.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 213,
+        "total_tokens": 222
+    }
+}

@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about running:
+
+I wake up early to go on a run.
+---------------------------
+response 1:
+Write a sentence with ten words about running:
+
+I love to run in the morning.
+---------------------------
+response 2:
+Write a sentence with ten words about running:
+
+I enjoy running because it helps me clear my head.
+---------------------------
+response 3:
+Write a sentence with ten words about running:
+
+Runners need to be careful of overtraining, which can lead to injuries.
+---------------------------
+response 4:
+Write a sentence with ten words about running:
+
+I run to stay in shape.
+---------------------------
+response 5:
+Write a sentence with ten words about running:
+
+I love running in the morning.
+---------------------------
+response 6:
+Write a sentence with ten words about running:
+
+I love to run in the morning to start my day.
+---------------------------
+response 7:
+Write a sentence with ten words about running:
+
+Running is a great way to stay in shape.
+---------------------------
+response 8:
+Write a sentence with ten words about running:
+
+The wind was at my back and I felt alive.
+---------------------------
+response 9:
+Write a sentence with ten words about running:
+
+I enjoy running because it gives me time to think.
+---------------------------

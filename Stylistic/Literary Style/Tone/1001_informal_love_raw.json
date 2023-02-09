@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5xd20kzA0pT9nszX68SWjhEdC0aQH",
+    "object": "text_completion",
+    "created": 1664893072,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write an informal passage about love:\n\nLove is one of the most amazing things in the world. It can make you feel happy, sad, scared, and everything in between. It's something that everyone experiences at some point in their life, and it's something that can never be fully understood. Love is something that you just have to feel for yourself.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nLove is something that you feel deep in your heart. It's a strong emotion that can make you feel happy, sad, scared, or even angry. But most of all, love is something that makes you feel alive. When you're in love, you feel like you can do anything. You feel like you're on top of the world. Love is something that you just can't explain.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nLove is one of the most amazing things in the world. It can make you feel happy, sad, excited, and everything in between. Love is something that you can't explain, but you know when you feel it. It's something that makes you want to be a better person. Love is worth fighting for, and it's worth everything.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nLove is one of the most amazing and wonderful things in the world. It can make you feel happy, sad, excited, and everything in between. Love is something that you can't really explain, you just know it when you feel it.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nLove is one of the most amazing things in the world. It can make you feel happy, sad, excited, and everything in between. It's something that everyone experiences at some point in their life, and it's something that can never be fully explained. Love is something that you just have to feel to understand.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nLove is one of the most amazing things in the world. It can make you feel happy, sad, excited, and everything in between. It's something that everyone experiences at some point in their life, and it's something that can never be fully explained. When you're in love, you just know it. And that's what makes it so special.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nLove is one of the most amazing and wonderful things in the world. It can make you feel happy, sad, excited, and everything in between. It's something that everyone experiences at some point in their life, and it's something that can change your life completely. When you're in love, you can't imagine your life without the person you're in love with. You want to be with them all the time, and you can't stand the thought of being apart. Love is something that you just feel, and it's one of the best things in the world.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nWhen you're in love, you can't help but feel happy all the time. You feel like you're walking on air, and nothing can bring you down. You're always thinking about the person you love, and you can't wait to see them again. Love is the best feeling in the world, and I wouldn't trade it for anything.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nThere's nothing like feeling madly in love. Your heart races, your stomach does somersaults, and you can't stop thinking about that special someone. When you're in love, you feel like you can conquer the world. It's a wonderful, exhilarating feeling.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write an informal passage about love:\n\nLove is one of the most amazing and wonderful things in life. It can make you feel happy, sad, excited, nervous, and just about every other emotion in between. When you're in love, you can't help but smile and feel good about yourself. Love is something that you just can't explain, but you know it when you feel it.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7,
+        "completion_tokens": 734,
+        "total_tokens": 741
+    }
+}

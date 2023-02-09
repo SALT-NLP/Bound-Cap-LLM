@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about Elon Musk:
+
+He is a visionary entrepreneur.
+---------------------------
+response 1:
+Write a sentence with five words about Elon Musk:
+
+Inventor. CEO. Visionary. Innovator. Disruptor.
+---------------------------
+response 2:
+Write a sentence with five words about Elon Musk:
+
+He is a great CEO.
+---------------------------
+response 3:
+Write a sentence with five words about Elon Musk:
+
+Elon Musk is a genius.
+---------------------------
+response 4:
+Write a sentence with five words about Elon Musk:
+
+Innovative, game-changing entrepreneur who improves lives.
+---------------------------
+response 5:
+Write a sentence with five words about Elon Musk:
+
+He is a business magnate, investor, and engineer.
+---------------------------
+response 6:
+Write a sentence with five words about Elon Musk:
+
+Elon Musk is a visionary.
+---------------------------
+response 7:
+Write a sentence with five words about Elon Musk:
+
+He is an entrepreneur and business magnate.
+---------------------------
+response 8:
+Write a sentence with five words about Elon Musk:
+
+Elon Musk is an entrepreneur.
+---------------------------
+response 9:
+Write a sentence with five words about Elon Musk:
+
+He is an entrepreneur and business magnate.
+---------------------------

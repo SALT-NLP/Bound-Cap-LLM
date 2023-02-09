@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about love:
+
+I love spending time with the people I care about.
+---------------------------
+response 1:
+Write a sentence with twenty words about love:
+
+Love is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.
+---------------------------
+response 2:
+Write a sentence with twenty words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 3:
+Write a sentence with twenty words about love:
+
+Love is something that can be found in the simplest of things.
+---------------------------
+response 4:
+Write a sentence with twenty words about love:
+
+I love spending time with my family and friends.
+---------------------------
+response 5:
+Write a sentence with twenty words about love:
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 6:
+Write a sentence with twenty words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 7:
+Write a sentence with twenty words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 8:
+Write a sentence with twenty words about love:
+
+I love spending time with the people I care about.
+---------------------------
+response 9:
+Write a sentence with twenty words about love:
+
+Love is a strong, passionate emotion felt between two people.
+---------------------------

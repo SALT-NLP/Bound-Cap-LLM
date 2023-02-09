@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about love:
+
+Love is the most powerful emotion.
+---------------------------
+response 1:
+Write a sentence with five words about love:
+
+Love is the most powerful emotion.
+---------------------------
+response 2:
+Write a sentence with five words about love:
+
+It's magical, indescribable, wonderful, perfect, and true.
+---------------------------
+response 3:
+Write a sentence with five words about love:
+
+Love is the greatest emotion in the world.
+---------------------------
+response 4:
+Write a sentence with five words about love:
+
+Love is everything it is cracked up to be.
+---------------------------
+response 5:
+Write a sentence with five words about love:
+
+Love is never having to say you're sorry.
+---------------------------
+response 6:
+Write a sentence with five words about love:
+
+Love is an emotion felt between two people.
+---------------------------
+response 7:
+Write a sentence with five words about love:
+
+Love is strong and can overcome anything.
+---------------------------
+response 8:
+Write a sentence with five words about love:
+
+Love is the most important thing.
+---------------------------
+response 9:
+Write a sentence with five words about love:
+
+Love is an emotion felt by many.
+---------------------------

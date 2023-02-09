@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5ormVcYRqp1WEhWucFZEme7Exnbts",
+    "object": "text_completion",
+    "created": 1662804819,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nSunsets are like a painting; each one is different, but they are all beautiful in their own way. The colors are always changing, but they always come together to create something stunning.\n\nWhen the sun starts to set, the sky turns into a canvas of oranges, pinks, and purples. The colors swirl together and create a masterpiece that can be seen for miles. The sun slowly dip below the horizon, and the sky is set ablaze.\n\nIt's always a breathtaking sight, one that never gets old no matter how many times you see it. Sunsets are a reminder that there is beauty in everything, even the simplest things.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are like a brush of gold painting the sky; they are like a sweet symphony playing in the background of a perfect day. They are the perfect end to a perfect day.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are like a blanket of warmth, wrapping around you as the day comes to an end. The colors are like a painting, each one blending into the next to create a beautiful scene. The sky is like a canvas, the sun setting behind the mountains and trees. It's a time to relax and reflect on the day, to enjoy the peace and quiet of the evening.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are like a brush of gold painting the sky. The colors are always changing, but they're always beautiful. Sometimes the sky is a deep red, like a rose. Other times it's a bright orange, like the sun itself. No matter what color it is, a sunset is always a stunning sight.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are one of the most beautiful things in nature. They are a time when the sky is filled with colors of orange, red, and pink, and the sun slowly disappears behind the horizon. It's a time to relax and reflect on the day.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are one of the most beautiful things in nature. The colors are so vibrant and the sky is so full of life. Sunsets are a time to reflect on the day and to appreciate the beauty of nature.\n\nSunsets are a time to relax and to enjoy the company of those you love. They are a time to be grateful for the blessings in your life. Sunsets are a time to reflect on the good and the bad, and to appreciate all that life has to offer.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nThe sun sets over the horizon, painting the sky in a spectrum of oranges, pinks, and purples. The clouds seem to glow from within, illuminated by the setting sun. The world is bathed in a warm, golden light, and everything seems calm and peaceful.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are like a painting; each one is different, but they are all beautiful in their own way. The colors are so bright and vibrant, it's like looking at a piece of art. The sky is like a canvas, and the sun is the paintbrush. Every day, the sun sets a little differently, and it's always a stunning sight to behold.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are like the most beautiful paintings, with their colors always changing and their beauty always breathtaking. They're like a work of art that God creates every day, and we get to witness His creation. Every sunset is different, and yet they're all so perfect in their own way.\n\nWhen I see a sunset, I can't help but be in awe of God's creation. The colors are always so vibrant and beautiful, and it's just such a peaceful time of day. I always feel so grateful to be able to witness such beauty.\n\nSunsets are definitely one of the most amazing things in nature. They're just so incredibly beautiful, and I always feel so lucky to be able to see them.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nSunsets are like a canvas of colors painting the sky in a beautiful way. As the sun slowly dips below the horizon, the sky fills with a range of colors, from deep oranges and reds to lighter pinks and purples. It's a truly stunning sight that can leave anyone in awe.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 40,
+        "completion_tokens": 836,
+        "total_tokens": 876
+    }
+}

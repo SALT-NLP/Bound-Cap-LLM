@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about cats:
+
+Cats are independent, curious, and loving animals.
+---------------------------
+response 1:
+Write a sentence with five words about cats:
+
+Some people think that cats are lazy, but I think they're actually quite active.
+---------------------------
+response 2:
+Write a sentence with five words about cats:
+
+Cats are independent and curious animals.
+---------------------------
+response 3:
+Write a sentence with five words about cats:
+
+My cat is always happy and playful.
+---------------------------
+response 4:
+Write a sentence with five words about cats:
+
+Cats are independent and curious creatures.
+---------------------------
+response 5:
+Write a sentence with five words about cats:
+
+Cats are independent animals and do not like being handled.
+---------------------------
+response 6:
+Write a sentence with five words about cats:
+
+Cats are intelligent animals that enjoy spending time alone.
+---------------------------
+response 7:
+Write a sentence with five words about cats:
+
+Cats are independent animals and enjoy their own company.
+---------------------------
+response 8:
+Write a sentence with five words about cats:
+
+Many people think that cats are aloof and independent, but in reality, they are very social animals that love to be around people.
+---------------------------
+response 9:
+Write a sentence with five words about cats:
+
+Cats are independent and curious animals that enjoy spending time alone or with their humans.
+---------------------------

@@ -1,0 +1,50 @@
+response 0:
+Write a passage about running that is brief:
+
+I love the feeling of the wind in my hair and the sun on my face as I run. It's like all of my worries disappear and I'm just in the moment. I feel alive and free when I'm running.
+---------------------------
+response 1:
+Write a passage about running that is brief:
+
+Running is a great way to get some exercise. It's a low-impact activity that can help you lose weight, get in shape, and stay healthy.
+---------------------------
+response 2:
+Write a passage about running that is brief:
+
+I love running because it makes me feel alive. It's like a moving meditation that allows me to clear my mind and get in touch with my body. When I'm running, I feel like I can conquer the world.
+---------------------------
+response 3:
+Write a passage about running that is brief:
+
+I love running because it makes me feel alive. Every time I go for a run, I feel like I can conquer the world. Running makes me feel strong and empowered.
+---------------------------
+response 4:
+Write a passage about running that is brief:
+
+I like running because it's a great way to get exercise and clear my head. It's also a great way to explore new places.
+---------------------------
+response 5:
+Write a passage about running that is brief:
+
+I love running because it's a great way to clear my head and get some exercise. It's also a great way to explore new places.
+---------------------------
+response 6:
+Write a passage about running that is brief:
+
+I love running. It's my favorite way to get exercise. I can do it anywhere, anytime. It's a great way to clear my head and get some fresh air.
+---------------------------
+response 7:
+Write a passage about running that is brief:
+
+I love running. It's my favorite way to get exercise. I can do it anywhere, anytime. It's a great way to clear my head and relax.
+---------------------------
+response 8:
+Write a passage about running that is brief:
+
+I love the feeling of the wind in my hair and the sun on my face as I run. There's something about pushing myself to my limits and feeling the burn in my muscles that I just can't get enough of. Running is my escape from the everyday stresses of life and my chance to clear my head. It's also a great way to stay in shape!
+---------------------------
+response 9:
+Write a passage about running that is brief:
+
+I love to run. It's my favorite way to exercise. I can do it anywhere, anytime. It's a great way to get some fresh air and clear my head.
+---------------------------

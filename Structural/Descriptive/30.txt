@@ -1,0 +1,50 @@
+response 0:
+Write a passage about running that is short:
+
+I love running. It's my favorite way to stay in shape. I can go anywhere and do it anytime.
+---------------------------
+response 1:
+Write a passage about running that is short:
+
+I love to run. It's my favorite way to get exercise. I can run anywhere, anytime. It's a great way to clear my head and get some fresh air.
+---------------------------
+response 2:
+Write a passage about running that is short:
+
+The best runners are the ones who enjoy the sport and don't see it as a chore. They love to run, and they run because they love it.
+---------------------------
+response 3:
+Write a passage about running that is short:
+
+I love running. It's my favorite way to get exercise. I can go anywhere and do it anytime. I don't need any special equipment. And it's free!
+---------------------------
+response 4:
+Write a passage about running that is short:
+
+I love running because it makes me feel alive. When I am running, I feel like I can conquer the world. It is a great way to release stress and clear my head. I always feel better after a run.
+---------------------------
+response 5:
+Write a passage about running that is short:
+
+I love running. It's my favorite way to get exercise. I can go anywhere and do it anytime. It's cheap and it's a great way to see the world.
+---------------------------
+response 6:
+Write a passage about running that is short:
+
+I love running. It's my favorite way to get exercise. I can go anywhere and do it anytime. It's a great way to clear my head and to get away from everything.
+---------------------------
+response 7:
+Write a passage about running that is short:
+
+I love running. It's my favorite way to get exercise. I can run anywhere, anytime. I don't need any special equipment. I just put on my running shoes and go.
+---------------------------
+response 8:
+Write a passage about running that is short:
+
+I love running because it makes me feel alive. Every time I go for a run, I feel like I can conquer the world. Running makes me feel strong and empowered, like I can do anything.
+---------------------------
+response 9:
+Write a passage about running that is short:
+
+I love to run. It's my favorite way to exercise. I can do it anywhere, anytime. And it's a great way to relieve stress.
+---------------------------

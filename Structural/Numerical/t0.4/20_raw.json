@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAB8IBEhhPz5QNl3bRO9rVJ4xrNP",
+    "object": "text_completion",
+    "created": 1664543834,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a passage with five paragraphs about running:\n\n1. I never thought I would be a runner. \n\n2. I was always the chubby kid in school, and wasn't very good at sports. \n\n3. But when I started college, I decided I wanted to get in shape. \n\n4. I started by going to the gym a few times a week, and then I started running. \n\n5. At first it was hard, but now I love it. I can't imagine not being a runner.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never liked running. It was always too hot, or too cold, or I was too tired. But then I started working at a running store, and I began to see the appeal. I started slow, running a mile or two a few times a week. But I quickly began to feel the benefits. I felt more alert and awake, and I had more energy. I started running more, and before long I was running every day.\n\nNow, I can't imagine not running. I run first thing in the morning, before the sun is up. I love the feeling of the cool air on my skin and the peace of being out on the streets before everyone else is awake. I run for an hour or more, and then I come home and have breakfast and start my day.\n\nRunning has become a part of who I am. It's how I clear my head and start my day. It's how I stay fit and healthy. And it's how I find joy and peace in the midst of a busy life.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nThe best way to start running is to just start running. Put on some comfortable clothes and some good shoes, and head out the door. You don\u2019t need to run fast or far at first, just start moving.\n\nOnce you\u2019ve started running, it\u2019s important to keep moving. If you can, run for at least 30 minutes at a time. This will help you build up your endurance and stamina. If you need to, you can break up your run into smaller segments throughout the day.\n\nAs you keep running, you\u2019ll start to notice yourself getting stronger and faster. This is normal! Just keep pushing yourself and challenge yourself to run a little bit further or a little bit faster each time you go out.\n\nEventually, you\u2019ll find that running is something you enjoy and look forward to. It\u2019s a great way to clear your head, get some exercise, and just feel good. Keep at it, and you\u2019ll be a runner in no time!",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never liked running. It was always too hot, or too cold, or I was too tired. But then I started working at a running store, and I began to see the appeal. I started slow, running a mile or two a few times a week. But I quickly began to feel the benefits. I felt more alert and awake, and I had more energy. I started running more, and before long I was running every day.\n\nNow, I can't imagine not running. I run first thing in the morning, before the sun is up. I love the feeling of the cool air on my skin and the peace of being out on the streets before everyone else is awake. I run even when it's raining or snowing. I've run in every kind of weather, and I love it all.\n\nRunning has become a part of who I am. It's how I start my day, and it's how I clear my head. It's how I stay in shape, and it's how I stay sane. I can't imagine my life without it.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never thought I would say this, but I actually enjoy running now. It wasn\u2019t always this way though. I used to hate running. I would avoid it at all costs. But then I realized that if I wanted to be healthy, I needed to find a way to make running work for me.\n\nNow, I make sure to set aside time each day to go for a run. I start off slow, and then I gradually pick up the pace. I focus on my breathing and on the rhythm of my feet hitting the ground. And before I know it, I\u2019ve run a mile without even realizing it.\n\nI\u2019ve found that running is a great way to clear my head and to get some exercise. It\u2019s also a great way to explore new places. When I\u2019m out on a run, I feel like I can go anywhere and do anything.\n\nSo if you\u2019re like me and you used to hate running, I encourage you to give it another try. You might just find that you enjoy it too.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never used to be a runner. In fact, I used to hate running. I would get winded easily and my lungs would burn. I would get a side stitch and have to walk. I thought running was torture. But then I started seeing all these people running and I thought, if all these other people can do it, so can I. So I started running. And you know what? I loved it.\n\nNow, I can\u2019t imagine not being a runner. I run every day, rain or shine. I\u2019ve even run in snow! I\u2019ve run races and I\u2019ve even won a few. But even if I don\u2019t win, I still enjoy the feeling of crossing the finish line. Running has become a part of who I am.\n\nWhen I started running, I never would have thought that I would become the person I am today. I was always the person who would sit on the sidelines and watch as others ran by. But now, I am the one running by and people are watching me. It\u2019s a great feeling.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never used to be a runner. I was always the chubby kid in school, the one who got winded just walking up a flight of stairs. But then, in my sophomore year of high school, I decided to give running a try. I started slow, with just a few laps around the track. But I quickly fell in love with the feeling of the wind in my hair and the satisfaction of pushing my body to its limits.\n\nNow, I run every day. I\u2019ve even competed in a few races. I\u2019ve never been the fastest runner, but that\u2019s not what\u2019s important to me. What matters is that I\u2019m out there, doing something that I love.\n\nRunning has helped me to become a stronger, healthier person. It\u2019s also given me a sense of confidence and accomplishment that I never had before. Every time I lace up my shoes and head out the door, I know that I\u2019m capable of anything.\n\nSo if you\u2019re thinking about taking up running, I say go for it. It might just change your life.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never used to be a runner. In fact, I used to hate running. I would get winded so easily and my lungs would feel like they were on fire. I would get so frustrated with myself because I felt like I was never going to be good at it. But then one day, I decided to give it another try. I went out for a run, and I didn't stop until I hit 5 miles. It felt amazing. I felt like I had accomplished something that I never thought I could do.\n\nNow, I run almost every day. I have even signed up for a few races. I love the feeling of pushing myself to see how far I can go. Running has become a huge part of my life, and I am so grateful for that.\n\nThere are so many benefits to running, both physically and mentally. Running has helped me to become stronger and more fit. It has also helped me to become more disciplined and motivated. I always feel better after a run, no matter how hard it was.\n\nIf you are thinking about starting to run, I would encourage you to give it a try. It might be tough at first, but it is so worth it. You never know how far you can go until you try.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never liked running. It was always too hot, or too cold, or I was too tired. But then I started working at a running store, and I started to see the appeal. I started to see how running could be a form of self-care, how it could be a way to clear my head and get some fresh air. I started to see how running could be a way to connect with nature, and with myself.\n\nNow, I go for a run most days. I wake up early to beat the heat, or I wait until the sun has gone down to avoid the cold. I run when I'm feeling good, and I run when I'm feeling bad. I run when I need to clear my head, and I run when I need to think. I run to connect with nature, and I run to connect with myself.\n\nRunning has become a part of who I am. It's how I take care of myself, and how I connect with the world around me. It's how I find peace, and how I find joy.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with five paragraphs about running:\n\nI never thought I\u2019d be a runner. I was always the kid who was last to finish the mile in gym class, and I hated every second of it. But then, a few years ago, I decided to give it a try again. And you know what? I loved it.\n\nNow, I\u2019m not saying that I love running marathons or anything like that. But I do love going for a run when I need to clear my head, or when I want to get some exercise. It\u2019s become a part of my daily routine, and I can\u2019t imagine not doing it.\n\nThere are a lot of reasons why I love running. First of all, it\u2019s a great way to get some exercise. I don\u2019t have to go to the gym, or lift weights, or do any of that stuff. I can just put on my shoes and go.\n\nSecond of all, running is a great way to clear your head. When I\u2019m feeling stressed out, or when I need to think about something, I go for a run. It\u2019s like my own personal therapy session.\n\nAnd finally, running is just fun. It\u2019s a great way to explore new places, and it\u2019s a great way to meet new people. There\u2019s something about being a runner that just makes you feel good.\n\nSo if you\u2019ve never tried running, I encourage you to give it a shot. You might just find that you love it as much as I do.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 2266,
+        "total_tokens": 2275
+    }
+}

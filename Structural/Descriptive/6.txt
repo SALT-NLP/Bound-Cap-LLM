@@ -1,0 +1,50 @@
+response 0:
+Write a short passage about cats:
+
+There is something special about cats, the way they move, the way they stare. And when you learn how to love them as they deserve—groom them, give them good food and scratch them, and offer them a litter box—you have created a bond that’s hard to break.
+---------------------------
+response 1:
+Write a short passage about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be both affectionate and aloof. Cats are also known for being very clean animals, and for their love of napping.
+---------------------------
+response 2:
+Write a short passage about cats:
+
+There is something special about cats, the way they move, the way they stare. And when you learn how to love them as they deserve—groom them, give them good food and scratch them, and offer them a litter box—you have created a bond that’s hard to break.
+---------------------------
+response 3:
+Write a short passage about cats:
+
+There is no denying that cats are one of the most popular pets in the world. And it’s not hard to see why! They are cute, cuddly, and relatively low-maintenance. Not to mention, they make great companions. Whether you’re a cat person or not, it’s hard to resist their furry charms.
+---------------------------
+response 4:
+Write a short passage about cats:
+
+There is something special about cats, the way they move, the way they stare. And when you learn how to love them as they deserve—groom them, give them good food and scratch them, and offer them a litter box—you have created a bond that’s hard to break.
+---------------------------
+response 5:
+Write a short passage about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to show affection. Cats are also known for their agility and their ability to climb and jump.
+---------------------------
+response 6:
+Write a short passage about cats:
+
+Cats are often considered to be independent and aloof, but many love spending time with their humans. They are known for being good hunters and often bring their owners "presents" of dead rodents or birds. Cats usually sleep around 16 hours a day.
+---------------------------
+response 7:
+Write a short passage about cats:
+
+Cats make loyal, loving, and tidy pets. They are relatively easy to care for and can be trained to use a litter box. Cats are curious and playful, but can also be independent and aloof.
+---------------------------
+response 8:
+Write a short passage about cats:
+
+Cats are one of the most popular pets in the world. They are known for being independent and playful. Cats are also very good at keeping homes clean and free of rodents.
+---------------------------
+response 9:
+Write a short passage about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be trained to use a litter box. Cats are also known for their hunting skills, and their ability to kill rodents and other small animals.
+---------------------------

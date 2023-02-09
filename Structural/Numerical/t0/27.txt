@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a bustling metropolis.
+---------------------------

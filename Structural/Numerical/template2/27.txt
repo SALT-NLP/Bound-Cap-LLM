@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about Shanghai with 5 words:
+
+Shanghai is a city in China.
+---------------------------
+response 1:
+Write a sentence about Shanghai with 5 words:
+
+Beautiful city with amazing skyline.
+---------------------------
+response 2:
+Write a sentence about Shanghai with 5 words:
+
+Shanghai is a bustling city.
+---------------------------
+response 3:
+Write a sentence about Shanghai with 5 words:
+
+The city of Shanghai is China's largest.
+---------------------------
+response 4:
+Write a sentence about Shanghai with 5 words:
+
+Shanghai is a city in China.
+---------------------------
+response 5:
+Write a sentence about Shanghai with 5 words:
+
+Shanghai is a city in China.
+---------------------------
+response 6:
+Write a sentence about Shanghai with 5 words:
+
+Shanghai is a beautiful city.
+---------------------------
+response 7:
+Write a sentence about Shanghai with 5 words:
+
+A city of contrasts and chaos.
+---------------------------
+response 8:
+Write a sentence about Shanghai with 5 words:
+
+Shanghai is a city in China.
+---------------------------
+response 9:
+Write a sentence about Shanghai with 5 words:
+
+Shanghai is a bustling metropolis.
+---------------------------

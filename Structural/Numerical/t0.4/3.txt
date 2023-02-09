@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about love:
+
+Love is the most powerful emotion in the world.
+---------------------------
+response 1:
+Write a sentence with ten words about love:
+
+Love is a strong, passionate emotion felt between two people.
+---------------------------
+response 2:
+Write a sentence with ten words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 3:
+Write a sentence with ten words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------
+response 4:
+Write a sentence with ten words about love:
+
+Love is a strong, passionate emotion felt between two people.
+---------------------------
+response 5:
+Write a sentence with ten words about love:
+
+Love is a strong, passionate emotion felt between two people.
+---------------------------
+response 6:
+Write a sentence with ten words about love:
+
+Love is a strong, passionate emotion felt between two people.
+---------------------------
+response 7:
+Write a sentence with ten words about love:
+
+Love is a beautiful thing that should be cherished.
+---------------------------
+response 8:
+Write a sentence with ten words about love:
+
+Love is a strong, passionate emotion felt between two people.
+---------------------------
+response 9:
+Write a sentence with ten words about love:
+
+Love is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.
+---------------------------

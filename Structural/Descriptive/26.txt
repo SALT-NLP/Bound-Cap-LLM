@@ -1,0 +1,52 @@
+response 0:
+Write a passage about cats that is concise:
+
+Cats are often considered to be independent, aloof, and self-sufficient. However, they are also social creatures that form close bonds with their owners. Cats are intelligent and can be trained to perform tricks, but they usually prefer to do things on their own terms.
+---------------------------
+response 1:
+Write a passage about cats that is concise:
+
+Cats are popular pets around the world. They are known for their independent nature, and many people enjoy the companionship of a cat. Cats are relatively low-maintenance pets, and can be left alone for extended periods of time without needing much care.
+---------------------------
+response 2:
+Write a passage about cats that is concise:
+
+Cats are small, carnivorous mammals of the Felidae family. They have been kept as pets for thousands of years and are known for their independent nature.
+---------------------------
+response 3:
+Write a passage about cats that is concise:
+
+Cats are small, carnivorous mammals of the Felidae family. Cats have been domesticated since ancient times and are now one of the most popular pets in the world. They are known for their independent nature, their hunting ability, and their love of napping.
+---------------------------
+response 4:
+Write a passage about cats that is concise:
+
+Cats are small, carnivorous mammals of the Felidae family. Cats have fur, sharp claws, and excellent night vision. A cat's hearing is much better than a human's.
+---------------------------
+response 5:
+Write a passage about cats that is concise:
+
+Cats are cute, cuddly, and make great companions. They are also low maintenance, which makes them ideal for busy people.
+---------------------------
+response 6:
+Write a passage about cats that is concise:
+
+Cats are playful, curious creatures that make great pets. They are known for their independent nature, and many people enjoy having a cat around the house.
+---------------------------
+response 7:
+Write a passage about cats that is concise:
+
+Cats are popular pets around the world. They are known for their independent nature, and their cute and cuddly appearance. Cats are low maintenance pets that don't require a lot of space, making them ideal for small homes or apartments.
+---------------------------
+response 8:
+Write a passage about cats that is concise:
+
+There is something special about cats. They are independent, yet loving. They are tidy, yet playful. They are creatures that are both unique and familiar.
+
+Cats have been companions to humans for centuries, and there is a reason why. They offer us companionship, love, and laughter. They are creatures that we can both relate to and admire.
+---------------------------
+response 9:
+Write a passage about cats that is concise:
+
+Cats are small carnivorous mammals of the Felidae family. Cats have been domesticated since ancient times and are kept as pets in many households. They are known for their hunting skills and their ability to climb trees.
+---------------------------

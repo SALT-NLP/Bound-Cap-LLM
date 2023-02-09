@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph with five sentences about cats:
+
+There are many domesticated cats in the world. They are often kept as pets, but have also been known to be useful in controlling vermin. Cats have sharp claws and teeth, which they use for hunting and self-defense. They are also known for their agility, and can jump great heights and distances. Domestic cats typically live for around twelve to fifteen years.
+---------------------------
+response 1:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be trained to use a litter box. Cats are also known for being very affectionate, and they will often seek out their owner's attention. Cats are a relatively low-maintenance pet, and they can live for many years with proper care.
+---------------------------
+response 2:
+Write a paragraph with five sentences about cats:
+
+I have a cat. Her name is Lily. Lily is a calico cat. She is very sweet. I got her when she was a kitten. Lily is two years old.
+---------------------------
+response 3:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Jasper and he is very cute. He is also very lazy and sleeps a lot. When he is awake, he likes to sit in the sun and watch the birds. He is a very good cat.
+---------------------------
+response 4:
+Write a paragraph with five sentences about cats:
+
+I think cats are amazing creatures. I have always loved cats and have been fascinated by them. I currently have two cats and they are both very different. One is very active and loves to play, while the other is more laid back and enjoys cuddling. I think cats are unique in the way they interact with humans and I enjoy spending time with them.
+---------------------------
+response 5:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the world. They are known for being independent, but also affectionate with their owners. Cats typically live for around 15 years, although some can live much longer. They are low maintenance pets that don't need to be walked, but do need a litter box.
+---------------------------
+response 6:
+Write a paragraph with five sentences about cats:
+
+I love cats. I think they are so cute and I love how they purr. I have two cats, Sushi and Mochi. Sushi is a calico and Mochi is a tabby. I got them both from a local shelter. I love spending time with my cats, playing with them and just watching them sleep.
+---------------------------
+response 7:
+Write a paragraph with five sentences about cats:
+
+I have always loved cats. When I was younger, I had a cat named Socks. He was an all black cat with white paws. I loved him so much. I used to dress him up in doll clothes and push him around in a baby stroller. My mom used to get so mad at me, but I thought it was hilarious. These days, I don't have a cat of my own, but I love spending time with my friends' cats.
+---------------------------
+response 8:
+Write a paragraph with five sentences about cats:
+
+There are many different types of cats in the world. Some are big, some are small, and some are in between. All cats have fur, and most have four legs and a tail. Cats are interesting creatures, and many people enjoy watching them. Some people even keep cats as pets.
+---------------------------
+response 9:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Jasper. He's a good cat. He's a little bit lazy, but he's a good cat. He likes to sleep a lot. He's a good cat.
+---------------------------

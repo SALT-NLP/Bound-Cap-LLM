@@ -1,0 +1,60 @@
+response 0:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai, on China's central coast, is the country's biggest city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district's futuristic skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Shanghai Disneyland Resort is based on California's Disneyland.
+---------------------------
+response 1:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai is a city in China. The city is located on the east coast of the country and is the largest city in China. The city has a population of over 24 million people. The city is a major financial center and is home to the Shanghai Stock Exchange. The city is also a major center for tourism and is home to many of the country's largest businesses. The city has a rich history and is home to many of China's most important historical sites.
+---------------------------
+response 2:
+Write a paragraph about Shanghai with 10 sentences:
+
+
+
+Shanghai is a bustling metropolis with a rich history. Located on the Yangtze River Delta, it is the largest city in China and one of the most populous in the world. A global financial center, it is home to the Shanghai Stock Exchange and many major banks. The city is also a major center for industry and commerce.
+
+Shanghai's history dates back over a thousand years. It was a small fishing village during the Tang Dynasty, but grew into a major port during the Song Dynasty. In the 14th century, it became a center of international trade. The city was occupied by the British in the 19th century and became a treaty port.
+
+Today, Shanghai is a modern city with a skyline of skyscrapers. It is a major tourist destination, with attractions like the Bund, Yu Garden, and the Jade Buddha Temple. The city is also home to many museums and art galleries.
+---------------------------
+response 3:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a population of more than 24 million. As one of the three largest economic centers in mainland China, Shanghai is also a leading global city, with influence in commerce, culture, finance, media, fashion, technology and transport. It is a global financial center and the busiest container port in the world.
+
+Shanghai's history dates back to the 7th century when it was a small fishing village. In the late 19th century, it became a major concession of foreign powers and the site of a large number of industries. The city was occupied by Japan during World War II but returned to China in 1945. Since then, it has been a major center of economic growth in China.
+
+Today, Shanghai is a major metropolis with a skyline of skyscrapers. It is home to many of China's largest companies and financial institutions, and is a popular tourist destination. The city is also known for its unique blend of East and West, with a mix of traditional Chinese and colonial architecture.
+---------------------------
+response 4:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai is a metropolitan city in China that is rich in culture and history. The city is located on the Yangtze River Delta and is the country's most populous city. Shanghai has a long history dating back to the Tang dynasty. The city has been a major center of trade and commerce for centuries. Shanghai is also a major financial center and is home to the Shanghai Stock Exchange. The city is a major tourist destination and is known for its skyline, which includes the iconic Oriental Pearl Tower.
+---------------------------
+response 5:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai is the most populous city in the world and one of the four direct-controlled municipalities of China. It is a global financial center and transport hub, with the world's busiest container port. Located in the Yangtze River Delta, it sits on the south edge of the estuary of the Yangtze in the middle portion of the East China coast. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south and west, and is bounded to the east by the East China Sea.
+---------------------------
+response 6:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai, on the east coast of China, is the country's largest city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district's futuristic skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Shanghai Disneyland Resort is based on California's Disneyland.
+---------------------------
+response 7:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai, on China's central coast, is the country's biggest city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district's futuristic skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Shanghai Disneyland Resort is home to an enchated castle.
+---------------------------
+response 8:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai is one of the most populous cities in the world, with over 24 million people. It is a global financial center, and has been called the "New York of the East." Shanghai is a major transportation hub, with the world's busiest container port. It is also a popular tourist destination, with many historical landmarks and cultural attractions. The city is home to many universities and research institutes, as well as a growing number of startups and tech companies.
+---------------------------
+response 9:
+Write a paragraph about Shanghai with 10 sentences:
+
+Shanghai, located on the east coast of China, is one of the most populous cities in the world with over 24 million people. The city is a major financial center and home to the Shanghai Stock Exchange. Shanghai has a long history dating back over 700 years. The city was a major center of trade and commerce in the 19th and early 20th centuries. During the Second World War, the city was occupied by the Japanese. After the war, Shanghai became a major center of industry and manufacturing. Today, the city is a major tourist destination with its many attractions, including the Bund, Yu Garden, and Nanjing Road.
+---------------------------

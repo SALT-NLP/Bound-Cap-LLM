@@ -1,0 +1,73 @@
+response 0:
+Code Python code that sums two integers up:
+
+a = 1
+b = 2
+print(a + b)
+---------------------------
+response 1:
+Code Python code that sums two integers up:
+
+a = 1
+b = 2
+
+c = a + b
+---------------------------
+response 2:
+Code Python code that sums two integers up:
+
+def sum(a, b):
+
+return a + b
+---------------------------
+response 3:
+Code Python code that sums two integers up:
+
+def sum_two_ints(a, b):
+
+return a + b
+---------------------------
+response 4:
+Code Python code that sums two integers up:
+
+a = 1
+b = 2
+
+print(a + b)
+---------------------------
+response 5:
+Code Python code that sums two integers up:
+
+def sum(a, b):
+
+return a + b
+---------------------------
+response 6:
+Code Python code that sums two integers up:
+
+a = 1
+b = 2
+
+print(a + b)
+---------------------------
+response 7:
+Code Python code that sums two integers up:
+
+a = 1
+b = 2
+print(a + b)
+---------------------------
+response 8:
+Code Python code that sums two integers up:
+
+def sum(a, b):
+
+return a + b
+---------------------------
+response 9:
+Code Python code that sums two integers up:
+
+a = 1
+b = 2
+c = a + b
+---------------------------

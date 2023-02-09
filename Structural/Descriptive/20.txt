@@ -1,0 +1,50 @@
+response 0:
+Write a passage about love that is concise:
+
+Love is an emotion or feeling that is typically associated with a strong affection towards someone.
+---------------------------
+response 1:
+Write a passage about love that is concise:
+
+Love is the most powerful emotion. It can make us feel happy, sad, angry, or jealous. It can make us do things we never thought we would do. It can make us change our lives completely.
+---------------------------
+response 2:
+Write a passage about love that is concise:
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 3:
+Write a passage about love that is concise:
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 4:
+Write a passage about love that is concise:
+
+Love is an emotion or feeling that is typically associated with a strong affection towards someone.
+---------------------------
+response 5:
+Write a passage about love that is concise:
+
+Love is a deep feeling of affection.
+---------------------------
+response 6:
+Write a passage about love that is concise:
+
+Love is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.
+---------------------------
+response 7:
+Write a passage about love that is concise:
+
+Love is a deep feeling of affection.
+---------------------------
+response 8:
+Write a passage about love that is concise:
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 9:
+Write a passage about love that is concise:
+
+Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is something that should be nurtured and taken care of.
+---------------------------

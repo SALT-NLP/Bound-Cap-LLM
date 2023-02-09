@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about running:
+
+I love to run because it makes me feel alive and free.
+---------------------------
+response 1:
+Write a sentence with twenty words about running:
+
+I love to run because it makes me feel free and alive.
+---------------------------
+response 2:
+Write a sentence with twenty words about running:
+
+I never tire of the feeling of my feet hitting the ground as I run.
+---------------------------
+response 3:
+Write a sentence with twenty words about running:
+
+I never get tired of the feeling of the wind in my hair while I'm running.
+---------------------------
+response 4:
+Write a sentence with twenty words about running:
+
+I love feeling the wind in my hair as I run.
+---------------------------
+response 5:
+Write a sentence with twenty words about running:
+
+I love the feeling of the wind in my hair as I run.
+---------------------------
+response 6:
+Write a sentence with twenty words about running:
+
+I enjoy running because it helps me clear my head and relax.
+---------------------------
+response 7:
+Write a sentence with twenty words about running:
+
+I love to run because it makes me feel free and alive.
+---------------------------
+response 8:
+Write a sentence with twenty words about running:
+
+I enjoy running because it helps me to stay in shape.
+---------------------------
+response 9:
+Write a sentence with twenty words about running:
+
+I run because it makes me feel good.
+---------------------------

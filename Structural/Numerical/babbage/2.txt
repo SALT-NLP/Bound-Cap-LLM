@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about running:
+
+Running is one of the best ways to get your heart rate up and help you burn calories.
+---------------------------
+response 1:
+Write a sentence with five words about running:
+
+Running is a great way to get your exercise and make your body feel good.
+---------------------------
+response 2:
+Write a sentence with five words about running:
+
+Running is a great way to get your heart rate up and help you lose weight.
+---------------------------
+response 3:
+Write a sentence with five words about running:
+
+Running is a great way to get your heart rate up and force your body to work hard.
+---------------------------
+response 4:
+Write a sentence with five words about running:
+
+Running is an essential part of a well-rounded fitness routine. Running helps you move and get your heart rate up.
+---------------------------
+response 5:
+Write a sentence with five words about running:
+
+Running is a great way to get your heart rate up and help burn calories.
+---------------------------
+response 6:
+Write a sentence with five words about running:
+
+Running is a great exercise for your body and mind. It allows you to move quickly and cover a lot of ground.
+---------------------------
+response 7:
+Write a sentence with five words about running:
+
+Running is one of the best ways to get your body moving. It helps you get your heart rate up, improve your balance, and improve your stamina.
+---------------------------
+response 8:
+Write a sentence with five words about running:
+
+Running is a great way to get exercise and help improve your mood.
+---------------------------
+response 9:
+Write a sentence with five words about running:
+
+Running is an excellent way to keep your body moving and maintained.
+---------------------------

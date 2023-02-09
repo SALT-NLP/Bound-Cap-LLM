@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFouoOE0Xdk7N42DXxhALal9Y0o",
+    "object": "text_completion",
+    "created": 1664544124,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is a great way to get your heart rate up and help improve your fitness level. It also gives you a sense of accomplishment when you complete a race. There are a variety of running races available, from easy to hard, so you can find a race that is right for you. There are also running clinics available to help you learn more about running and start running for fun.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is a great way to get your body moving and get a good workout. It can help improve your balance, coordination, and stamina. Running also helps you release stress and tension in your body.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is a great way to get your heart rate up and help you stay motivated. It\u2019s also great for your body, as running can help improve your balance, flexibility, and strength. If you\u2019re new to running, be sure to start with a slowly increasing intensity until you\u2019re comfortable with it. In addition, make sure to follow a consistent routine to help you stay motivated.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is a great way to exercise. It is also a great way to get your heart rate up and help you feel better. It is important to be aware of the risks and rewards of running.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is one of the most popular activities in the world. It is a great way to keep your body moving and your mind active. Running can also be a great way to stay healthy and fit. There are many different types of running, and each has its own benefits. Running can help you lose weight, improve your mood, and improve your overall health. It is also a great way to get your exercise and stay fit.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is one of the best ways to get your exercise and improve your health. Running can help you lose weight, improve your mood, reduce your risk for heart disease, and improve your flexibility. Running can also help you improve your balance and coordination.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is great for fitness and health. It challenges the body and mind and can help you stay active and healthy. Running can be a fun and rewarding activity, too. Here are ten ways running can help you stay healthy and fit.\n\n1. Running can help reduce your risk of developing various types of cancer.\n\n2. Running can help improve your cognitive function and memory.\n\n3. Running can help improve your cardiovascular health by reducing your risk of heart disease.\n\n4. Running can help improve your mood and relieve stress.\n\n5. Running can help improve your sleep quality.\n\n6. Running can help improve your Order of Kinetics, or your rate of speed.\n\n7. Running can help improve your flexibility.\n\n8. Running can help improve your agility.\n\n9. Running can help improve your reflexes.\n\n10. Running can help improve your mood and overall health.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is an excellent way to get exercise and have fun. It is a great way to stay healthy and fit. Running can help you lose weight and improve your mood. Running can help you stay healthy and fit.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is one of the most popular activities on earth. It can be a great way to improve your fitness, morale, and overall health. There are many different ways to run, and each person has their own unique strengths and weaknesses. The important thing is to find a way to run that works best for you and your goals.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\nRunning is one of the best exercises you can do to improve your fitness and overall health. Running can help improve your breathing, blood flow, and overall exercise capacity. Running can also improve your mood, reduce stress, and improve your overall physical health.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 746,
+        "total_tokens": 755
+    }
+}

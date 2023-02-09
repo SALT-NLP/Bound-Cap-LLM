@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about Elon Musk with 10 words:
+
+Elon Musk is the founder of Tesla Motors.
+---------------------------
+response 1:
+Write a sentence about Elon Musk with 10 words:
+
+Elon Musk is the founder of Tesla, SpaceX, and SolarCity.
+---------------------------
+response 2:
+Write a sentence about Elon Musk with 10 words:
+
+He is an entrepreneur and business magnate.
+---------------------------
+response 3:
+Write a sentence about Elon Musk with 10 words:
+
+He is the founder of SpaceX and Tesla Motors.
+---------------------------
+response 4:
+Write a sentence about Elon Musk with 10 words:
+
+Elon Musk is a business magnate, industrial designer, and engineer.
+---------------------------
+response 5:
+Write a sentence about Elon Musk with 10 words:
+
+Elon Musk is the founder of SpaceX.
+---------------------------
+response 6:
+Write a sentence about Elon Musk with 10 words:
+
+Elon Musk is the founder of Tesla Motors.
+---------------------------
+response 7:
+Write a sentence about Elon Musk with 10 words:
+
+He is the founder of SpaceX and Tesla Motors.
+---------------------------
+response 8:
+Write a sentence about Elon Musk with 10 words:
+
+Billionaire CEO of Tesla and SpaceX
+---------------------------
+response 9:
+Write a sentence about Elon Musk with 10 words:
+
+Elon Musk is the founder of Tesla Motors.
+---------------------------

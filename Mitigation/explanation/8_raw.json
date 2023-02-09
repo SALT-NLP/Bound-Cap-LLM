@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5orm6Oj0LKwLSrrwDwR3DPiuFHKQf",
+    "object": "text_completion",
+    "created": 1662804794,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nLove is a feeling of strong attachment or admiration and caring for someone or something. Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often physical and emotional, and is a source of comfort and security. It can also be used to describe non-romantic feelings such as the love for one's parents, children, or friends. Love is something that many people strive for and hope to experience in their lifetime.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a strong emotion. It can make you feel happy, sad, angry, and everything in between. It's a feeling that is hard to describe. When you're in love, you just know it. You can't explain it, but you just feel it. It's a beautiful feeling. It's something that everyone should experience. It's worth fighting for. It's worth being patient for. It's worth everything.\n\nExplanation: This is a paragraph and there are ten sentences in it: ['Love is a strong emotion.', 'It can make you feel happy, sad, angry, and everything in between.', \"It's a feeling that is hard to describe.\", \"When you're in love, you just know it.\", \"You can't explain it, but you just feel it.\", \"It's a beautiful feeling.\", \"It's something that everyone should experience.\", \"It's worth fighting for.\", \"It's worth being patient for.\", \"It's worth everything.\"]",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is the most amazing feeling in the world. It makes you feel happy, sad, angry, and everything in between. It's confusing and frustrating, but also the best thing that's ever happened to you. It's worth fighting for, and worth every single tear that you cry. It's worth everything that you go through, because in the end, it's worth it.\n\nExplanation: This is a paragraph and there are ten sentences in it: ['Love is the most amazing feeling in the world.', 'It makes you feel happy, sad, angry, and everything in between.', \"It's confusing and frustrating, but also the best thing that's ever happened to you.\", \"It's worth fighting for, and worth every single tear that you cry.\", \"It's worth everything that you go through, because in the end, it's worth it.\"]",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a very strong emotion. It can make you feel happy, sad, angry, and everything in between. When you're in love, you always want to be with that person. You miss them when they're gone. You can't help but smile when you think of them. Love is something that everyone experiences at some point in their life. It's a feeling that you can't explain, but you know when you feel it. Love is something that makes you a better person. It's worth fighting for. And no matter what, love always prevails.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a feeling of strong attachment or admiration and caring for someone or something. It can be platonic, romantic, familial, or spiritual. Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often physical and emotional, and is a source of comfort and security. It can also be blind, all-consuming, and lead to codependency. Love is a powerful emotion that should be expressed in healthy ways.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a strong emotion. It can make you feel happy, sad, angry, and everything in between. Love is something that you feel for another person. It is a special bond that you share with someone. Love is something that you want to last forever. It is something that you are willing to fight for. Love is something that you would do anything for. It is something that you cherish. Love is something that you never want to lose.\n\nExplanation: This is a paragraph and there are ten sentences in it: ['Love is a strong emotion.', 'It can make you feel happy, sad, angry, and everything in between.', 'Love is something that you feel for another person.', 'It is a special bond that you share with someone.', 'Love is something that you want to last forever.', 'It is something that you are willing to fight for.', 'Love is something that you would do anything for.', 'It is something that you cherish.', 'Love is something that you never want to lose.']",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a very strong emotion. It can make you feel very happy. It can also make you feel very sad. When you love someone, you care about them a lot. You also trust them. You would do anything for them. You would also do anything to make them happy. Love is a very special feeling.\n\nExplanation: This is a paragraph and there are ten sentences in it: ['Love is a very strong emotion.', 'It can make you feel very happy.', 'It can also make you feel very sad.', 'When you love someone, you care about them a lot.', 'You also trust them.', 'You would do anything for them.', 'You would also do anything to make them happy.', 'Love is a very special feeling.']",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a feeling of strong attachment or admiration and caring for someone or something. It can be between friends, family, pets, and even inanimate objects. Love is often described as a strong, passionate emotion. It can also be a feeling of strong affinity or liking for someone. Love is often seen as a virtue, and is considered an important part of a happy life.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a beautiful thing. It can make you feel happy, sad, angry, excited, and a million other emotions. It can be overwhelming, but it's worth it. Love is something that you feel in your heart. It's something that you can't explain, but you know it when you feel it. It's something that makes you want to be a better person. It's something that makes you want to do anything to make the person you love happy. It's something that you would do anything for. Love is worth everything.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a strong emotion. It can make you feel happy, sad, scared, and everything in between. It's something that you can't explain, you just feel it. When you're in love, you always want to be around that person. You can't get enough of them. You would do anything for them. You would give them the world if you could. That's how strong love is.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 180,
+        "completion_tokens": 1368,
+        "total_tokens": 1548
+    }
+}

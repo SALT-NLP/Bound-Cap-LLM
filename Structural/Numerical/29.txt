@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is the most populous city in the world.
+---------------------------
+response 1:
+Write a sentence with twenty words about Shanghai:
+
+I never expected to fall in love with Shanghai, but I did.
+---------------------------
+response 2:
+Write a sentence with twenty words about Shanghai:
+
+ Shanghai is a big city located in China. It is a bustling metropolis with a lot of people and tall buildings.
+---------------------------
+response 3:
+Write a sentence with twenty words about Shanghai:
+
+The Bund is a waterfront area in central Shanghai.
+---------------------------
+response 4:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a city located in China. It is the most populous city in the country.
+---------------------------
+response 5:
+Write a sentence with twenty words about Shanghai:
+
+The Bund is a waterfront area in central Shanghai.
+---------------------------
+response 6:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a city located in China. It is the country's largest city.
+---------------------------
+response 7:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a bustling metropolis with a rich cultural heritage.
+---------------------------
+response 8:
+Write a sentence with twenty words about Shanghai:
+
+The Bund is a waterfront area in central Shanghai.
+---------------------------
+response 9:
+Write a sentence with twenty words about Shanghai:
+
+Shanghai is a city in China with a population of over 24 million people.
+---------------------------

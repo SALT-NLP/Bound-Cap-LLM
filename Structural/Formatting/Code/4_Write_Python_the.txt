@@ -1,0 +1,149 @@
+response 0:
+Write Python code that plays the game of war:
+
+1. Create a deck of 52 cards.
+2. Shuffle the deck.
+3. Deal the cards to the two players.
+4. Each player turns up a card at the same time and the player with the higher card takes both cards and puts them, face down, at the bottom of his stack.
+5. If the two cards are the same, each player puts a card face down and then turns up another card. The player with the higher card takes all four cards and puts them, face down, at the bottom of his stack.
+6. The game is over when one player has all the cards.
+---------------------------
+response 1:
+Write Python code that plays the game of war:
+
+1. Create a deck of 52 cards.
+2. Shuffle the deck.
+3. Deal the cards to the two players.
+4. Each player flips over a card.
+5. The player with the higher card wins the round and takes both cards (puts them at the bottom of their deck).
+6. If the players flip over the same card, it's a tie. Both players put the card back in their deck and each draw another card. The first player to play a card in the tie wins the round.
+7. The game is over when one player runs out of cards. The other player is the winner.
+---------------------------
+response 2:
+Write Python code that plays the game of war:
+
+1. Create a deck of 52 cards.
+2. Shuffle the deck.
+3. Deal the cards to the two players.
+4. Each player flips over the top card of their deck.
+5. The player with the higher card takes both cards and puts them at the bottom of their deck.
+6. If the two cards are equal, each player flips over another card. The first player to have a higher card wins the war and takes all the cards.
+7. The game is over when one player has all the cards.
+---------------------------
+response 3:
+Write Python code that plays the game of war:
+
+The game of war is a simple card game played with a standard 52-card deck. The object of the game is to win all of the cards.
+
+The game is played as follows:
+
+1. Shuffle the deck and deal the cards evenly to the two players.
+
+2. Each player turns up a card at the same time and the player with the highest card takes both cards and puts them, face down, at the bottom of his stack.
+
+3. If the two players turn up the same card, then there is a "war." Both players place the next three cards of their stack face down and then turn up the fourth card. The player with the higher fourth card takes all the cards. If the fourth cards are also the same, then each player places another card face down and turns up the fifth card. The player with the higher fifth card takes all the cards. This process continues until one player has all the cards.
+---------------------------
+response 4:
+Write Python code that plays the game of war:
+
+The game of war is a simple card game played with a standard 52-card deck. The objective of the game is to capture all of the cards from the other player.
+
+The game is played as follows:
+
+1. Each player is dealt 26 cards, face down.
+
+2. Each player flips over the top card of their deck.
+
+3. The player with the higher card captures both cards and puts them at the bottom of their deck.
+
+4. If the two cards are of equal value, then each player flips over another card from the top of their deck. The first player to flip over a higher card captures all of the cards from that turn.
+
+5. The game ends when one player has captured all of the cards from the other player.
+---------------------------
+response 5:
+Write Python code that plays the game of war:
+
+The game of war is a card game played with a standard deck of 52 cards. The objective of the game is to win all of the cards. The game is played with two players.
+
+The game begins with each player being dealt 26 cards. The players then take turns playing one card at a time. The player who plays the highest card wins the hand and takes all of the cards that were played. The Ace is the highest card, followed by the King, Queen, Jack, and 10. If both players play the same card, then a "war" is declared and each player must play two more cards. The player who plays the highest card wins the hand, and takes all of the cards that were played.
+
+If one player runs out of cards, then that player loses the game.
+---------------------------
+response 6:
+Write Python code that plays the game of war:
+
+
+
+The game of war is a simple card game played with a standard deck of 52 cards. The object of the game is to capture all of the cards in the deck. The deck is divided evenly between the two players, with each player receiving 26 cards. The players then take turns playing cards, with the player who plays the highest card taking all of the cards played in that particular turn. If the two highest cards played are of the same rank, then the players each take one card from the deck and play another card. This process continues until one player has won all of the cards.
+---------------------------
+response 7:
+Write Python code that plays the game of war:
+
+1. Create a deck of 52 cards.
+2. Shuffle the deck.
+3. Deal 26 cards to each player.
+4. Each player sorts their cards.
+5. Play begins!
+
+Cards are played one at a time.
+
+The player with the highest card wins the round and takes both cards.
+
+If both players play the same card, then it's a war!
+
+Both players put down three cards face down, then one card face up.
+
+The player with the highest card face up wins the war and takes all the cards.
+
+If both players play the same card face up, then it's another war!
+
+This repeats until one player has all the cards.
+---------------------------
+response 8:
+Write Python code that plays the game of war:
+
+1. Create a deck of 52 cards.
+2. Shuffle the deck.
+3. Deal the cards to the two players.
+4. Each player turns up a card at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of his stack.
+5. If the two cards are the same, each player places a card face down and then turns another card face up. The first player to turn up a card wins the war and takes all 10 cards.
+6. The game ends when one player has all the cards.
+---------------------------
+response 9:
+Write Python code that plays the game of war:
++
++The game of war is a simple card game where two players compete to see who can collect the most cards. Each player is dealt a deck of cards, and the player with the most cards at the end of the game wins.
++
++To play the game of war, each player flips over a card from their deck. The player with the highest card takes both cards and puts them at the bottom of their deck. If the two cards are of equal value, then both players put a card from their deck into the middle of the table and the next card flipped is used to determine the winner of the war. The player who wins the war takes all the cards from the middle of the table and puts them at the bottom of their deck.
++
++The game is over when one player has no more cards in their deck. The player with the most cards in their deck at the end of the game is the winner.
++
++
++def war(deck1, deck2):
++
++    while len(deck1) > 0 and len(deck2) > 0:
++
++        card1 = deck1.pop(0)
++        card2 = deck2.pop(0)
++
++        if card1 > card2:
++            deck1.append(card1)
++            deck1.append(card2)
++        elif card2 > card1:
++            deck2.append(card2)
++            deck2.append(card1)
++        else:
++            war(deck1, deck2)
++
++    if len(deck1) == 0:
++        print "Player 2 wins!"
++    elif len(deck2) == 0:
++        print "Player 1 wins!"
++
++
++player1 = [2, 7, 5, 4, 3, 9, 8, 10, 6, 14, 12, 11, 13, 1]
++player2 = [2, 7, 5, 4, 3, 9, 8, 10, 6, 14, 12, 11, 13, 1]
++
++war(player1, player2)
+
+---------------------------

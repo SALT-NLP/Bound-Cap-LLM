@@ -1,0 +1,221 @@
+response 0:
+Code Python code that plays the game of war:
+
+def war(deck1, deck2):
+    while len(deck1) > 0 and len(deck2) > 0:
+        card1 = deck1.pop(0)
+        card2 = deck2.pop(0)
+        if card1 > card2:
+            deck1.append(card1)
+            deck1.append(card2)
+        elif card2 > card1:
+            deck2.append(card2)
+            deck2.append(card1)
+        else:
+            war(deck1, deck2)
+    return deck1, deck2
+---------------------------
+response 1:
+Code Python code that plays the game of war:
+
+import random def main(): print("Welcome to the game of war!") p1 = input("What is player 1's name? ") p2 = input("What is player 2's name? ") deck = create_deck() print("
+
+Dealing cards...") player1, player2 = deal_cards(deck) print(p1 + " has been dealt: " + str(player1)) print(p2 + " has been dealt: " + str(player2)) print("
+
+Playing war...") winner = play_war(player1, player2) print("
+
+And the winner is... " + winner + "!") def create_deck(): """Creates a deck of 52 playing cards.""" ranks = ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King'] suits = ['Spades', 'Hearts', 'Diamonds', 'Clubs'] deck = [] for suit in suits: for rank in ranks: card = rank + " of " + suit deck.append(card) return deck def deal_cards(deck): """Deals 26 cards to each player.""" random.shuffle(deck) player1 = deck[:26] player2 = deck[26:] return player1, player2 def play_war(player1, player2): """Plays the game of war.""" while len(player1) > 0 and len(player2) > 0: # Each player draws a card. card1 = player1.pop(0) card2 = player2.pop(0) # Compare the two cards. if card1 > card2: # Player 1 wins the round and gets to keep # both cards. player1.append(card1) player1.append(card2) elif card1 < card2: # Player 2 wins the round and gets to keep # both cards. player2.append(card1) player2.append(card2) else: # It's a tie! Each player draws three cards # from their deck and adds them to their # hand. If a player doesn't have enough # cards, they draw as many as they can. tie1 = player1[:3] tie2 = player2[:3] player1 = player1[3:] player2 = player2[3:] # Compare the last card drawn by each player. if tie1[-1] > tie2[-1]: # Player 1 wins the tie and gets to keep all # six cards. player1.extend(tie1) player1.extend(tie2) elif tie1[-1] < tie2[-1]: # Player 2 wins the tie and gets to keep all # six cards. player2.extend(tie1) player2.extend(tie2) # Determine the winner. if len(player1) == 0: winner = "Player 2" else: winner = "Player 1" return winner main()
+---------------------------
+response 2:
+Code Python code that plays the game of war:
+
+from random import shuffle
+
+# This is the list of cards. A card is represented by a tuple. The first element of the tuple is the card's value, and the second element is the card's suit.
+cards = [(4, 'spades'), (7, 'hearts'), (11, 'clubs'), (8, 'diamonds'), (14, 'spades'), (2, 'diamonds'), (9, 'clubs'), (12, 'spades'), (6, 'clubs'), (5, 'diamonds'), (3, 'hearts'), (13, 'diamonds'), (1, 'spades')]
+
+# Shuffle the cards
+shuffle(cards)
+
+# Print the cards
+print(cards)
+---------------------------
+response 3:
+Code Python code that plays the game of war:
+
+from random import shuffle
+
+def play_war():
+    suits = ['hearts', 'clubs', 'diamonds', 'spades']
+    values = range(2, 15)
+    deck = ['%s_%s' % (s, v) for v in values for s in suits]
+
+    player1 = []
+    player2 = []
+
+    while len(deck) >= 26:
+        shuffle(deck)
+        player1 = deck[:26]
+        player2 = deck[26:]
+
+    while len(player1) > 0 and len(player2) > 0:
+        card1 = player1.pop(0)
+        card2 = player2.pop(0)
+
+        print 'player1 plays %s' % card1
+        print 'player2 plays %s' % card2
+
+        value1 = values[int(card1.split('_')[1]) - 2]
+        value2 = values[int(card2.split('_')[1]) - 2]
+
+        if value1 > value2:
+            print 'player1 wins the hand'
+            player1.extend([card1, card2])
+        elif value1 < value2:
+            print 'player2 wins the hand'
+            player2.extend([card1, card2])
+        else:
+            print 'war!'
+            player1.extend([card1, card2])
+            player1.extend(player1.pop(0) for i in range(4))
+            player2.extend(player2.pop(0) for i in range(4))
+
+    if len(player1) > 0:
+        print 'player1 wins!'
+    else:
+        print 'player2 wins!'
+
+play_war()
+---------------------------
+response 4:
+Code Python code that plays the game of war:
+
+It's simple. The player with the higher card wins the hand, and the first player to win 10 hands is the winner of the game.
+
+import random def war(): #initialize variables player1_score = 0 player2_score = 0 while player1_score < 10 and player2_score < 10: #deal cards player1_card = random.randint(1, 13) player2_card = random.randint(1, 13) #compare cards if player1_card > player2_card: player1_score += 1 print("Player 1 wins this hand.") elif player1_card < player2_card: player2_score += 1 print("Player 2 wins this hand.") else: print("It's a tie!") #print score print("The score is:") print("Player 1:", player1_score) print("Player 2:", player2_score) #determine and print winner if player1_score == 10: print("Player 1 wins the game!") elif player2_score == 10: print("Player 2 wins the game!") war()
+---------------------------
+response 5:
+Code Python code that plays the game of war:
+
+def war(deck1, deck2):
+ while len(deck1) > 0 and len(deck2) > 0:
+  card1 = deck1.pop()
+  card2 = deck2.pop()
+  if card1 > card2:
+   deck1.insert(0, card1)
+   deck1.insert(0, card2)
+  elif card2 > card1:
+   deck2.insert(0, card2)
+   deck2.insert(0, card1)
+  else:
+   war_cards = []
+   for i in range(3):
+    if len(deck1) == 0 or len(deck2) == 0:
+     break
+    war_cards.append(deck1.pop())
+    war_cards.append(deck2.pop())
+   if card1 > card2:
+    deck1.extend(war_cards)
+   else:
+    deck2.extend(war_cards)
+ return deck1, deck2
+---------------------------
+response 6:
+Code Python code that plays the game of war:
+
+def war(deck_1, deck_2):
+    while len(deck_1) > 0 and len(deck_2) > 0:
+        card_1 = deck_1.pop(0)
+        card_2 = deck_2.pop(0)
+        if card_1 > card_2:
+            deck_1.append(card_1)
+            deck_1.append(card_2)
+        else:
+            deck_2.append(card_2)
+            deck_2.append(card_1)
+    if len(deck_1) > 0:
+        return "Player 1 wins!"
+    else:
+        return "Player 2 wins!"
+---------------------------
+response 7:
+Code Python code that plays the game of war:
+
+#!/usr/bin/env python3
+
+import random
+
+def main():
+    print("Welcome to War!")
+
+    num_cards = int(input("How many cards do you want to play with? "))
+    while num_cards < 26:
+        print("You must have at least 26 cards to play War!")
+        num_cards = int(input("How many cards do you want to play with? "))
+
+    # Create two decks of cards, one for each player
+    player1_cards = []
+    player2_cards = []
+    for i in range(num_cards):
+        player1_cards.append(random.randint(1, num_cards))
+        player2_cards.append(random.randint(1, num_cards))
+
+    # Play the game!
+    while len(player1_cards) > 0 and len(player2_cards) > 0:
+        # Each player draws a card
+        player1_card = player1_cards.pop(0)
+        player2_card = player2_cards.pop(0)
+
+        # Compare the two cards
+        if player1_card > player2_card:
+            # Player 1 wins!
+            player1_cards.append(player1_card)
+            player1_cards.append(player2_card)
+        elif player2_card > player1_card:
+            # Player 2 wins!
+            player2_cards.append(player1_card)
+            player2_cards.append(player2_card)
+        else:
+            # It's a tie!
+            print("It's a tie!")
+
+    # Determine the winner
+    if len(player1_cards) > len(player2_cards):
+        print("Player 1 wins!")
+    elif len(player2_cards) > len(player1_cards):
+        print("Player 2 wins!")
+    else:
+        print("It's a tie!")
+
+if __name__ == "__main__":
+    main()
+---------------------------
+response 8:
+Code Python code that plays the game of war:
+
+The following code simulates the game of war. It shuffles a deck of cards, deals them out to two players, and then has each player take turns drawing cards from their deck and comparing them. The higher card wins, and the winner takes both cards and adds them to the bottom of their deck. If there is a tie, then each player puts one card in the middle and the winner of the next draw takes all four cards.
+
+import random def main(): print("Welcome to War!") # Create two decks of cards deck1 = create_deck() deck2 = create_deck() # Shuffle the decks random.shuffle(deck1) random.shuffle(deck2) # Deal the cards player1 = deck1[:26] player2 = deck2[:26] # Play the game while len(player1) > 0 and len(player2) > 0: # Each player draws one card card1 = player1.pop(0) card2 = player2.pop(0) print("Player 1 draws:", card1) print("Player 2 draws:", card2) # Compare the cards if card1 > card2: print("Player 1 wins the round") player1.append(card1) player1.append(card2) elif card2 > card1: print("Player 2 wins the round") player2.append(card1) player2.append(card2) else: print("It's a tie!") # Put the cards in the middle middle = [card1, card2] # Play the next round while card1 == card2: print("Tie! Each player puts one card in the middle") card1 = player1.pop(0) card2 = player2.pop(0) print("Player 1 draws:", card1) print("Player 2 draws:", card2) middle.append(card1) middle.append(card2) # Compare the cards again if card1 > card2: print("Player 1 wins the round") player1.extend(middle) elif card2 > card1: print("Player 2 wins the round") player2.extend(middle) # Check for a winner if len(player1) == 0: print("Player 2 wins the game!") elif len(player2) == 0: print("Player 1 wins the game!") else: print("The game is a draw!") def create_deck(): """Create a deck of 52 cards""" deck = [] for suit in ['Hearts', 'Diamonds', 'Clubs', 'Spades']: for rank in ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King']: deck.append(rank + ' of ' + suit) return deck if __name__ == '__main__': main()
+---------------------------
+response 9:
+Code Python code that plays the game of war:
+
+def war(deck1, deck2):
+    while len(deck1) > 0 and len(deck2) > 0:
+        card1 = deck1.pop(0)
+        card2 = deck2.pop(0)
+        if card1 > card2:
+            deck1.append(card1)
+            deck1.append(card2)
+        elif card2 > card1:
+            deck2.append(card2)
+            deck2.append(card1)
+        else:
+            war(deck1, deck2)
+    if len(deck1) > 0:
+        print "Player 1 wins!"
+    elif len(deck2) > 0:
+        print "Player 2 wins!"
+    else:
+        print "It's a tie!"
+---------------------------

@@ -1,0 +1,3 @@
+A paragraph is a distinct section of a piece of writing, and is indicated by a new line or indentation.
+
+Write a passage with five paragraphs about running:

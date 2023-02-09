@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5w7h37bD6O5AmsqBnTrNrPql9VXri",
+    "object": "text_completion",
+    "created": 1664534281,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a type of aerobic exercise that helps improve your cardiovascular health. It is a low-impact activity that can be performed anywhere, making it a convenient workout option. When running, your bodyweight is supported by your legs, making it a relatively safe activity. Additionally, running is an efficient way to burn calories and can help you lose weight.\n\nTo get started, all you need is a pair of comfortable shoes and some open space. Start by walking at a moderate pace for a few minutes to warm up your muscles. Then, begin running at a comfortable pace. You can gradually increase your speed as you get more comfortable. If you start to feel tired, slow down and take a break. Remember to stay hydrated by drinking plenty of water before, during, and after your run.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love running. It's one of my favorite things to do. I can't think of a better way to start the day than by going for a run. It's a great way to get some exercise and clear your head at the same time. I always feel so much better after a run.\n\nI like to run with friends, but sometimes I just go by myself. It's nice to have some time to yourself to think and reflect. Running is also a great way to explore new places. I always feel like I see more of the world when I'm out running.\n\nRunning is a great way to stay in shape. It's also a great way to meet new people. I've met some of my best friends through running. We always have a great time when we go running together.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to stay in shape. It is also a great way to relieve stress. Running is a great way to get your heart rate up and to burn calories. It is also a great way to clear your head and to think more clearly. Running is a great way to stay motivated and to stay on track with your fitness goals. It is also a great way to meet new people and to make new friends.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love running. It's my favorite form of exercise. I like the feeling of the wind in my hair and the sun on my face. It's a great way to get some exercise and clear my head. I can listen to music or podcasts while I run, and it's a great way to get outside and explore. Running is also a great way to meet new people. I've made some great friends through running. It's a great way to stay healthy and fit.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nRunning is a great way to get exercise and to relieve stress. It is also a great way to explore new places. When you are running, you are able to see things that you would not be able to see if you were walking. Running is a great way to meet new people and to make new friends. It is also a great way to stay in shape. Running is a great way to get out of the house and to explore the world.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love running. It's my favorite way to stay in shape. I can go for a run anytime, anywhere. Running is a great way to relieve stress. It's also a great way to get some fresh air and enjoy the outdoors. I always feel better after a run. Running is a great way to improve your cardiovascular health. It's also a great way to build strong bones and muscles. I highly recommend running to anyone looking for a great workout.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite form of exercise. I can run anywhere, anytime, and it's a great way to get some fresh air and clear my head. I usually run for about an hour, and I always feel so good afterwards. Running is a great way to stay in shape, and it's also a great way to relieve stress. I always feel so accomplished after a good run.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite form of exercise. I can run anywhere, anytime, and it's a great way to get some fresh air and clear my head. I usually run for about 30 minutes, but sometimes I'll go for an hour if I'm feeling good. I always make sure to stretch before and after my run, and I always drink plenty of water. Running is a great way to stay in shape, and it's also a lot of fun.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI love to run. It's my favorite way to exercise. I can do it anywhere, anytime. I don't need any special equipment. I can run inside or outside. I can run in the rain or in the snow. I can run in the morning or at night. I can run alone or with friends. I can run slowly or quickly. I can run for fun or to compete.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with ten sentences about running:\n\nI started running because I wanted to get in shape. I never thought I would actually enjoy it, but I do. I love the feeling of pushing myself and seeing how far I can go. I always feel so accomplished after a run. Even if it's a short run, I know I've done something good for my body.\n\nI usually run with music, because it helps me get into a rhythm and keep going. I also find that it distracts me from how hard I'm working, which is a good thing. I don't like to focus on how tired I am, I just want to keep moving.\n\nRunning has become a part of my daily routine, and I can't imagine not doing it. It's a great way to start the day, or to blow off some steam after a long day. I'm so glad I started running, and I would encourage anyone to give it a try.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 1162,
+        "total_tokens": 1171
+    }
+}

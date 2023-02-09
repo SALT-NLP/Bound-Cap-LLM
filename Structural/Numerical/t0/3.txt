@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with ten words about love:
+
+Love is a strong, passionate emotion felt between two people.
+---------------------------

@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAdIvUQiL7Ehzg3sAB5VPyPqkl8h",
+    "object": "text_completion",
+    "created": 1664545580,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a concise passage about running:\n\nRunning is a great way to stay in shape. It is a low-impact activity that can be done anywhere. Running also releases endorphins, which can improve your mood.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nThere's something about running that just can't be beat. It's the perfect way to get some exercise while also clearing your head. And when you're done, you always feel so accomplished.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nRunning is a great way to get exercise and fresh air. It is also a great way to clear your head and relax.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nRunning is a great way to get some exercise and fresh air. It's also a great way to clear your head and relieve stress. Whether you're running for fun or running to improve your fitness, there are a few things you should keep in mind. First, make sure you have the right shoes. Second, start slowly and build up your endurance. Third, focus on your breathing. And finally, don't forget to cool down and stretch when you're finished.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nRunning is a great way to get exercise and to explore the outdoors. It is a low-impact activity that can be enjoyed by people of all ages and abilities. Running can be done almost anywhere, and it doesn't require any special equipment.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nThere's nothing quite like the feeling of hitting the open road and just letting your legs carry you. Whether you're running for fun, exercise, or competition, the sense of freedom and accomplishment is hard to beat. And with the right gear and a little know-how, anyone can enjoy the benefits of this great activity.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nRunning is a great way to stay in shape and improve your overall health. It is also a great way to relieve stress and clear your mind.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nRunning is a great way to stay in shape and improve your overall health. It is a low-impact activity that can be done anywhere, anytime. Whether you are a beginner or an experienced runner, there are many benefits to running.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nThere's nothing quite like the feeling of a good run. The wind in your hair, the sun on your face, the world flying by. It's a great way to clear your head and get some exercise. And it's something anyone can do, no matter what their level of fitness. So get out there and give it a try!",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a concise passage about running:\n\nRunning is a type of aerobic exercise that can help improve your cardiovascular health. It is a low-impact activity that can be performed anywhere, making it a convenient form of exercise. Running can also help improve your mental health by reducing stress and improving your mood.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7,
+        "completion_tokens": 525,
+        "total_tokens": 532
+    }
+}

@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about cats:
+
+I love cats because they are so cute and soft.
+---------------------------
+response 1:
+Write a sentence with ten words about cats:
+
+Cats are small, furry animals that purr and have whiskers.
+---------------------------
+response 2:
+Write a sentence with ten words about cats:
+
+Cats are small, furry animals that many people keep as pets.
+---------------------------
+response 3:
+Write a sentence with ten words about cats:
+
+Cats are small, carnivorous mammals of the Felidae family.
+---------------------------
+response 4:
+Write a sentence with ten words about cats:
+
+Cats are adorably furry creatures that make great pets.
+---------------------------
+response 5:
+Write a sentence with ten words about cats:
+
+Cats are small, furry animals that many people keep as pets.
+---------------------------
+response 6:
+Write a sentence with ten words about cats:
+
+I love cats because they are so cute and cuddly.
+---------------------------
+response 7:
+Write a sentence with ten words about cats:
+
+I love cats because they are so cute and cuddly.
+---------------------------
+response 8:
+Write a sentence with ten words about cats:
+
+I have a cat and she is the best.
+---------------------------
+response 9:
+Write a sentence with ten words about cats:
+
+I love cats because they are so cute and fluffy.
+---------------------------

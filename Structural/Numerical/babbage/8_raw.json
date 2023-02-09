@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFj9ZaAnTQsMQAfL2OgvPrRLE5v",
+    "object": "text_completion",
+    "created": 1664544119,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is one of the best ways to get your body moving. It's a great way to get your heart rate up and help your muscles work.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is an excellent way to get in shape and improve your fitness.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is a great way to get your exercise and feel good about yourself.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is one of the best ways to get your body moving. It is also a great way to stay healthy and fit.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is a great way to get your exercise.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is an excellent way to get your exercise and stay fit.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is a great way to get your exercise and also to lose weight.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nThe Runner's High is a feeling of euphoria that comes after completing a race.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nRunning is a great way to get your body moving and help you stay healthy.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\n running makes you feel alive.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 181,
+        "total_tokens": 190
+    }
+}

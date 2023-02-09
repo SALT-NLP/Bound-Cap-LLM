@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite form of exercise. I can run anywhere, anytime. I don't need any special equipment. Just a good pair of running shoes. I find running to be very therapeutic. It helps me clear my head and relax.
+---------------------------
+response 1:
+Write a paragraph with five sentences about running:
+
+I never was a runner. I never liked running. I never will be a runner. I never will like running. It's not for me.
+---------------------------
+response 2:
+Write a paragraph with five sentences about running:
+
+I never was a runner. I despised running. It was something that people made you do in gym class, and I was never very good at it. I was always the last person to finish the mile, and I hated it. But then, one day, I decided to give it a try. I went for a run, and it wasn't so bad. I felt good when I was done, and I decided to keep at it. Now, I'm a runner. I love running. It's a great way to clear my head, and it makes me feel good.
+---------------------------
+response 3:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run anytime of day. I always feel so good after I run. I'm always so proud of myself when I finish.
+---------------------------
+response 4:
+Write a paragraph with five sentences about running:
+
+I wake up at 5:30 a.m. to go for a run. I put on my running shoes and head out the door. I run for 30 minutes, and then I come back home and shower. I eat breakfast and head to work. I always feel so good after a run.
+---------------------------
+response 5:
+Write a paragraph with five sentences about running:
+
+I enjoy running because it's a great way to get exercise and it's also very relaxing. I usually go for a run in the morning, but sometimes I'll go for a run in the evening if I'm feeling stressed. I always make sure to stretch before I start running, and I also make sure to drink plenty of water afterwards.Running is a great way to improve your cardiovascular health and it's also a great way to relieve stress.
+---------------------------
+response 6:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run at night if I can't get out in the morning. I like to run on trails, but I'll run on the road if I have to. I always bring a water bottle with me when I go for a run.
+---------------------------
+response 7:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to get exercise. I usually run in the morning, but I'll run at night if I have time. I like to run on trails, but I'll run on the road if I have to. I always bring water with me when I run, and I make sure to stretch before and after.
+---------------------------
+response 8:
+Write a paragraph with five sentences about running:
+
+I wake up early to go on a run. I enjoy the peace and quiet of the morning. I like to run for at least 30 minutes. I feel good after I finish my run. I always have a better day when I start it with a run.
+---------------------------
+response 9:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite form of exercise. I usually run in the morning, but I'll run at night if I have the time. I like to run on the treadmill, but I'll run outside if the weather is nice. I always make sure to stretch before I run, and I always cool down after I'm done.
+---------------------------

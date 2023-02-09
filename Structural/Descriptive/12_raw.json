@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAdA9JU0MxRfsuHya3oeXEAlQEk3",
+    "object": "text_completion",
+    "created": 1664545572,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a short passage about running:\n\nI love the feeling of the wind in my hair and the sun on my face as I run. There's something about the rhythm of my feet hitting the ground that makes me feel alive. I can forget all my troubles when I'm out on a run. It's like the world is my oyster and I can conquer anything.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nRunning is a great way to get some exercise and fresh air. It's also a great way to clear your head and relax.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nThere's something about running that just makes you feel good. It's a great way to get some exercise and it's also a great way to clear your head. When you're out on a run, you can just focus on the road ahead of you and forget about everything else that's going on in your life. It's a great way to relieve stress and it's also a great way to get some fresh air.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nI love the feeling of running. Every time I lace up my shoes and head out the door, I feel like I can conquer the world. There's something about the rhythmic movement of my feet hitting the ground that makes me feel powerful and alive. When I'm running, I feel like I can do anything.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nI love running. It's my favorite way to get exercise. I can do it anywhere, anytime. It's a great way to clear my head and get some fresh air.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nI love running because it's a great way to clear my head and get some exercise. I usually go for a run in the morning, before work, and it really helps me start my day on the right foot. I also find that running is a great way to relieve stress, and it's something that I can do even when I don't have a lot of time.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nI love running because it makes me feel so alive. Every time I go for a run, I feel like I can conquer the world. Running makes me feel strong and powerful, like I can do anything. It's also a great way to clear my head and get some fresh air. I can't imagine going through life without running.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nI love the feeling of running. Every time I go for a run, I feel like I am accomplishing something great. I feel like I am pushing myself to my limits and making myself better. I also love the feeling of the wind in my face and the sun on my skin. It is a great way to clear my head and get some fresh air.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nI love running. It's one of my favorite things to do. Every time I go for a run, I feel like I'm accomplishing something. It's a great way to get some exercise and clear your head. I always feel better after a run.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a short passage about running:\n\nThere's something about running that just makes you feel alive. Every time your feet hit the ground, you feel like you can conquer the world. It's a feeling of freedom and power that is hard to describe, but once you experience it, you'll never want to stop. Whether you're running for fun or running for competition, the feeling is the same. Once you start running, you'll never look back.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 7,
+        "completion_tokens": 652,
+        "total_tokens": 659
+    }
+}

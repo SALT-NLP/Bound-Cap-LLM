@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about love with 10 words:
+
+Love is an emotion felt between two people.
+---------------------------
+response 1:
+Write a sentence about love with 10 words:
+
+Love is the light that guides us through the dark.
+---------------------------
+response 2:
+Write a sentence about love with 10 words:
+
+Love is an amazing feeling.
+---------------------------
+response 3:
+Write a sentence about love with 10 words:
+
+Love is the most powerful emotion.
+---------------------------
+response 4:
+Write a sentence about love with 10 words:
+
+Love is everything and nothing all at once.
+---------------------------
+response 5:
+Write a sentence about love with 10 words:
+
+Love is the most important thing in life.
+---------------------------
+response 6:
+Write a sentence about love with 10 words:
+
+Love is a strong, passionate emotion.
+---------------------------
+response 7:
+Write a sentence about love with 10 words:
+
+Love is kind, patient, and always forgives.
+---------------------------
+response 8:
+Write a sentence about love with 10 words:
+
+Love is blind and knows no bounds.
+---------------------------
+response 9:
+Write a sentence about love with 10 words:
+
+Love is an amazing thing.
+---------------------------

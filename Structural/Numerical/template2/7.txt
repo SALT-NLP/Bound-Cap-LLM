@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about cats with 20 words:
+
+Cats are small, furry animals that make great pets.
+---------------------------
+response 1:
+Write a sentence about cats with 20 words:
+
+I like cats because they are cute and soft.
+---------------------------
+response 2:
+Write a sentence about cats with 20 words:
+
+I like cats because they are cute and they make me happy.
+---------------------------
+response 3:
+Write a sentence about cats with 20 words:
+
+Cats are furry, cute, and playful.
+---------------------------
+response 4:
+Write a sentence about cats with 20 words:
+
+Cats are small, furry animals that many people keep as pets.
+---------------------------
+response 5:
+Write a sentence about cats with 20 words:
+
+Cats are the best pets because they are independent and low-maintenance.
+---------------------------
+response 6:
+Write a sentence about cats with 20 words:
+
+Cats are cute, cuddly creatures that make great pets.
+---------------------------
+response 7:
+Write a sentence about cats with 20 words:
+
+I have a cat.
+---------------------------
+response 8:
+Write a sentence about cats with 20 words:
+
+Cats are cute, cuddly, and make great pets.
+---------------------------
+response 9:
+Write a sentence about cats with 20 words:
+
+Cats are small, furry animals that make great pets.
+---------------------------

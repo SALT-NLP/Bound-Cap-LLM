@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about love:
+
+Love is all about feeling something for someone and wanting to protect them.
+---------------------------
+response 1:
+Write a sentence with five words about love:
+
+Love is the best feeling in the world.
+---------------------------
+response 2:
+Write a sentence with five words about love:
+
+Love is a powerful emotion that can make you feel happy, sad, and passionate.
+---------------------------
+response 3:
+Write a sentence with five words about love:
+
+Love is simply a feeling of affection and happiness.
+---------------------------
+response 4:
+Write a sentence with five words about love:
+
+Love is the light that guides us through the dark.
+---------------------------
+response 5:
+Write a sentence with five words about love:
+
+Love is an emotion that is felt when two people are attracted to each other and feel a strong connection.
+---------------------------
+response 6:
+Write a sentence with five words about love:
+
+Love is a powerful emotion that can make people do whatever it takes to be with the person they love.
+---------------------------
+response 7:
+Write a sentence with five words about love:
+
+Love is a strong emotion that can make you feel happy, sad, and frustrated. It is also one of the most important things in a person's life.
+---------------------------
+response 8:
+Write a sentence with five words about love:
+
+Love is the most beautiful emotion in the world.
+---------------------------
+response 9:
+Write a sentence with five words about love:
+
+Love is a powerful emotion that can make you feel happy, sad, and frustrated.
+---------------------------

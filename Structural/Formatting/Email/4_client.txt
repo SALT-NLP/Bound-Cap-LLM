@@ -1,0 +1,137 @@
+response 0:
+Write an email to my client:
+
+Hello [client name],
+
+Thank you for choosing me as your [type of service] consultant. I will do my best to provide you with the best possible service.
+
+If you have any questions or concerns, please do not hesitate to contact me.
+
+Thank you,
+
+[Your name]
+---------------------------
+response 1:
+Write an email to my client:
+
+Hello Client,
+
+Thank you for your email. I have attached the file you requested. If you have any further questions, please let me know.
+
+Thank you,
+
+Your Name
+---------------------------
+response 2:
+Write an email to my client:
+
+Hello [client name],
+
+Thank you for choosing to work with me. I am excited to get started on your project.
+
+Please let me know if you have any questions or concerns. I will do my best to answer them as quickly as possible.
+
+Thank you,
+
+[Your name]
+---------------------------
+response 3:
+Write an email to my client:
+
+Hello [client name],
+
+Thank you for your email. I am sorry to hear that you are not happy with the work I did for you. I will be happy to make any changes you would like.
+
+Please let me know what changes you would like me to make, and I will get to work right away.
+
+Thank you for your business, and I apologize for any inconvenience.
+
+Sincerely,
+
+[Your name]
+---------------------------
+response 4:
+Write an email to my client:
+
+Hello [Client],
+
+Thank you for your email. I am glad to hear that you are interested in our services.
+
+Our team would be more than happy to help you with your project. Please let us know if you have any specific requirements or ideas that you would like us to implement. We will do our best to accommodate your needs.
+
+Thank you for your time and we look forward to hearing from you soon.
+
+Best,
+
+[Your Name]
+---------------------------
+response 5:
+Write an email to my client:
+
+Hello Client,
+
+Thank you for choosing me as your lawyer. I will do my best to help you with your case. Here are some things you should know:
+
+1. I will need your full cooperation. This means that you will need to provide me with all the information I need, as well as keep me updated on any new developments.
+
+2. I will work hard to get the best possible outcome for you, but I cannot guarantee anything.
+
+3. You may need to appear in court. If so, I will be there to represent you.
+
+4. There may be fees involved. If so, I will let you know upfront so there are no surprises.
+
+Thank you for your time. I look forward to working with you.
+
+Sincerely,
+
+Your Lawyer
+---------------------------
+response 6:
+Write an email to my client:
+
+Hello (client's name),
+
+Thank you for choosing me as your (type of) coach. I am honored to be working with you and I am committed to helping you achieve your (type of) goals.
+
+During our (type of) coaching sessions, I will be asking you questions and providing you with feedback and support. I may also give you assignments to complete between sessions.
+
+I am looking forward to helping you grow and achieve your (type of) goals. If you have any questions, please don't hesitate to contact me.
+
+Sincerely,
+
+(Your name)
+---------------------------
+response 7:
+Write an email to my client:
+
+Hello (client name),
+
+Thank you for your email. I am sorry to hear that you are not happy with the work I did for you. I will be happy to make any changes you would like. Please let me know what specifically you would like me to change.
+
+Thank you,
+
+(Your name)
+---------------------------
+response 8:
+Write an email to my client:
+
+Hi Client, 
+Thank you for your email. I am glad to hear that you are interested in our services. I would be more than happy to discuss your project with you in more detail. Please feel free to contact me at any time. 
+Thank you for your time, 
+[Your name]
+---------------------------
+response 9:
+Write an email to my client:
+
+Hi there,
+
+Thank you so much for choosing me as your photographer! I am so excited to work with you and capture your special day.
+
+I wanted to touch base with you and go over a few things before the big day. First, I wanted to let you know that I will be arriving early to get set up and take some candid shots of you and your guests as they arrive. I will also be taking some shots of the venue before the ceremony starts.
+
+I will be taking a mix of posed and candid shots throughout the day, and I will also be sure to get plenty of shots of the details (like your dress, flowers, etc.) that you have worked so hard on.
+
+I will be delivering the edited photos to you electronically within 4-6 weeks after the wedding. I hope that timeline works for you.
+
+If you have any questions or concerns, please don't hesitate to let me know. I am looking forward to working with you and capture your beautiful day!
+---------------------------

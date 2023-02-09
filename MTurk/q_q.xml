@@ -1,0 +1,222 @@
+<QuestionForm xmlns='http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2017-11-06/QuestionForm.xsd'>
+    <Overview>
+        <Title>Read the prompt and response, then answer the question.</Title>
+    </Overview>
+    <Question>
+        <QuestionIdentifier>Q1</QuestionIdentifier>
+        <DisplayName>Q1</DisplayName>
+        <IsRequired>true</IsRequired>
+        <QuestionContent>
+            <FormattedContent><![CDATA[
+            <h3>Prompt:</h3>
+            <p>Write a <b>flowery</b> passage about writing a paper:</p>
+            <h3>Response:</h3>
+            <p>When I sit down to write a paper, I enter into a world of my own creation where the only limit is my imagination. I can make anything happen on the page, and it is this power that I find so intoxicating. The feel of the pen gliding across the page, the sound of the ink forming words, it all comes together to create a symphony of sorts that is music to my ears.</p>
+            <h3>Tips:</h3>
+            <p>flowery writing style: Flowery writing is filled with beautiful, poetic language. It often uses metaphors and similes to describe things in a creative, imagistic way.</p>
+            <h3>Questions:</h3>
+            <p>Regarding the <b>writing style</b> of the response, to what extent do you agree the response fulfills the prompt?</p>
+          ]]></FormattedContent>
+        </QuestionContent>
+        <AnswerSpecification>
+            <SelectionAnswer>
+                <StyleSuggestion>radiobutton</StyleSuggestion>
+                <Selections>
+                    <Selection>
+                        <SelectionIdentifier>-1</SelectionIdentifier>
+                        <Text>Disagree</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>0</SelectionIdentifier>
+                        <Text>Neither agree or disagree</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>1</SelectionIdentifier>
+                        <Text>Agree</Text>
+                    </Selection>
+                </Selections>
+            </SelectionAnswer>
+        </AnswerSpecification>
+    </Question>
+    <Question>
+        <QuestionIdentifier>Q2</QuestionIdentifier>
+        <DisplayName>Q2</DisplayName>
+        <IsRequired>true</IsRequired>
+        <QuestionContent>
+            <FormattedContent><![CDATA[
+            <h3>Prompt:</h3>
+            <p>Write a <b>flowery</b> passage about writing a paper:</p>
+            <h3>Response:</h3>
+            <p>Assuming you have a topic and thesis, you can start by brainstorming all of the ideas and information you know about your topic. Once you have a long list, you can start to narrow it down by grouping related ideas together and eliminating those that are less important. After that, you can start to put the pieces of your paper together by creating an outline. This will help you see the overall structure of your paper and make sure that all of your ideas fit together. Finally, you can start writing your paper.</p>
+            <h3>Tips:</h3>
+            <p>flowery writing style: Flowery writing is filled with beautiful, poetic language. It often uses metaphors and similes to describe things in a creative, imagistic way.</p>
+            <h3>Questions:</h3>
+            <p>Regarding the <b>writing style</b> of the response, to what extent do you agree the response fulfills the prompt?</p>
+          ]]></FormattedContent>
+        </QuestionContent>
+        <AnswerSpecification>
+            <SelectionAnswer>
+                <StyleSuggestion>radiobutton</StyleSuggestion>
+                <Selections>
+                    <Selection>
+                        <SelectionIdentifier>-1</SelectionIdentifier>
+                        <Text>Disagree</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>0</SelectionIdentifier>
+                        <Text>Neither agree or disagree</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>1</SelectionIdentifier>
+                        <Text>Agree</Text>
+                    </Selection>
+                </Selections>
+            </SelectionAnswer>
+        </AnswerSpecification>
+    </Question>
+    <Question>
+        <QuestionIdentifier>Q3</QuestionIdentifier>
+        <DisplayName>Q3</DisplayName>
+        <IsRequired>true</IsRequired>
+        <QuestionContent>
+            <FormattedContent><![CDATA[
+            <h3>Prompt:</h3>
+            <p>Write an <b>optimistic</b> passage about love:</p>
+            <h3>Response:</h3>
+            <p>Love is the most amazing feeling in the world. It's indescribable, and it's something that everyone should experience. It brings two people together and creates a bond that is unbreakable. Love is something that you feel deep in your soul, and it's something that you know is real. It's the best feeling in the world, and it's something that everyone should experience.</p>
+            <h3>Tips:</h3>
+            <p>optimistic tone: An optimistic tone is one that is hopeful and positive. It is often used in writing to try to persuade the reader to see things in a positive light.</p>
+            <h3>Questions:</h3>
+            <p>Regarding the <b>tone</b> of the response, to what extent do you agree the response fulfills the prompt?</p>
+          ]]></FormattedContent>
+        </QuestionContent>
+        <AnswerSpecification>
+            <SelectionAnswer>
+                <StyleSuggestion>radiobutton</StyleSuggestion>
+                <Selections>
+                    <Selection>
+                        <SelectionIdentifier>-1</SelectionIdentifier>
+                        <Text>Disagree</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>0</SelectionIdentifier>
+                        <Text>Neither agree or disagree</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>1</SelectionIdentifier>
+                        <Text>Agree</Text>
+                    </Selection>
+                </Selections>
+            </SelectionAnswer>
+        </AnswerSpecification>
+    </Question>
+    <Question>
+      <QuestionIdentifier>Q4</QuestionIdentifier>
+      <DisplayName>Q4</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+          <FormattedContent><![CDATA[
+            <h3>Prompt:</h3>
+            <p>Write an <b>optimistic</b> passage about love:</p>
+            <h3>Response:</h3>
+            <p>Love is a feeling of strong attachment or admiration and caring for someone or something. Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often physical and emotional.</p>
+            <h3>Tips:</h3>
+            <p>optimistic tone: An optimistic tone is one that is hopeful and positive. It is often used in writing to try to persuade the reader to see things in a positive light.</p>
+            <h3>Questions:</h3>
+            <p>Regarding the <b>tone</b> of the response, to what extent do you agree the response fulfills the prompt?</p>
+          ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>-1</SelectionIdentifier>
+              <Text>Disagree</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>0</SelectionIdentifier>
+              <Text>Neither agree or disagree</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>1</SelectionIdentifier>
+              <Text>Agree</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+    </Question>
+    <Question>
+      <QuestionIdentifier>Q5</QuestionIdentifier>
+      <DisplayName>Q5</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+          <FormattedContent><![CDATA[
+            <h3>Prompt:</h3>
+            <p>Write a story with a <b>"Rags to Riches"</b> plot:</p>
+            <h3>Response:</h3>
+            <p>Shea had always been a bright girl, but she never had the opportunity to shine. Born into a poor family in a small town, she never had new clothes or toys, and was always the last to be picked for teams in school. But Shea never gave up. She studied hard and got good grades, and she practiced her basketball skills every chance she got.<br /><br />One day, Shea's hard work paid off. She was offered a scholarship to a prestigious college, and she was soon on her way to a better life. At college, Shea excelled in her studies and on the basketball court. She met new friends and experienced things she never could have imagined.<br /><br />After graduation, Shea was drafted by a professional basketball team. She quickly became one of the league's top players, and she was soon signing endorsement deals and earning millions of dollars. Shea had come a long way from her humble beginnings, and she was finally living the life she had always dreamed of.</p>
+            <h3>Tips:</h3>
+            <p>"Rags to Riches" plot: A "Rags to riches" plot is a story in which a poor character becomes rich, usually through their own hard work or through some stroke of luck.</p>
+            <h3>Questions:</h3>
+            <p>Regarding the <b>plot</b> of the response, to what extent do you agree the response fulfills the prompt?</p>
+          ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>-1</SelectionIdentifier>
+              <Text>Disagree</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>0</SelectionIdentifier>
+              <Text>Neither agree or disagree</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>1</SelectionIdentifier>
+              <Text>Agree</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+    </Question>
+    <Question>
+      <QuestionIdentifier>Q6</QuestionIdentifier>
+      <DisplayName>Q6</DisplayName>
+      <IsRequired>true</IsRequired>
+      <QuestionContent>
+          <FormattedContent><![CDATA[
+            <h3>Prompt:</h3>
+            <p>Write a story with a <b>"Rags to Riches"</b> plot:</p>
+            <h3>Response:</h3>
+            <p>Once upon a time, there were three cats. They were all different colors: one was black, one was white, and one was gray. They all lived together in a big house and got along well. <br /><br />The black cat was the oldest of the three. She was very wise and always knew what to do. The white cat was the middle one. She was very playful and always made the others laugh. The gray cat was the youngest. He was very shy and always stayed close to the black cat.<br /><br />One day, the three cats went outside to play. The black cat climbed up a tree and the white cat chased a butterfly. The gray cat just sat down and watched them.<br /><br />After a while, the black cat came down from the tree and the white cat came back from chasing the butterfly. They both sat down next to the gray cat and they all started to purr.</p>
+            <h3>Tips:</h3>
+            <p>"Rags to Riches" plot: A "Rags to riches" plot is a story in which a poor character becomes rich, usually through their own hard work or through some stroke of luck.</p>
+            <h3>Questions:</h3>
+            <p>Regarding the <b>plot</b> of the response, to what extent do you agree the response fulfills the prompt?</p>
+          ]]></FormattedContent>
+      </QuestionContent>
+      <AnswerSpecification>
+        <SelectionAnswer>
+          <StyleSuggestion>radiobutton</StyleSuggestion>
+          <Selections>
+            <Selection>
+              <SelectionIdentifier>-1</SelectionIdentifier>
+              <Text>Disagree</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>0</SelectionIdentifier>
+              <Text>Neither agree or disagree</Text>
+            </Selection>
+            <Selection>
+              <SelectionIdentifier>1</SelectionIdentifier>
+              <Text>Agree</Text>
+            </Selection>
+          </Selections>
+        </SelectionAnswer>
+      </AnswerSpecification>
+    </Question>
+
+</QuestionForm>

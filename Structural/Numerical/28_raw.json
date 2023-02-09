@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5tg7EV897Q4niPSAS3SFy7UvteMRO",
+    "object": "text_completion",
+    "created": 1663951616,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is China's largest city and a global financial hub.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nThe Bund is a popular tourist spot in Shanghai.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is one of the most populous cities in the world.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a bustling metropolis with a rich history.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is the most populous city in China and one of the most populous cities in the world.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is the most populous city in China and the largest city in the world.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a beautiful and bustling city.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is a city in China.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nShanghai is the most populous city in the world.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about Shanghai:\n\nThe Bund is a must-see when in Shanghai.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 152,
+        "total_tokens": 161
+    }
+}

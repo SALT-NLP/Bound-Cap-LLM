@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFisyOJ3KjqMomnndtovoNhmyHH",
+    "object": "text_completion",
+    "created": 1664544118,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get your exercise and feel good about yourself.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is an amazing way to get your heart rate up and help burn calories. It can help you lose weight or improve your running technique.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get your heart rate up and increase your endurance.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get your heart rate up and help you get fit.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is one of my favorite activities because it is so easy and I can do it anywhere.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get your heart rate up and help improve your endurance.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is one of the best ways to get exercise and improve your mood. It is also a great way to get in shape for physical activity or work out.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a form of exercise that can help improve your cardiovascular health and fitness.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is one of the best ways to stay fit and improve your health.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is an excellent way to get your exercise. It is also an excellent way to stay healthy.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 215,
+        "total_tokens": 224
+    }
+}

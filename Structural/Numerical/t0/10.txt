@@ -1,0 +1,5 @@
+response 0:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Simon. He is black and white. He is very cute. I love him.
+---------------------------

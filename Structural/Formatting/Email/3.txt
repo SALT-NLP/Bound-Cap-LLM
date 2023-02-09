@@ -1,0 +1,104 @@
+response 0:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey babe,
+
+I'm thinking Saturday night would be perfect for a date. Does that work for you? Let me know and we'll make some plans. I can't wait to see you!
+
+Love,
+
+Your girlfriend
+---------------------------
+response 1:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey babe,
+
+I hope you're doing well. I was thinking that maybe we could go out this Saturday night. Let me know what you think.
+
+I love you,
+
+Your girlfriend
+---------------------------
+response 2:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey handsome,
+
+I'm thinking Saturday night sounds like the perfect time for a date. Does that work for you? Let me know and I'll make the arrangements.
+
+Can't wait to see you,
+
+Your beautiful girlfriend
+---------------------------
+response 3:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hi [boyfriend’s name],
+
+I hope you’re doing well. I’d love to see you this Saturday. What time works for you?
+
+I’m looking forward to seeing you,
+
+[your name]
+---------------------------
+response 4:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey babe,
+
+I hope you're doing well. I was thinking that we could go on a date this Saturday. What do you think? Let me know if that works for you.
+
+I love you,
+
+Your girlfriend
+---------------------------
+response 5:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey, 
+I was wondering if you wanted to go on a date this Saturday? I thought it would be fun to go see a movie and then maybe get some ice cream afterwards. Let me know if that works for you! 
+Love, 
+[Your Name]
+---------------------------
+response 6:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey babe,
+
+I hope you're doing well. I was thinking maybe we could go on a date this Saturday? Let me know if that works for you.
+
+I love you,
+
+Your girlfriend
+---------------------------
+response 7:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey babe,
+
+I hope you're doing well. I was thinking that maybe we could go on a date this Saturday? Let me know what you think.
+
+I love you,
+
+(Your name)
+---------------------------
+response 8:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey, 
+I was thinking that maybe we could go out this Saturday? Let me know if that works for you. 
+Love, 
+[Your Name]
+---------------------------
+response 9:
+Write an email to my boyfriend to arrange a date this Saturday:
+
+Hey babe,
+
+I hope you're doing well. I was thinking that maybe we could go out this Saturday night. Let me know what you think.
+
+Love,
+
+Your girlfriend
+---------------------------

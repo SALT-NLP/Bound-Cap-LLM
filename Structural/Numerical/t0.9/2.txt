@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about running:
+
+I love to run every day.
+---------------------------
+response 1:
+Write a sentence with five words about running:
+
+I enjoy running in the morning.
+---------------------------
+response 2:
+Write a sentence with five words about running:
+
+I love to go running.
+---------------------------
+response 3:
+Write a sentence with five words about running:
+
+I go for a run.
+---------------------------
+response 4:
+Write a sentence with five words about running:
+
+I go for runs every morning.
+---------------------------
+response 5:
+Write a sentence with five words about running:
+
+I ran to the finish line.
+---------------------------
+response 6:
+Write a sentence with five words about running:
+
+I run to stay healthy.
+---------------------------
+response 7:
+Write a sentence with five words about running:
+
+I run every morning for exercise.
+---------------------------
+response 8:
+Write a sentence with five words about running:
+
+I struggle to run five miles.
+---------------------------
+response 9:
+Write a sentence with five words about running:
+
+I run for enjoyment and exercise.
+---------------------------

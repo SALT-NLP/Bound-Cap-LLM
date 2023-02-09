@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph about running with 5 sentences:
+
+I love running because it's a great way to get exercise and it's also a great way to clear my head. I usually go for a run in the morning, but sometimes I'll go for a run in the evening if I'm feeling stressed. I always feel better after a run, no matter what time of day it is.
+---------------------------
+response 1:
+Write a paragraph about running with 5 sentences:
+
+I love running because it's a great way to get exercise and it's also a great way to clear my head. When I'm running, I can think about whatever I want and I don't have to worry about anything else. It's also a great way to meet new people and make new friends.
+---------------------------
+response 2:
+Write a paragraph about running with 5 sentences:
+
+Running is a great way to stay in shape. It is a low-impact exercise that can be done anywhere. Running also helps to improve your mental health. It can be a great form of stress relief. Finally, running is a great way to meet new people.
+---------------------------
+response 3:
+Write a paragraph about running with 5 sentences:
+
+I love running because it's a great way to get some exercise and it's also a great way to clear my head. I usually go for a run in the morning, but sometimes I'll go for a run in the evening if I need to clear my head before bed. I usually run for about 30 minutes, but sometimes I'll run for an hour if I'm feeling particularly energetic. I always make sure to stretch before and after my run, and I always make sure to drink plenty of water.
+---------------------------
+response 4:
+Write a paragraph about running with 5 sentences:
+
+I love to run. It's a great way to get exercise and it's also very calming for me. I usually run in the morning, but sometimes I'll go for a run in the evening if I'm feeling stressed. I like to run in parks or on trails, but sometimes I'll run on the treadmill if it's raining. Running is a great way to clear your head and it's also a great way to get some fresh air.
+---------------------------
+response 5:
+Write a paragraph about running with 5 sentences:
+
+I love to run. It's my favorite form of exercise. I can run anywhere, anytime. I don't need any special equipment. Just a pair of running shoes and I'm good to go.
+---------------------------
+response 6:
+Write a paragraph about running with 5 sentences:
+
+I enjoy running because it is a great way to clear my head and get some exercise. It is also a great way to explore new places. I often find new routes to run that I never would have discovered otherwise. Running is a great way to meet new people and make new friends. I have met some of my best friends through running.
+---------------------------
+response 7:
+Write a paragraph about running with 5 sentences:
+
+I love running. It's my favorite way to exercise. I can do it anywhere, anytime. It's a great way to clear my head and get some fresh air. I always feel so good after a run.
+---------------------------
+response 8:
+Write a paragraph about running with 5 sentences:
+
+I love running because it makes me feel so alive. Every time my feet hit the ground, I feel like I can conquer the world. Running is also a great way to relieve stress and clear my head. I can think of nothing but the present moment when I'm running, and it's a great way to escape from the hustle and bustle of everyday life. Every run is a new adventure, and I can't wait to see where the next one takes me.
+---------------------------
+response 9:
+Write a paragraph about running with 5 sentences:
+
+I enjoy running because it gives me time to think and clear my head. It's also a great way to get exercise and stay in shape. I usually run in the morning, but sometimes I'll go for a run in the evening if I'm feeling stressed. I usually run around my neighborhood, but sometimes I'll go to the park or on a trail. Running is a great way to relax and de-stress.
+---------------------------

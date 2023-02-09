@@ -1,0 +1,7 @@
+response 0:
+Write a paragraph with five sentences about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity. He is also the founder of The Boring Company, a tunnel construction company. Musk has also proposed the Hyperloop, a high-speed vactrain transportation system.
+
+Musk was born to a Canadian mother and South African father and raised in Pretoria, South Africa. He briefly attended the University of Pretoria before moving to Canada aged 17 to attend Queen's University. He transferred to the University of Pennsylvania two years later, where he received dual bachelor's degrees in economics and physics. He moved to California in 1995 to attend Stanford University but decided instead to pursue a business career, co-founding web software company Zip2 with his brother Kimbal.
+---------------------------

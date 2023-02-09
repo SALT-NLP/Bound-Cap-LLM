@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Mittens. He is black and white. He is very playful. He loves to chase balls and string. He is a very good cat.
+---------------------------
+response 1:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be trained to use a litter box. Cats are also known for being good hunters, and for their love of napping. Most cats enjoy playing with toys, and many will learn to fetch. Cats come in a variety of colors and patterns, and there are many different breeds of cats.
+---------------------------
+response 2:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be trained to use a litter box. Cats are also known for being good hunters, and for their love of climbing. Most cats enjoy spending time with their human companions, and will often follow them around the house.
+---------------------------
+response 3:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Simon. He's black and white and he's very lazy. He likes to lay in the sun and sleep. He's a good cat.
+---------------------------
+response 4:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be trained to use a litter box. Cats are also known for being good hunters, and for their sharp claws. Some people believe that cats have nine lives, due to their ability to survive falls from high places.
+---------------------------
+response 5:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Jasper. He's a gray tabby. I got him when he was a kitten. He's five years old now. He's a good cat.
+---------------------------
+response 6:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Simon. He's a gray tabby. I got him when he was a kitten. He's eight years old now. He's a good cat.
+---------------------------
+response 7:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Simon. He is black and white. He is very cute. I love him.
+---------------------------
+response 8:
+Write a paragraph with five sentences about cats:
+
+There are many different types of cats in the world. Some are big, some are small, and some are in between. All cats have fur, and most have whiskers. Cats use their whiskers to help them hunt. Some cats live in the wild, and some live in people's homes.
+---------------------------
+response 9:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Simon. He's a gray tabby, and he's very cute. I got him from a shelter, and he's about two years old. He's a good cat, and I'm glad I have him.
+---------------------------

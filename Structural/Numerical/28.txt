@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is China's largest city and a global financial hub.
+---------------------------
+response 1:
+Write a sentence with ten words about Shanghai:
+
+The Bund is a popular tourist spot in Shanghai.
+---------------------------
+response 2:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is one of the most populous cities in the world.
+---------------------------
+response 3:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a bustling metropolis with a rich history.
+---------------------------
+response 4:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is the most populous city in China and one of the most populous cities in the world.
+---------------------------
+response 5:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is the most populous city in China and the largest city in the world.
+---------------------------
+response 6:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a beautiful and bustling city.
+---------------------------
+response 7:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is a city in China.
+---------------------------
+response 8:
+Write a sentence with ten words about Shanghai:
+
+Shanghai is the most populous city in the world.
+---------------------------
+response 9:
+Write a sentence with ten words about Shanghai:
+
+The Bund is a must-see when in Shanghai.
+---------------------------

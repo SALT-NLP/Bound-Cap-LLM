@@ -1,0 +1,52 @@
+response 0:
+Write a paragraph with five sentences about cats:
+
+There are many reasons why people love cats. They are independent, yet affectionate. They are low-maintenance, yet still provide companionship. They are perfect for people who work long hours or travel often. They are tidy and don't require a lot of space. Cats also offer a unique form of entertainment - watching them play, sleep, and explore is endlessly fascinating.
+---------------------------
+response 1:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the world. They are known for being independent, loyal, and loving. Cats are also low maintenance, which makes them a great pet for busy people. Although they are often thought of as being aloof, they can actually be very affectionate animals. Cats make great lifelong companions and are a great addition to any family.
+---------------------------
+response 2:
+Write a paragraph with five sentences about cats:
+
+There are many reasons why people love cats. They are soft, they are cuddly, and they make great companions. Cats are also very independent, which means they do not require as much care as other pets. However, cats still need to be fed, watered, and groomed regularly. They also need a litter box.
+---------------------------
+response 3:
+Write a paragraph with five sentences about cats:
+
+Cats are one of the most popular pets in the United States. More than 90 million cats are kept as pets in the U.S. People have been keeping cats as pets for more than 9,500 years.
+
+Most cats are descendants of the African wildcat. Cats were brought to Europe in the 1500s. Cats were brought to North America by European settlers in the 1600s.
+---------------------------
+response 4:
+Write a paragraph with five sentences about cats:
+
+Cats are amazing creatures. They are independent, yet loving. Cats are also very intelligent, and can learn tricks and commands just like dogs. Most cats enjoy playing and will chase a toy for hours. Cats are also very good hunters, and will often bring home "presents" for their owners. Although they can be a bit aloof at times, cats make wonderful companions.
+---------------------------
+response 5:
+Write a paragraph with five sentences about cats:
+
+There are many different types of cats in the world. Some are big, some are small, and some are in between. All cats have fur, and most have whiskers. Cats use their whiskers to help them navigate and to hunt for food. Some people think that cats are lazy, but they can actually be quite active. They usually sleep a lot because they are nocturnal animals.
+---------------------------
+response 6:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Mittens. I got him from a shelter. He is all black and very fluffy. He is a good cat. He likes to sleep a lot.
+---------------------------
+response 7:
+Write a paragraph with five sentences about cats:
+
+I have a cat. Her name is Lily. She is a calico cat. Calico cats are very rare. Lily is very special to me.
+---------------------------
+response 8:
+Write a paragraph with five sentences about cats:
+
+There are more than 500 million domestic cats in the world, making them one of the most popular pets. Cats are known for their independent nature and their ability to live comfortably without humans. Cats are low-maintenance pets that require little more than food, water, and a litter box. Although cats are often thought of as aloof and uninterested in humans, they can form strong bonds with their owners and be very affectionate.
+---------------------------
+response 9:
+Write a paragraph with five sentences about cats:
+
+I have a cat. His name is Bob. Bob is black and white. He is a good cat. He likes to sleep a lot. He is a lazy cat.
+---------------------------

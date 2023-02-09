@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJQXnyU1f2B0kanWdP0CXBXPeRT",
+    "object": "text_completion",
+    "created": 1664544348,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is one of the most simple and efficient exercises you can do to improve your health.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get your heart rate up and get some exercise.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get exercise and improve your health.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is one of the most efficient and effective ways to get exercise.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is one of the best exercises you can do to stay healthy and fit.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get exercise and have fun.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\n\nRunning is the best way to get fit and stay healthy.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get your heart rate up and burn calories.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is a great way to get your heart rate up and burn calories.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with ten words about running:\n\nRunning is the perfect way to get fit and have fun at the same time.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 167,
+        "total_tokens": 176
+    }
+}

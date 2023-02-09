@@ -1,0 +1,5 @@
+response 0:
+Write a sentence with twenty words about love:
+
+Love is the most beautiful thing in the world.
+---------------------------

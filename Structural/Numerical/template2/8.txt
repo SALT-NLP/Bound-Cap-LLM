@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about running with 20 words:
+
+Running is a great way to get exercise.
+---------------------------
+response 1:
+Write a sentence about running with 20 words:
+
+I love the feeling of wind rushing past me as I run.
+---------------------------
+response 2:
+Write a sentence about running with 20 words:
+
+I enjoy running because it clears my head and makes me feel good.
+---------------------------
+response 3:
+Write a sentence about running with 20 words:
+
+I love the feeling of the wind in my hair as I run.
+---------------------------
+response 4:
+Write a sentence about running with 20 words:
+
+I love running because it gives me time to think.
+---------------------------
+response 5:
+Write a sentence about running with 20 words:
+
+I love to run because it makes me feel free.
+---------------------------
+response 6:
+Write a sentence about running with 20 words:
+
+I love to run because it makes me feel free and alive.
+---------------------------
+response 7:
+Write a sentence about running with 20 words:
+
+I love to run.
+---------------------------
+response 8:
+Write a sentence about running with 20 words:
+
+I love to run. It makes me feel free and alive.
+---------------------------
+response 9:
+Write a sentence about running with 20 words:
+
+I love running because it makes me feel free and alive.
+---------------------------

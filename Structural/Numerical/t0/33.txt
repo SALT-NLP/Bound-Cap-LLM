@@ -1,0 +1,13 @@
+response 0:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai, located on the east coast of China, is the country's most populous city. A global financial center, it has the busiest container port in the world.
+
+Shanghai's history dates back over a thousand years. It was a small fishing village during the Tang dynasty, but became a major trading port during the Song dynasty. In the 19th century, Shanghai was the largest city in the Far East.
+
+Today, Shanghai is a modern metropolis with a skyline of skyscrapers. It is home to over 24 million people, making it the most populous city in China.
+
+Shanghai is a major cultural center of China. It is home to many museums, art galleries, and theaters. It is also a major center of education, with over 100 universities and colleges.
+
+Shanghai is a major tourist destination, with over 20 million visitors each year. Its attractions include the Bund, Nanjing Road, the French Concession, and the Shanghai Museum.
+---------------------------

@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a bustling city with a rich history. It is a popular tourist destination and is known for its traditional Cantonese and Shanghai dialects.
+---------------------------
+response 1:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a bustling city with a rich history. It is known for its luxurious hotels and shopping districts.
+---------------------------
+response 2:
+Write a sentence with five words about Shanghai:
+
+The city is a bustling metropolis that is home to many different cultures and people.
+---------------------------
+response 3:
+Write a sentence with five words about Shanghai:
+
+Shanghai is one of the most beautiful cities in the world.
+---------------------------
+response 4:
+Write a sentence with five words about Shanghai:
+
+The city is bustling with activity, and it's a great place to explore. There's so much to see and do, and it's always full of life.
+---------------------------
+response 5:
+Write a sentence with five words about Shanghai:
+
+Shanghai is a bustling city with a rich history.
+---------------------------
+response 6:
+Write a sentence with five words about Shanghai:
+
+Shanghai is one of the most densely populated cities in the world.
+---------------------------
+response 7:
+Write a sentence with five words about Shanghai:
+
+The city is bustling with people and activity.
+---------------------------
+response 8:
+Write a sentence with five words about Shanghai:
+
+The city was founded in 1275 and is one of the most populous cities in the world.
+---------------------------
+response 9:
+Write a sentence with five words about Shanghai:
+
+Shanghai is one of China's most vibrant and cosmopolitan cities.
+---------------------------

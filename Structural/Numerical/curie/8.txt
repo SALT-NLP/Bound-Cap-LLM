@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about running:
+
+I love running because it feels like I'm in control of my own destiny.
+---------------------------
+response 1:
+Write a sentence with twenty words about running:
+
+Running is one of the best exercises for your body.
+---------------------------
+response 2:
+Write a sentence with twenty words about running:
+
+Running is one of the most efficient forms of exercise.
+---------------------------
+response 3:
+Write a sentence with twenty words about running:
+
+Running is great exercise for your body and mind.
+---------------------------
+response 4:
+Write a sentence with twenty words about running:
+
+Running is one of the best exercises you can do for your body.
+---------------------------
+response 5:
+Write a sentence with twenty words about running:
+
+Running is one of the most effective exercises you can do for your body.
+---------------------------
+response 6:
+Write a sentence with twenty words about running:
+
+Running is the best way to get in shape and have fun.
+---------------------------
+response 7:
+Write a sentence with twenty words about running:
+
+Running is the best way to get in shape and have fun.
+---------------------------
+response 8:
+Write a sentence with twenty words about running:
+
+Running is one of the most efficient exercises you can do for your body.
+---------------------------
+response 9:
+Write a sentence with twenty words about running:
+
+Running is a great way to get exercise and to relax.
+---------------------------

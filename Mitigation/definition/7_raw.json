@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5pcfTZZR5O57epazIrXb0Hske34WZ",
+    "object": "text_completion",
+    "created": 1662985051,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nLove is something that makes you feel happy and content.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is something that is often hard to define.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nI never knew what love was until I met you.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is something that everyone experiences at some point in their life.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is something that everyone needs in their life.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a feeling of strong attachment or admiration and caring for someone or something.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is an emotion or feeling that is typically associated with a strong affection towards someone.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is something that you feel deep in your heart.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 50,
+        "completion_tokens": 169,
+        "total_tokens": 219
+    }
+}

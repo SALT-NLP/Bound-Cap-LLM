@@ -1,0 +1,50 @@
+response 0:
+Write a brief passage about cats:
+
+Cats are small carnivorous mammals of the Felidae family. Cats have been domesticated since around 3,500 BC. Around the world, they are often prized as pets for their companionship and their ability to hunt vermin.
+---------------------------
+response 1:
+Write a brief passage about cats:
+
+There is something special about cats, the way they move, the way they stare. And when you learn how to love them as they deserve—groom them, give them good food and scratch them, and offer them a litter box—you have created a bond that’s hard to break.
+---------------------------
+response 2:
+Write a brief passage about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature and their ability to be trained to use a litter box. Cats typically live for 12-18 years, although some have been known to live into their 20s.
+---------------------------
+response 3:
+Write a brief passage about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be both loving and aloof. Cats are also known for their hunting skills, and their ability to climb.
+---------------------------
+response 4:
+Write a brief passage about cats:
+
+Cats make great pets. They are relatively low maintenance and can be left alone for long periods of time. They are also very affectionate and make great companions.
+---------------------------
+response 5:
+Write a brief passage about cats:
+
+I love cats! I think they are so cute and cuddly. I have two cats, Smokey and Misty. I got them both from the pound. I think all cats are adorable, but I especially love my two.
+---------------------------
+response 6:
+Write a brief passage about cats:
+
+Cats are fascinating creatures. They are independent, yet social. They are agile and playful. They are curious and intelligent. Cats make wonderful pets.
+---------------------------
+response 7:
+Write a brief passage about cats:
+
+Cats are small carnivorous mammals of the Felidae family. Cats have been domesticated since ancient times and are now one of the most popular pets in the world. They are known for their independent nature, their ability to hunt rodents and other small animals, and their affectionate behavior towards humans.
+---------------------------
+response 8:
+Write a brief passage about cats:
+
+There is something special about cats, the way they move, the way they stare. And when you learn how to love them as they deserve—groom them, give them good food and scratch them, and offer them a litter box—you have created a bond that’s hard to break.
+---------------------------
+response 9:
+Write a brief passage about cats:
+
+There’s something special about cats, the way they move, the way they stare. And when you learn how to love them as they deserve—groom them, give them good food and scratch them, and offer them a litter box—you have created a bond that’s hard to break.
+---------------------------

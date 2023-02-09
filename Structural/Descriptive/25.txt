@@ -1,0 +1,50 @@
+response 0:
+Write a passage about cats that is brief:
+
+Cats are small, carnivorous mammals of the Felidae family. Domestic cats are often called house cats when kept as indoor pets. Cats are valued by humans for companionship and their ability to hunt vermin and household pests.
+---------------------------
+response 1:
+Write a passage about cats that is brief:
+
+Cats are popular pets because they are low maintenance, independent, and affectionate. Although cats require less attention than dogs, they still need regular meals, fresh water, litter box maintenance, and veterinary check-ups.
+---------------------------
+response 2:
+Write a passage about cats that is brief:
+
+I think cats are great. They're independent but also love attention and companionship when they want it. They're perfect for people who work long hours or have busy lifestyles because they don't need to be walked or taken out for exercise.
+---------------------------
+response 3:
+Write a passage about cats that is brief:
+
+Cats are carnivorous mammals of the Felidae family. They are often kept as pets and are known for their hunting skills and their independent nature.
+---------------------------
+response 4:
+Write a passage about cats that is brief:
+
+There is something special about cats. They are independent, yet social. They are playful, yet serious. They are aloof, yet affectionate. Cats are unique creatures that have captivated people for centuries.
+---------------------------
+response 5:
+Write a passage about cats that is brief:
+
+Cats are popular pets around the world. They are known for their independent nature, and many people enjoy watching them roam around the house. Cats are also known for being skilled hunters, and they often bring home small prey.
+---------------------------
+response 6:
+Write a passage about cats that is brief:
+
+Cats are popular pets around the world. They are known for being independent, affectionate, and playful.
+---------------------------
+response 7:
+Write a passage about cats that is brief:
+
+Cats are amazing animals that bring joy to their owners. They are loyal, loving, and have a unique personality.
+---------------------------
+response 8:
+Write a passage about cats that is brief:
+
+Cats are popular pets around the world. They are known for their independent nature, and are often considered low-maintenance pets. Cats are also known for their hunting abilities, and often bring home small prey.
+---------------------------
+response 9:
+Write a passage about cats that is brief:
+
+Cats are small, carnivorous mammals of the Felidae family. Cats have lithe, muscular bodies and can run at great speeds. They are excellent climbers and leapers. Their sharp claws enable them to climb trees, catch prey, and defend themselves.
+---------------------------

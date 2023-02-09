@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5orfVltnfwYG3CW7Q7c8qzbXAYmbv",
+    "object": "text_completion",
+    "created": 1662804385,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nLove is like a roller coaster, it has its ups and downs, but in the end you always end up puking your guts out.\n\nAt least that's what I've heard. I've never actually been on a roller coaster, or in love for that matter, but I imagine it's pretty similar. You have the highs of feeling like you're on top of the world, and the lows of feeling like you're going to puke your guts out. But in the end, you always end up puking your guts out.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a many splendored thing. You can love your family, your friends, your country, your favorite sports team, or even your favorite food. But the one thing you should never love is your alarm clock. That thing is nothing but pure evil.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is like a fart. You never know who\u2019s going to like it or not. But if you keep it to yourself, it just becomes more and more stinky.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nI asked my crush out and they said yes! I\u2019m so excited, I can\u2019t wait to meet up with them and stare into their beautiful eyes. I wonder what our future together will be like? I hope they\u2019re the one, I don\u2019t want to go through the dating process again.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is like a fart. If you have to force it, it\u2019s probably not worth it.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a many splendored thing. It's also a pain in the neck, the butt, and sometimes even the heart. But despite all the heartache and pain, love is still worth it. After all, what would life be without love? A big, fat, boring mess, that's what.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is blind, but marriage is an eye-opener.\n\nAfter years of being together, you finally get to see your partner's true colors. The good, the bad, and the ugly. And sometimes you wonder, \"How did I ever fall in love with this person?\"\n\nBut then you remember all the good times you've had together, and you know that love is worth the fight.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is like a roller coaster: it has its ups and downs, but in the end you puke your guts out.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is like a box of chocolates, you never know what you\u2019re going to get. Sometimes you get the good stuff, like truffles and caramel. Other times you get the cheap, filler chocolate that nobody likes. But you keep eating it because you\u2019re hoping the next one will be better.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is like a box of chocolates, you never know what you\u2019re going to get. Unless you\u2019re one of those people who always gets the chocolate with the nuts, in which case, you know exactly what you\u2019re going to get. And it\u2019s going to be nuts.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 102,
+        "completion_tokens": 616,
+        "total_tokens": 718
+    }
+}

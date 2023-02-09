@@ -1,0 +1,50 @@
+response 0:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run anytime of day. I like to run on trails, but I'll run on the road if I have to. I always feel so good after I run.
+---------------------------
+response 1:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run anytime. I usually run outdoors, but I'll run on a treadmill if I have to. I think running is a great way to stay in shape.
+---------------------------
+response 2:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to get exercise. I usually run in the morning, but I'll run at night if I have time. I like to run on trails, but I'll run on the road if I have to. I always bring a water bottle with me when I run.
+---------------------------
+response 3:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run anytime of day. I usually run outdoors, but I'll run on a treadmill if I'm in a gym. I like to run long distances, but I'll run short distances if I'm short on time.
+---------------------------
+response 4:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite form of exercise. I usually run in the morning, but I'll run at night if I have the time. I like to run on the treadmill, but I'll run outside if the weather is nice. I always make sure to stretch before I run, because I don't want to get injured.
+---------------------------
+response 5:
+Write a paragraph with five sentences about running:
+
+Running is a great way to get exercise. It is also a great way to relieve stress. Running can be done indoors or outdoors. It is a great way to get fresh air and sunshine. Running is a great way to stay in shape.
+---------------------------
+response 6:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to exercise. I usually run in the morning, but I can run at any time of day. I usually run for about 30 minutes. I think running is a great way to stay in shape.
+---------------------------
+response 7:
+Write a paragraph with five sentences about running:
+
+I started running a few years ago and I absolutely love it. It's such a great way to get some exercise and clear your head at the same time. I usually go for a run in the morning, but sometimes I'll go for a run in the evening if I'm feeling stressed. I always feel so much better after a run.
+---------------------------
+response 8:
+Write a paragraph with five sentences about running:
+
+I love to run. It's my favorite way to exercise. I usually run in the morning, but I'll run anytime of day. I like to run outdoors, but I'll run on a treadmill if I have to. I always feel so good after I run.
+---------------------------
+response 9:
+Write a paragraph with five sentences about running:
+
+I love running. It's my favorite way to exercise. I usually go for a run in the morning, but I'll run anytime of day. I usually run around my neighborhood, but I'll run anywhere there's a good path. I always feel so good after a run.
+---------------------------

@@ -1,0 +1,5 @@
+response 0:
+Write a paragraph with ten sentences about cats:
+
+Cats are one of the most popular pets in the world. They are known for their independent nature, and their ability to be trained to use a litter box. Cats are also known for being very affectionate, and many people enjoy the companionship of a cat. Cats come in a variety of colors and patterns, and there are many different breeds of cats. Some people prefer long-haired cats, while others prefer short-haired cats. Cats can live for many years, and some have been known to live for over 20 years.
+---------------------------

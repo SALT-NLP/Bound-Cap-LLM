@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5orfi0HO8xp1Wa40RfhA1BxqlAUBR",
+    "object": "text_completion",
+    "created": 1662804398,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "\n\nLove is something that I am scared of. I don't know if I can handle the pain that comes with it. I have seen what it does to people and I don't want to end up like that. I am scared of getting my heart broken. I don't know if I can trust anyone with my heart.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is scary. It's like jumping out of a plane without a parachute. You're free falling and you have no control over what is happening. You're just hoping that someone will be there to catch you when you land. But sometimes people don't catch you. Sometimes they let you fall. And that's the most terrifying thing of all.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nI am afraid of what love will do to me. I have seen what it can do to people. It can make them weak and vulnerable. I don't want to be like that. I don't want to be controlled by my emotions. I want to be strong and independent. But I can feel myself losing control. I can feel myself falling for you. And I am scared of what will happen next.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is scary. It's something that can take over your life and consume you. It's something that can make you do things you never thought you would do. It's something that can make you weak. I am scared of love because I don't know if I can handle it. I don't know if I am strong enough to withstand the pain it can cause.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is a powerful emotion that can take over your life. It can make you do things you never thought you would do. It can make you lose yourself. It can make you forget who you are. It can make you forget what is important to you. It can make you do things you will regret.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nI am terrified of love. I have seen what it can do to people. I have seen how it can make them so vulnerable. They become dependent on the other person and will do anything for them. They will give up everything they have and risk everything they are for love. And in the end, it always seems to end in pain. I don't want to end up like that. I don't want to become a victim of love.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nI can feel my heart racing as I try to catch my breath. I feel like I am running out of time. My life is flashing before my eyes. I see all the things I have never done and all the things I will never get to do. I am scared of what is happening to me. I don't know how much longer I can hold on.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is something that I am scared of. I don't know if I can handle the pain that comes with it. I have seen what it does to people and I don't want to end up like that. I don't want to get my heart broken. I don't want to be hurt.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nI can feel my heart racing as I try to catch my breath. I feel like I am running out of time. My life is flashing before my eyes. I see all the things I have never done and all the things I will never get to do. I am scared of what is happening to me. I don't know how much longer I can hold on.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "\n\nLove is scary. It's like jumping off a cliff into the unknown. You are putting yourself out there, vulnerable to being hurt. You are trusting someone else with your heart. You are hoping that they will catch you when you fall. But what if they don't? What if they drop you and you shatter into a million pieces?",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 103,
+        "completion_tokens": 742,
+        "total_tokens": 845
+    }
+}

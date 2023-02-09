@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5wAMvuOLBg2nYXaB6MAkP0vMTNOxl",
+    "object": "text_completion",
+    "created": 1664544565,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a passage with ten paragraphs about running:\n\n1. Running is a great way to get exercise and stay in shape.\n\n2. It is also a great way to relieve stress and clear your mind.\n\n3. Running can be done anywhere, at any time, and with very little equipment.\n\n4. All you need is a good pair of running shoes and some comfortable clothes.\n\n5. You can start slowly by running for a few minutes at a time.\n\n6. As you get more fit, you can increase your running time and distance.\n\n7. There are many different ways to run, such as sprinting, jogging, or running intervals.\n\n8. You can also run with a partner or in a group.\n\n9. Running can be a competitive sport, but it is also a great way to just have fun.\n\n10. So get out there and start running today!",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 187,
+        "total_tokens": 196
+    }
+}

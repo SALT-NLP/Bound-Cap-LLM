@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about running:
+
+Running is a great way to get your exercise and feel good about yourself.
+---------------------------
+response 1:
+Write a sentence with ten words about running:
+
+Running is an amazing way to get your heart rate up and help burn calories. It can help you lose weight or improve your running technique.
+---------------------------
+response 2:
+Write a sentence with ten words about running:
+
+Running is a great way to get your heart rate up and increase your endurance.
+---------------------------
+response 3:
+Write a sentence with ten words about running:
+
+Running is a great way to get your heart rate up and help you get fit.
+---------------------------
+response 4:
+Write a sentence with ten words about running:
+
+Running is one of my favorite activities because it is so easy and I can do it anywhere.
+---------------------------
+response 5:
+Write a sentence with ten words about running:
+
+Running is a great way to get your heart rate up and help improve your endurance.
+---------------------------
+response 6:
+Write a sentence with ten words about running:
+
+Running is one of the best ways to get exercise and improve your mood. It is also a great way to get in shape for physical activity or work out.
+---------------------------
+response 7:
+Write a sentence with ten words about running:
+
+Running is a form of exercise that can help improve your cardiovascular health and fitness.
+---------------------------
+response 8:
+Write a sentence with ten words about running:
+
+Running is one of the best ways to stay fit and improve your health.
+---------------------------
+response 9:
+Write a sentence with ten words about running:
+
+Running is an excellent way to get your exercise. It is also an excellent way to stay healthy.
+---------------------------

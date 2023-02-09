@@ -1,0 +1,5 @@
+response 0:
+Write a paragraph with five sentences about Shanghai:
+
+Shanghai is one of the most populous cities in the world. It is the largest city in China in terms of population and one of the largest in the world. Shanghai is a global city, with a rich history and a bright future. It is a major financial center and a hub for trade and commerce. Shanghai is also a popular tourist destination, with a variety of attractions to see and things to do.
+---------------------------

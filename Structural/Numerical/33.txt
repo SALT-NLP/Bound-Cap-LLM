@@ -1,0 +1,114 @@
+response 0:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai is the most populous city in China and one of the most populous cities in the world. A global city, Shanghai exerts a significant impact upon commerce, finance, culture, art, fashion, research and entertainment. It is a major financial center and the busiest container port in the world.
+
+Shanghai's history dates back over a thousand years. It was a fishing village during the Song Dynasty, but developed into a major trading port during the Ming and Qing Dynasties. Shanghai became a treaty port in 1842, and the International Settlement was established in 1843. The French concession was established in 1849, and the British concession in 1854.
+
+During the First Opium War, the British occupied Shanghai. The Second Opium War resulted in the Treaty of Nanking, which opened Shanghai to foreign trade. The city grew rapidly during the 19th and early 20th centuries, and became a major center of industry and commerce.
+
+The Communist Party took control of Shanghai in 1949, and the city was renamed Shanghai Municipality. Economic reforms began in 1992, and Shanghai has since become a global financial center. The city has a developed economy, with a per capita GDP of US$25,000.
+
+Shanghai is a major tourist destination, with over 24 million visitors in 2016. The city is home to a number of historical landmarks, including the Bund, City God Temple, Yu Garden, and Oriental Pearl Tower. Shanghai is also a major center of culture and art, with a number of museums, galleries, and theaters.
+---------------------------
+response 1:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a population of more than 24 million as of 2014. It is a global financial center, and a transport hub with the world's busiest container port. Located in the Yangtze River Delta in East China, Shanghai sits on the south edge of the mouth of the Yangtze in the middle portion of the Chinese coast. The municipality borders the provinces of Jiangsu and Zhejiang to the north, south and west, and is bounded to the east by the East China Sea.
+
+The city was one of five treaty ports forced open to foreign trade following the British victory over China in the First Opium War. The subsequent 1842 Treaty of Nanking and 1844 Treaty of Whampoa allowed the establishment of the Shanghai International Settlement and the French Concession. The city then flourished as a center of commerce between Asia and the West, and became the primary financial hub of the Asia-Pacific region in the 1930s. During the World War II, the city was the site of the major Battle of Shanghai. After the war, with the Communist Party takeover of the mainland in 1949, trade was limited to other socialist countries, and the city's global influence declined. In the 1990s, the economic reforms introduced by Deng Xiaoping resulted in an intense re-development of the city, aiding the return of finance and foreign investment to the city.
+
+Shanghai's status as a global city has attracted a large number of migrants from across China and other parts of the world. The 2010 census recorded more than 24 million people with 143 nationalities living in the city, making it the largest concentration of ethnic Chinese outside of China. Shanghai is a popular tourist destination, renowned for its historic landmarks such as the Bund, City God Temple and Yu Garden, as well as the extensive Pudong skyline, particularly the Oriental Pearl Tower.
+
+Shanghai has been described as the "showpiece" of the booming economy of mainland China. A leading global city, Shanghai exerts influence over global commerce, finance, culture, art, fashion, research and entertainment. It has been described as the "Basketball City" for its obsession with the sport, and is also considered a fashion capital of the world. The city hosted the 2010 Shanghai Expo, one of the largest international expositions in history.
+---------------------------
+response 2:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai, located on the east coast of China, is one of the most populous cities in the world with over 24 million people. A global financial center, Shanghai has the busiest container port in the world. The city is also a popular tourist destination for its many historical sites and modern skyline.
+
+Shanghai's history dates back over 1,000 years. It was a small fishing village during the Song Dynasty, but became an important trading port during the Ming Dynasty. Shanghai became a British colony in the 19th century and was opened to foreign trade. The city rapidly developed and became a major metropolis during the 20th century.
+
+Today, Shanghai is a modern and cosmopolitan city. It is home to a variety of architectural styles, including traditional Chinese, Art Deco, and Postmodern. The city also has a thriving arts and culture scene. Shanghai is also known for its food, which includes both local Chinese and international cuisine.
+
+If you're looking to experience all that Shanghai has to offer, there's no better place to start than the Bund. This iconic waterfront area is home to some of the city's most popular attractions, including the Oriental Pearl Tower and the Old Shanghai French Concession.
+
+Whether you're interested in its history, culture, food, or architecture, Shanghai is a city that has something for everyone.
+---------------------------
+response 3:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai is one of the most populous cities in the world, with over 24 million people in its metropolitan area. It is also one of the most important financial centers in China, and has been called the "New York of the East."
+
+Shanghai is located on the Huangpu River, in eastern China. It is the largest city in China by population, and the largest city proper in the world. Shanghai is a global city, with a long history of international trade and investment.
+
+Shanghai is a major transportation hub, with both an airport and a seaport. It is also home to a large number of universities and research institutes.
+
+The city of Shanghai is divided into two parts: the older, central area, called the French Concession; and the newer, outer area, called Pudong. Pudong is home to many of the city's tallest buildings, including the Shanghai World Financial Center.
+
+Shanghai is a fascinating city with a rich history and a bright future. It is a great place to live, work, and study, and is sure to continue to grow and prosper in the years to come.
+---------------------------
+response 4:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai, located on the east coast of China, is one of the most populous cities in the world with over 24 million people. Considered the financial hub of China, Shanghai is a cosmopolitan city with a rich history dating back over a thousand years.
+
+The city is home to a diverse population, with many residents coming from all over China and the world. Shanghai is also a major tourist destination, with visitors coming to experience its unique culture and architecture.
+
+Some of the most popular attractions in Shanghai include the Bund, a waterfront area with colonial-era buildings; the French Concession, a former French colony with tree-lined streets; and the Yu Garden, a traditional Chinese garden.
+
+Shanghai is also a food lover’s paradise, with a wide variety of cuisines to choose from. Whether you’re looking for street food, fine dining, or anything in between, you’ll be sure to find it in Shanghai.
+
+If you’re planning a trip to China, be sure to add Shanghai to your itinerary. You won’t be disappointed.
+---------------------------
+response 5:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai is one of the four direct-controlled municipalities of China and the most populous city proper in the world, with a population of more than 24 million as of 2014. It is a global financial center, and a transport hub with the world's busiest container port. Located in the Yangtze River Delta in East China, Shanghai sits on the south end of the Chinese mainland, with the Huangpu River flowing through it. The city is administered as a single Chinese district, and is divided into 16 towns and four counties.
+
+Shanghai's history dates back over a thousand years, and it has been one of China's most important and prosperous cities for much of that time. A center of trade and commerce in the 19th century, Shanghai became one of the world's leading financial centers in the early 20th century. It was also a hotbed of intellectual and artistic activity, and was home to a number of important writers and thinkers, including Lu Xun, Mao Zedong, and Chen Duxiu.
+
+Shanghai was occupied by Japan in 1937, and remained under Japanese control until the end of World War II. In the years following the war, the city became a major center of the Chinese Communist Party, and was the site of a number of important events in the history of the party and the People's Republic of China. Today, Shanghai is a major economic, financial, and cultural center, and is one of the most important cities in China and in the world.
+---------------------------
+response 6:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai, located on China's central coast, is the country's largest city and a global financial center. A vibrant metropolis, Shanghai is a Popular tourist destination known for its historical landmarks such as The Bund, City God Temple, and Yu Garden as well as its extensive shopping options.
+
+Shanghai's history dates back over 1,000 years. The city was a small fishing village during the Song Dynasty (960-1279), but it grew into an important trading port during the Ming Dynasty (1368-1644). Shanghai became a treaty port in 1842, and the city's international character was further reinforced by the establishment of the Shanghai International Settlement in 1864.
+
+After the Communist Party took control of China in 1949, Shanghai remained a key economic and cultural center. In the 1990s, the Chinese government began to reform the economy, and Shanghai became one of the first cities to benefit from these changes. Today, Shanghai is a leading global financial center and a major transportation hub.
+
+Despite its modern skyline, Shanghai still retains a strong sense of its history and culture. The city is home to a number of traditional Chinese temples, parks, and gardens. Shanghai also has a vibrant nightlife scene, with a wide variety of bars, clubs, and restaurants to suit every taste.
+
+Whether you're interested in exploring its rich history or simply want to enjoy its cosmopolitan atmosphere, Shanghai is a city that has something for everyone.
+---------------------------
+response 7:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai is one of the most populous cities in the world, with over 24 million people. It is a global financial center, and has been called the "New York of the East." Shanghai is a major cultural center, with many museums, art galleries, and theaters. It is also home to a number of universities, including Fudan University and Shanghai Jiao Tong University. Shanghai is a major transportation hub, with an international airport, a busy port, and a high-speed rail network. The city is also home to a number of Fortune 500 companies, including China Eastern Airlines and Huawei.
+---------------------------
+response 8:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai is one of the most popular tourist destinations in China. The city is renowned for its unique blend of East and West, its rich history, and its modern skyline.
+
+Shanghai is a bustling metropolis with a population of over 24 million. The city is home to a variety of cultures and ethnicities, making it a truly cosmopolitan destination. Visitors can enjoy traditional Chinese architecture and cuisine, as well as Western influences such as skyscrapers and international cuisine.
+
+Shanghai has a long and rich history dating back over 2,000 years. The city was once the capital of the Ming and Qing Dynasties, and has been a major center of trade and commerce for centuries. Today, Shanghai is a major financial hub and is home to the Shanghai Stock Exchange.
+
+The city of Shanghai is divided into two parts: the older, more traditional Puxi area, and the newer, more modern Pudong area. Puxi is home to the majority of the city's historical landmarks and tourist attractions, while Pudong is the center of the city's financial district.
+
+No visit to Shanghai is complete without a trip to the top of the Oriental Pearl Tower, one of the tallest buildings in Asia. From the observation deck, visitors can enjoy panoramic views of the cityscape. Other popular tourist attractions include the Bund, Yu Garden, and Nanjing Road.
+---------------------------
+response 9:
+Write a passage with five paragraphs about Shanghai:
+
+Shanghai, located on the east coast of China, is one of the world's most populous cities. With a population of over 24 million people, it is the largest city in China and the largest metropolis in the world.
+
+Shanghai is a global financial center and the busiest container port in the world. The city is home to many of China's largest companies and banks, as well as the Shanghai Stock Exchange.
+
+Shanghai is also a popular tourist destination, with its many historical landmarks and modern skyscrapers. The city is also known for its vibrant nightlife and its many luxury hotels and restaurants.
+
+Shanghai is a city of contrasts, with its old and modern architecture, its traditional and cosmopolitan culture, and its many different neighborhoods. It is a city that is constantly changing and evolving, and one that always has something new to offer.
+---------------------------

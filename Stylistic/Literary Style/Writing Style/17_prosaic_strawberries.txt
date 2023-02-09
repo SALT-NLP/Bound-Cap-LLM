@@ -1,0 +1,50 @@
+response 0:
+Write a prosaic passage about strawberries:
+
+The strawberry is a delicious fruit that can be enjoyed in many different ways. It can be eaten fresh, in a salad, or in a dessert. It is also a popular flavor for yogurt, ice cream, and other desserts.
+---------------------------
+response 1:
+Write a prosaic passage about strawberries:
+
+The strawberries were a deep red, the color of summer. They were plump and juicy, with a sweetness that was almost too much. I couldn't help but eat one, even though I knew I shouldn't. The juice stained my lips and my fingers, and I didn't care.
+---------------------------
+response 2:
+Write a prosaic passage about strawberries:
+
+The strawberry is a fruit that is enjoyed by many people. It is a small, red fruit that is often eaten with cream or sugar. The strawberry is a member of the rose family and is native to Europe. Strawberries are a good source of Vitamin C and are often used in desserts.
+---------------------------
+response 3:
+Write a prosaic passage about strawberries:
+
+I love strawberries! They are my favorite fruit. I always have to have some in my house. I buy them at the store, or I pick them myself if they are in season. I love to eat them plain, or I put them in my cereal or on top of my ice cream. Yum!
+---------------------------
+response 4:
+Write a prosaic passage about strawberries:
+
+In the early morning, the sun just peeking over the horizon, the dew still fresh on the ground, I walk out to the strawberry patch. Rows and rows of green plants, with the occasional red fruit dotting the foliage, stretch out before me. I bend down, gently cupping a ripe strawberry in my hand, and pull it off the plant. The fruit is warm from the sun, and the sweetness explodes in my mouth as I bite into it. I can't help but smile as I eat strawberry after strawberry, enjoying the taste of summer.
+---------------------------
+response 5:
+Write a prosaic passage about strawberries:
+
+The strawberries are red and ripe, and they look delicious. I can't wait to eat them!
+---------------------------
+response 6:
+Write a prosaic passage about strawberries:
+
+Strawberries are small, red fruits that are often eaten as a snack or dessert. They are a source of Vitamin C and are low in calories. Strawberries are a popular choice for many people because of their sweetness and taste.
+---------------------------
+response 7:
+Write a prosaic passage about strawberries:
+
+The sweet, red fruit is a summertime staple. Plump and juicy, they are perfect for eating out of hand, using in fruit salads, or for making jams and pies.
+---------------------------
+response 8:
+Write a prosaic passage about strawberries:
+
+The strawberries are red and ripe, and they smell sweet. I can't wait to eat them!
+---------------------------
+response 9:
+Write a prosaic passage about strawberries:
+
+The strawberry is a fruit that is enjoyed by many people. It is a red fruit that has a sweet taste. The strawberry is a good source of Vitamin C. It is also a good source of fiber.
+---------------------------

@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about love:
+
+When two hearts are meant for each other, love will find a way.
+---------------------------
+response 1:
+Write a sentence with twenty words about love:
+
+Love is a strong, passionate emotion felt between two people who are attracted to each other.
+---------------------------
+response 2:
+Write a sentence with twenty words about love:
+
+Love is a strong, passionate emotion felt between two people who are attracted to each other.
+---------------------------
+response 3:
+Write a sentence with twenty words about love:
+
+I wake up thinking about you and go to sleep with you on my mind.
+---------------------------
+response 4:
+Write a sentence with twenty words about love:
+
+Love is a feeling of strong attachment or admiration and caring for someone or something.
+---------------------------
+response 5:
+Write a sentence with twenty words about love:
+
+Love is an emotion that is felt when a person is attracted to another person and feels a strong emotional connection with that person.
+---------------------------
+response 6:
+Write a sentence with twenty words about love:
+
+Love is a strong, passionate emotion felt between two people who are attracted to each other.
+---------------------------
+response 7:
+Write a sentence with twenty words about love:
+
+I love spending time with my family and friends.
+---------------------------
+response 8:
+Write a sentence with twenty words about love:
+
+When two hearts are united by love, they share a single purpose.
+---------------------------
+response 9:
+Write a sentence with twenty words about love:
+
+Love is the most amazing feeling in the world.
+---------------------------

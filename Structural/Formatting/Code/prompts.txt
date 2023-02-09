@@ -1,0 +1,8 @@
+Code Python code that plays the game of war:
+Code Python code that sums two integers up:
+Code C code that plays the game of war:
+Code C code that sums two integers up:
+Write Python code that plays the game of war:
+Write Python code that sums two integers up:
+Write C code that plays the game of war:
+Write C code that sums two integers up:

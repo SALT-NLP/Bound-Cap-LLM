@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wA4e8ygG7iazRf5mwI9j7H1z5hbV",
+    "object": "text_completion",
+    "created": 1664543432,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI wake up at six every morning, lace up my shoes, and head out the door. I love the feeling of the wind rushing past me and the sun shining on my face. I can forget all my troubles when I'm out on a run. I always feel better after a good run.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI enjoy running because it gives me time to clear my head. It's also a great way to get exercise. I like to run in the morning, before the day gets too busy. I usually run for about 30 minutes. After I run, I feel refreshed and ready to start my day.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nRunning is one of the most popular forms of exercise because it is relatively easy to do and requires no special equipment. It is a great way to get your heart rate up and improve your cardiovascular health. Additionally, running can help to improve your mood and reduce stress levels. Finally, running is a great way to get outside and enjoy the fresh air.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI love to run. It's my favorite way to get exercise. I usually go for a run in the morning, but I'll run anytime of day. I don't need any special equipment to go for a run, just a good pair of running shoes.Running is a great way to clear your head and relieve stress.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nRunning is a cardiovascular exercise that has many benefits for the body. It is an effective way to burn calories and can help to improve heart health. Running is also a low-impact exercise, which means it is easy on the joints. In addition, running can help to improve mood and can be a great way to reduce stress.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI love to run. It's my favorite form of exercise. I can do it anywhere, anytime. I don't need any special equipment. Just a good pair of running shoes. I find it to be a great stress reliever.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI love to run. It's my favorite form of exercise. I can run anywhere, anytime. I don't need any special equipment. I just put on my running shoes and go.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI ran cross country in high school. It was a lot of fun. I miss it sometimes. I never was very fast, but I always tried my best. I even ran in a few races after high school.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI love to run. It's my favorite way to stay in shape. I usually run in the morning, but sometimes I'll go for a run in the evening. I usually run around my neighborhood, but sometimes I'll go to the park. I always feel so good after I've been for a run.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a paragraph with five sentences about running:\n\nI started running because I wanted to get in shape. I never realized how much I would enjoy it. Now, I can't imagine not running. It's a great way to relieve stress and clear my head. I highly recommend it to anyone looking for a new hobby.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 589,
+        "total_tokens": 598
+    }
+}

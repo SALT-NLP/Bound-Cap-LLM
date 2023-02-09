@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAJkWQAaJAC8mpMqD2E77I5DcDzb",
+    "object": "text_completion",
+    "created": 1664544368,
+    "model": "text-curie-001",
+    "choices": [
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a bustling city with a rich history. It is a popular tourist destination and is known for its traditional Cantonese and Shanghai dialects.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a bustling city with a rich history. It is known for its luxurious hotels and shopping districts.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nThe city is a bustling metropolis that is home to many different cultures and people.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is one of the most beautiful cities in the world.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nThe city is bustling with activity, and it's a great place to explore. There's so much to see and do, and it's always full of life.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is a bustling city with a rich history.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is one of the most densely populated cities in the world.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nThe city is bustling with people and activity.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nThe city was founded in 1275 and is one of the most populous cities in the world.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with five words about Shanghai:\n\nShanghai is one of China's most vibrant and cosmopolitan cities.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 209,
+        "total_tokens": 218
+    }
+}

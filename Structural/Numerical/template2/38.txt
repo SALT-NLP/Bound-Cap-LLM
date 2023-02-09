@@ -1,0 +1,50 @@
+response 0:
+Write a sentence about Elon Musk with 20 words:
+
+He is an entrepreneur and business magnate who co-founded PayPal.
+---------------------------
+response 1:
+Write a sentence about Elon Musk with 20 words:
+
+Elon Musk is the founder, CEO and CTO of SpaceX.
+---------------------------
+response 2:
+Write a sentence about Elon Musk with 20 words:
+
+Elon Musk is the founder of SpaceX and Tesla.
+---------------------------
+response 3:
+Write a sentence about Elon Musk with 20 words:
+
+He is an entrepreneur and business magnate who co-founded PayPal.
+---------------------------
+response 4:
+Write a sentence about Elon Musk with 20 words:
+
+Elon Musk is an entrepreneur and business magnate.
+---------------------------
+response 5:
+Write a sentence about Elon Musk with 20 words:
+
+Elon Musk is the founder, CEO and CTO of SpaceX.
+---------------------------
+response 6:
+Write a sentence about Elon Musk with 20 words:
+
+Elon Musk is the founder, CEO and CTO of SpaceX.
+---------------------------
+response 7:
+Write a sentence about Elon Musk with 20 words:
+
+He is an entrepreneur and business magnate who co-founded PayPal.
+---------------------------
+response 8:
+Write a sentence about Elon Musk with 20 words:
+
+He is an entrepreneur and business magnate who co-founded PayPal.
+---------------------------
+response 9:
+Write a sentence about Elon Musk with 20 words:
+
+Elon Musk is an entrepreneur and business magnate.
+---------------------------

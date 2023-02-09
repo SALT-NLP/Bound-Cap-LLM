@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5w7gufUpnTBQYbcvgCkW5eEOeQOiO",
+    "object": "text_completion",
+    "created": 1664534272,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI love to run because it makes me feel alive and free.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI love to run because it makes me feel free and alive.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI never tire of the feeling of my feet hitting the ground as I run.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI never get tired of the feeling of the wind in my hair while I'm running.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI love feeling the wind in my hair as I run.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI love the feeling of the wind in my hair as I run.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI enjoy running because it helps me clear my head and relax.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI love to run because it makes me feel free and alive.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI enjoy running because it helps me to stay in shape.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about running:\n\nI run because it makes me feel good.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 153,
+        "total_tokens": 162
+    }
+}

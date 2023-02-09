@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with five words about cats:
+
+They are cute, fluffy creatures that can hold their own against most people.
+---------------------------
+response 1:
+Write a sentence with five words about cats:
+
+A cat is a curious and playful creature that loves to explore new surroundings. They are also one of the most loyal andprotective animals.
+---------------------------
+response 2:
+Write a sentence with five words about cats:
+
+She's a tiny cat with a big personality. She loves to play and curl up on her bed.
+---------------------------
+response 3:
+Write a sentence with five words about cats:
+
+She purred and meowed, always happy to be in the company of her best friends.
+---------------------------
+response 4:
+Write a sentence with five words about cats:
+
+I love cats because they are so adorable and so playful.
+---------------------------
+response 5:
+Write a sentence with five words about cats:
+
+Cats are curious, independent, and playful. They love to play and explore their environment.
+---------------------------
+response 6:
+Write a sentence with five words about cats:
+
+A cat is a web of fur, whiskers, and a love life that is often unpredictable.
+---------------------------
+response 7:
+Write a sentence with five words about cats:
+
+Cats are the most independent and curious creatures on the planet. They love to explore and will try anything that comes their way. They are good with kids and can be very lovable, but can also be quite independent.
+---------------------------
+response 8:
+Write a sentence with five words about cats:
+
+They're independent animals and can be quite playful, but they can also be quite sweet and cuddly.
+---------------------------
+response 9:
+Write a sentence with five words about cats:
+
+Cats are interesting creatures. They have a lot of personality and can be quite entertaining.
+---------------------------

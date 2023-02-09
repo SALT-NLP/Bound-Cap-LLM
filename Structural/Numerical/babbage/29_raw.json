@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5wAFtVzs3zIqrklztfLoIeBeN3raN",
+    "object": "text_completion",
+    "created": 1664544129,
+    "model": "text-babbage-001",
+    "choices": [
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a major center for business and industry in China. The city is home to a large number of Chinese companies and has a strong presence in the global economy.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is the most important city in China and the most populous city in the world. It is also the most developed city in China. Shanghai has a rich history and is home to many of the world's largest shopping malls, financial markets, and entertainment complexes.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a large city with a rich history. It is known for its shopping districts and for its many tourist attractions.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city in eastern China with a population of over 21 million. It is the largest city in China by area and the third most populous city in China. The city is located in the eastern part of the country and is bordered by Beijing to the north, Guangdong Province to the east, and Jiangsu Province to the south. The Yangtze River forms the city's eastern border.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is one of the most populous cities in China. It is located in the Yangtze River Delta and has a population of over 11 million people. Shanghai is a commercial and financial center for China.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a world-renowned financial center and the most populous city in China. The city is a major commercial, cultural, and transportation center, and it is the most important center of education, art, and industry in China.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is one of the most vibrant metropolises in China. With a population of over 10 million, it is the most economically and politically active city in the country. The city is home to both the Shanghai International Expo Center and the Shanghai Tower, one of the world's tallest structures.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\nShanghai is a city located in southern China. It is the largest city in the People's Republic of China and the world's most populous city by population. The city is known for its skyscrapers, for its cosmopolitan culture, and for its tightly controlled environment.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\n Shanghai is an important city in China. It is the capital of the Peoples Republic of China and the most populous city in the world. The city is known for its beautiful canals, its art galleries, and its shopping malls.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a sentence with twenty words about Shanghai:\n\n Shanghai is a large and exciting city with a rich history. It is home to some of the world's most famous luxury brands and is a great place to find work or study.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 510,
+        "total_tokens": 519
+    }
+}

@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 1:
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is the genius behind Tesla, SpaceX, The Boring Company, and so much more.
+---------------------------
+response 2:
+Write a sentence with twenty words about Elon Musk:
+
+Inventor, industrial designer, and entrepreneur Elon Musk is the founder, CEO, and CTO of SpaceX.
+---------------------------
+response 3:
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 4:
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 5:
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors.
+---------------------------
+response 6:
+Write a sentence with twenty words about Elon Musk:
+
+He is the co-founder, CEO and product architect of Tesla Motors.
+---------------------------
+response 7:
+Write a sentence with twenty words about Elon Musk:
+
+He is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 8:
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
+response 9:
+Write a sentence with twenty words about Elon Musk:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity.
+---------------------------
